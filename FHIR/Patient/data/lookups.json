@@ -1,0 +1,6424 @@
+{
+ "collection_method": {
+  "entries": {
+   "1": {
+    "zero": "SELF IDENTIFICATION^S^SLF^^S"
+   },
+   "2": {
+    "zero": "PROXY^P^PRX^^P"
+   },
+   "3": {
+    "zero": "OBSERVER^O^OBS^^O"
+   },
+   "4": {
+    "zero": "UNKNOWN^U^UNK^^U"
+   }
+  },
+  "file": "10.3",
+  "source": "Packages/Registration/Globals/10.3+RACE AND ETHNICITY COLLECTION METHOD.zwr"
+ },
+ "country": {
+  "entries": {
+   "1": {
+    "zero": "USA^United States"
+   },
+   "10": {
+    "zero": "ATG^Antigua and Barbuda"
+   },
+   "100": {
+    "zero": "HUN^Hungary"
+   },
+   "101": {
+    "zero": "ISL^Iceland"
+   },
+   "102": {
+    "zero": "IND^India"
+   },
+   "103": {
+    "zero": "IDN^Indonesia"
+   },
+   "104": {
+    "zero": "IRN^Iran"
+   },
+   "105": {
+    "zero": "IRQ^Iraq"
+   },
+   "106": {
+    "zero": "IRL^Ireland"
+   },
+   "107": {
+    "zero": "ISR^Israel"
+   },
+   "108": {
+    "zero": "ITA^Italy"
+   },
+   "109": {
+    "zero": "CIV^C\ufffdte d'Ivoire"
+   },
+   "11": {
+    "zero": "AZE^Azerbaijan"
+   },
+   "110": {
+    "zero": "JAM^Jamaica"
+   },
+   "111": {
+    "zero": "JPN^Japan"
+   },
+   "112": {
+    "zero": "KAZ^Kazakhstan"
+   },
+   "113": {
+    "zero": "JOR^Jordan"
+   },
+   "114": {
+    "zero": "KEN^Kenya"
+   },
+   "115": {
+    "zero": "PRK^Korea, North"
+   },
+   "116": {
+    "zero": "KOR^Korea, South"
+   },
+   "117": {
+    "zero": "KWT^Kuwait"
+   },
+   "118": {
+    "zero": "KGZ^Kyrgyzstan"
+   },
+   "119": {
+    "zero": "LAO^Laos"
+   },
+   "12": {
+    "zero": "ARG^Argentina"
+   },
+   "120": {
+    "zero": "LBN^Lebanon"
+   },
+   "121": {
+    "zero": "LSO^Lesotho"
+   },
+   "122": {
+    "zero": "LVA^Latvia"
+   },
+   "123": {
+    "zero": "LBR^Liberia"
+   },
+   "124": {
+    "zero": "LBY^Libya"
+   },
+   "125": {
+    "zero": "LIE^Liechtenstein"
+   },
+   "126": {
+    "zero": "LTU^Lithuania"
+   },
+   "127": {
+    "zero": "LUX^Luxembourg"
+   },
+   "128": {
+    "zero": "MAC^Macao"
+   },
+   "129": {
+    "zero": "MDG^Madagascar"
+   },
+   "13": {
+    "zero": "AUS^Australia"
+   },
+   "130": {
+    "zero": "MWI^Malawi"
+   },
+   "131": {
+    "zero": "MYS^Malaysia"
+   },
+   "132": {
+    "zero": "MDV^Maldives"
+   },
+   "133": {
+    "zero": "MLI^Mali"
+   },
+   "134": {
+    "zero": "MLT^Malta"
+   },
+   "135": {
+    "zero": "MTQ^Martinique"
+   },
+   "136": {
+    "zero": "MRT^Mauritania"
+   },
+   "137": {
+    "zero": "MUS^Mauritius"
+   },
+   "138": {
+    "zero": "MEX^Mexico"
+   },
+   "139": {
+    "zero": "MCO^Monaco"
+   },
+   "14": {
+    "zero": "AUT^Austria"
+   },
+   "140": {
+    "zero": "MNG^Mongolia"
+   },
+   "141": {
+    "zero": "MDA^Moldova"
+   },
+   "142": {
+    "zero": "MSR^Montserrat"
+   },
+   "143": {
+    "zero": "MAR^Morocco"
+   },
+   "144": {
+    "zero": "MOZ^Mozambique"
+   },
+   "145": {
+    "zero": "OMN^Oman"
+   },
+   "146": {
+    "zero": "NAM^Namibia"
+   },
+   "147": {
+    "zero": "NRU^Nauru"
+   },
+   "148": {
+    "zero": "NPL^Nepal"
+   },
+   "149": {
+    "zero": "NLD^Netherlands"
+   },
+   "15": {
+    "zero": "BHS^Bahamas"
+   },
+   "150": {
+    "zero": "ANT^Netherlands Antilles"
+   },
+   "151": {
+    "zero": "ABW^Aruba"
+   },
+   "152": {
+    "zero": "NCL^New Caledonia"
+   },
+   "153": {
+    "zero": "VUT^Vanuatu"
+   },
+   "154": {
+    "zero": "NZL^New Zealand"
+   },
+   "155": {
+    "zero": "NIC^Nicaragua"
+   },
+   "156": {
+    "zero": "NER^Niger"
+   },
+   "157": {
+    "zero": "NGA^Nigeria"
+   },
+   "158": {
+    "zero": "NIU^Niue"
+   },
+   "159": {
+    "zero": "NFK^Norfolk Island"
+   },
+   "16": {
+    "zero": "BHR^Bahrain"
+   },
+   "160": {
+    "zero": "NOR^Norway"
+   },
+   "161": {
+    "zero": "FSM^Micronesia"
+   },
+   "162": {
+    "zero": "PAK^Pakistan"
+   },
+   "163": {
+    "zero": "PAN^Panama"
+   },
+   "164": {
+    "zero": "PNG^Papua New Guinea"
+   },
+   "165": {
+    "zero": "PRY^Paraguay"
+   },
+   "166": {
+    "zero": "PER^Peru"
+   },
+   "167": {
+    "zero": "PHL^Philippines"
+   },
+   "168": {
+    "zero": "PCN^Pitcairn"
+   },
+   "169": {
+    "zero": "POL^Poland"
+   },
+   "17": {
+    "zero": "BGD^Bangladesh"
+   },
+   "170": {
+    "zero": "PRT^Portugal"
+   },
+   "171": {
+    "zero": "GNB^Guinea-Bissau"
+   },
+   "172": {
+    "zero": "TLS^Timor-Leste"
+   },
+   "173": {
+    "zero": "QAT^Qatar"
+   },
+   "174": {
+    "zero": "REU^R\ufffdunion"
+   },
+   "175": {
+    "zero": "ROU^Romania"
+   },
+   "176": {
+    "zero": "RUS^Russian Federation"
+   },
+   "177": {
+    "zero": "RWA^Rwanda"
+   },
+   "178": {
+    "zero": "SHN^Saint Helena"
+   },
+   "179": {
+    "zero": "KNA^Saint Kitts and Nevis"
+   },
+   "18": {
+    "zero": "ARM^Armenia"
+   },
+   "180": {
+    "zero": "AIA^Anguilla"
+   },
+   "181": {
+    "zero": "LCA^Saint Lucia"
+   },
+   "182": {
+    "zero": "SPM^Saint Pierre and Miquelon"
+   },
+   "183": {
+    "zero": "VCT^Saint Vincent and the Grenadines"
+   },
+   "184": {
+    "zero": "SMR^San Marino"
+   },
+   "185": {
+    "zero": "STP^Sao Tome and Principe"
+   },
+   "186": {
+    "zero": "SAU^Saudi Arabia"
+   },
+   "187": {
+    "zero": "SEN^Senegal"
+   },
+   "188": {
+    "zero": "SYC^Seychelles"
+   },
+   "189": {
+    "zero": "SLE^Sierra Leone"
+   },
+   "19": {
+    "zero": "BRB^Barbados"
+   },
+   "190": {
+    "zero": "SGP^Singapore"
+   },
+   "191": {
+    "zero": "SVK^Slovakia"
+   },
+   "192": {
+    "zero": "VNM^Viet Nam"
+   },
+   "193": {
+    "zero": "SVN^Slovenia"
+   },
+   "194": {
+    "zero": "SOM^Somalia"
+   },
+   "195": {
+    "zero": "ZAF^South Africa"
+   },
+   "196": {
+    "zero": "ZWE^Zimbabwe"
+   },
+   "197": {
+    "zero": "ESP^Spain"
+   },
+   "198": {
+    "zero": "ESH^Western Sahara"
+   },
+   "199": {
+    "zero": "SDN^Sudan"
+   },
+   "20": {
+    "zero": "BEL^Belgium"
+   },
+   "200": {
+    "zero": "SUR^Suriname"
+   },
+   "201": {
+    "zero": "SWZ^Swaziland"
+   },
+   "202": {
+    "zero": "SWE^Sweden"
+   },
+   "203": {
+    "zero": "CHE^Switzerland"
+   },
+   "204": {
+    "zero": "SYR^Syrian Arab Republic"
+   },
+   "205": {
+    "zero": "TJK^Tajikistan"
+   },
+   "206": {
+    "zero": "THA^Thailand"
+   },
+   "207": {
+    "zero": "TGO^Togo"
+   },
+   "208": {
+    "zero": "TKL^Tokelau"
+   },
+   "209": {
+    "zero": "TON^Tonga"
+   },
+   "21": {
+    "zero": "BMU^Bermuda"
+   },
+   "210": {
+    "zero": "TTO^Trinidad and Tobago"
+   },
+   "211": {
+    "zero": "ARE^United Arab Emirates"
+   },
+   "212": {
+    "zero": "TUN^Tunisia"
+   },
+   "213": {
+    "zero": "TUR^Turkey"
+   },
+   "214": {
+    "zero": "TKM^Turkmenistan"
+   },
+   "215": {
+    "zero": "TCA^Turks and Caicos Islands"
+   },
+   "216": {
+    "zero": "TUV^Tuvalu"
+   },
+   "217": {
+    "zero": "UGA^Uganda"
+   },
+   "218": {
+    "zero": "UKR^Ukraine"
+   },
+   "219": {
+    "zero": "MKD^Macedonia"
+   },
+   "22": {
+    "zero": "BTN^Bhutan"
+   },
+   "220": {
+    "zero": "EGY^Egypt"
+   },
+   "221": {
+    "zero": "GBR^United Kingdom"
+   },
+   "222": {
+    "zero": "TZA^Tanzania"
+   },
+   "223": {
+    "zero": "BFA^Burkina Faso"
+   },
+   "224": {
+    "zero": "URY^Uruguay"
+   },
+   "225": {
+    "zero": "UZB^Uzbekistan"
+   },
+   "226": {
+    "zero": "VEN^Venezuela"
+   },
+   "227": {
+    "zero": "WLF^Wallis and Futuna Islands"
+   },
+   "228": {
+    "zero": "YEM^Yemen"
+   },
+   "229": {
+    "zero": "SCG^Serbia and Montenegro"
+   },
+   "23": {
+    "zero": "BOL^Bolivia"
+   },
+   "230": {
+    "zero": "ZMB^Zambia"
+   },
+   "24": {
+    "zero": "BIH^Bosnia and Herzegovina"
+   },
+   "25": {
+    "zero": "BWA^Botswana"
+   },
+   "26": {
+    "zero": "BVT^Bouvet Island"
+   },
+   "27": {
+    "zero": "BRA^Brazil"
+   },
+   "28": {
+    "zero": "BLZ^Belize"
+   },
+   "29": {
+    "zero": "IOT^British Indian Ocean Territory"
+   },
+   "30": {
+    "zero": "SLB^Solomon Islands"
+   },
+   "31": {
+    "zero": "VGB^Virgin Islands, British"
+   },
+   "32": {
+    "zero": "BRN^Brunei Darussalam"
+   },
+   "33": {
+    "zero": "BGR^Bulgaria"
+   },
+   "34": {
+    "zero": "MMR^Myanmar"
+   },
+   "35": {
+    "zero": "BDI^Burundi"
+   },
+   "36": {
+    "zero": "BLR^Belarus"
+   },
+   "37": {
+    "zero": "KHM^Cambodia"
+   },
+   "38": {
+    "zero": "CMR^Cameroon"
+   },
+   "39": {
+    "zero": "CAN^Canada"
+   },
+   "4": {
+    "zero": "AFG^Afghanistan"
+   },
+   "40": {
+    "zero": "CPV^Cape Verde"
+   },
+   "41": {
+    "zero": "CYM^Cayman Islands"
+   },
+   "42": {
+    "zero": "CAF^Central African Republic"
+   },
+   "43": {
+    "zero": "LKA^Sri Lanka"
+   },
+   "44": {
+    "zero": "TCD^Chad"
+   },
+   "45": {
+    "zero": "CHL^Chile"
+   },
+   "46": {
+    "zero": "CHN^China"
+   },
+   "47": {
+    "zero": "TWN^Taiwan"
+   },
+   "48": {
+    "zero": "CXR^Christmas Island"
+   },
+   "49": {
+    "zero": "CCK^Cocos (Keeling) Islands"
+   },
+   "5": {
+    "zero": "ALB^Albania"
+   },
+   "50": {
+    "zero": "COL^Colombia"
+   },
+   "51": {
+    "zero": "COM^Comoros"
+   },
+   "52": {
+    "zero": "MYT^Mayotte"
+   },
+   "53": {
+    "zero": "COG^Congo (Brazzaville)"
+   },
+   "54": {
+    "zero": "COD^Congo (Kinshasa)"
+   },
+   "55": {
+    "zero": "COK^Cook Islands"
+   },
+   "56": {
+    "zero": "CRI^Costa Rica"
+   },
+   "57": {
+    "zero": "HRV^Croatia"
+   },
+   "58": {
+    "zero": "CUB^Cuba"
+   },
+   "59": {
+    "zero": "CYP^Cyprus"
+   },
+   "6": {
+    "zero": "ATA^Antarctica"
+   },
+   "60": {
+    "zero": "CZE^Czech Republic"
+   },
+   "61": {
+    "zero": "BEN^Benin"
+   },
+   "62": {
+    "zero": "DNK^Denmark"
+   },
+   "63": {
+    "zero": "DMA^Dominica"
+   },
+   "64": {
+    "zero": "DOM^Dominican Republic"
+   },
+   "65": {
+    "zero": "ECU^Ecuador"
+   },
+   "66": {
+    "zero": "SLV^El Salvador"
+   },
+   "67": {
+    "zero": "GNQ^Equatorial Guinea"
+   },
+   "68": {
+    "zero": "ETH^Ethiopia"
+   },
+   "69": {
+    "zero": "ERI^Eritrea"
+   },
+   "7": {
+    "zero": "DZA^Algeria"
+   },
+   "70": {
+    "zero": "EST^Estonia"
+   },
+   "71": {
+    "zero": "FRO^Faroe Islands"
+   },
+   "72": {
+    "zero": "FLK^Falkland Islands"
+   },
+   "73": {
+    "zero": "SGS^South Georgia and South Sandwich Islands"
+   },
+   "74": {
+    "zero": "FJI^Fiji"
+   },
+   "75": {
+    "zero": "FIN^Finland"
+   },
+   "76": {
+    "zero": "FRA^France"
+   },
+   "77": {
+    "zero": "GUF^French Guiana"
+   },
+   "78": {
+    "zero": "PYF^French Polynesia"
+   },
+   "79": {
+    "zero": "ATF^French Southern Territories"
+   },
+   "8": {
+    "zero": "AND^Andorra"
+   },
+   "80": {
+    "zero": "DJI^Djibouti"
+   },
+   "81": {
+    "zero": "GAB^Gabon"
+   },
+   "82": {
+    "zero": "GEO^Georgia"
+   },
+   "83": {
+    "zero": "GMB^Gambia"
+   },
+   "84": {
+    "zero": "DEU^Germany"
+   },
+   "85": {
+    "zero": "GHA^Ghana"
+   },
+   "86": {
+    "zero": "GIB^Gibraltar"
+   },
+   "87": {
+    "zero": "KIR^Kiribati"
+   },
+   "88": {
+    "zero": "GRC^Greece"
+   },
+   "89": {
+    "zero": "GRL^Greenland"
+   },
+   "9": {
+    "zero": "AGO^Angola"
+   },
+   "90": {
+    "zero": "GRD^Grenada"
+   },
+   "91": {
+    "zero": "GLP^Guadeloupe"
+   },
+   "92": {
+    "zero": "GTM^Guatemala"
+   },
+   "93": {
+    "zero": "GIN^Guinea"
+   },
+   "94": {
+    "zero": "GUY^Guyana"
+   },
+   "95": {
+    "zero": "HTI^Haiti"
+   },
+   "96": {
+    "zero": "HMD^Heard and McDonald Islands"
+   },
+   "97": {
+    "zero": "VAT^Vatican City"
+   },
+   "98": {
+    "zero": "HND^Honduras"
+   },
+   "99": {
+    "zero": "HKG^Hong Kong"
+   }
+  },
+  "file": "779.004",
+  "source": "Packages/Health Level Seven/Globals/779.004+COUNTRY CODE.zwr"
+ },
+ "ethnicity": {
+  "entries": {
+   "1": {
+    "zero": "HISPANIC OR LATINO^H^2135-2^2135-2^H"
+   },
+   "2": {
+    "zero": "NOT HISPANIC OR LATINO^N^2186-5^2186-5^N"
+   },
+   "3": {
+    "zero": "DECLINED TO ANSWER^D^0000-0^^D"
+   },
+   "4": {
+    "zero": "UNKNOWN BY PATIENT^U^9999-4^^U"
+   }
+  },
+  "file": "10.2",
+  "source": "Packages/Registration/Globals/10.2+ETHNICITY.zwr"
+ },
+ "language": {
+  "entries": {
+   "1": {
+    "zero": "ENGLISH^EN^ENG^^^I^L"
+   },
+   "10": {
+    "zero": "ARABIC^AR^ARA^^^M^L"
+   },
+   "100": {
+    "zero": "DIVEHI^DV^DIV^^^I^L"
+   },
+   "101": {
+    "zero": "DOGRI^^DOI^^^M^L"
+   },
+   "102": {
+    "zero": "DOGRIB^^DGR^^^I^L"
+   },
+   "103": {
+    "zero": "DUALA^^DUA^^^I^L"
+   },
+   "104": {
+    "zero": "DUTCH^NL^NLD^^DUT^I^L"
+   },
+   "105": {
+    "zero": "DYULA^^DYU^^^I^L"
+   },
+   "106": {
+    "zero": "DZONGKHA^DZ^DZO^^^I^L"
+   },
+   "107": {
+    "zero": "EFIK^^EFI^^^I^L"
+   },
+   "108": {
+    "zero": "EKAJUK^^EKA^^^I^L"
+   },
+   "109": {
+    "zero": "ELAMITE^^ELX^^^I^A"
+   },
+   "11": {
+    "zero": "RUSSIAN^RU^RUS^^^I^L"
+   },
+   "110": {
+    "zero": "ERZYA^^MYV^^^I^L"
+   },
+   "111": {
+    "zero": "ESPERANTO^EO^EPO^^^I^C"
+   },
+   "112": {
+    "zero": "ESTONIAN^ET^EST^^^M^L"
+   },
+   "113": {
+    "zero": "EWE^EE^EWE^^^I^L"
+   },
+   "114": {
+    "zero": "EWONDO^^EWO^^^I^L"
+   },
+   "115": {
+    "zero": "FANG^^FAN^^^I^L"
+   },
+   "116": {
+    "zero": "FANTI^^FAT^^^I^L"
+   },
+   "117": {
+    "zero": "FAROESE^FO^FAO^^^I^L"
+   },
+   "118": {
+    "zero": "FIJIAN^FJ^FIJ^^^I^L"
+   },
+   "119": {
+    "zero": "FILIPINO^^FIL^^^I^L"
+   },
+   "12": {
+    "zero": "GREEK^EL^ELL^^GRE^I^L"
+   },
+   "120": {
+    "zero": "FON^^FON^^^I^L"
+   },
+   "121": {
+    "zero": "FRISIAN, EASTERN^^FRS^^^I^L"
+   },
+   "122": {
+    "zero": "FRISIAN, NORTHERN^^FRR^^^I^L"
+   },
+   "123": {
+    "zero": "FRISIAN, WEST^FY^FRY^^^I^L"
+   },
+   "124": {
+    "zero": "FRIULIAN^^FUR^^^I^L"
+   },
+   "125": {
+    "zero": "FULA^FF^FUL^^^M^L"
+   },
+   "126": {
+    "zero": "GA^^GAA^^^I^L"
+   },
+   "127": {
+    "zero": "GAELIC^GD^GLA^^^I^L"
+   },
+   "128": {
+    "zero": "GALIBI CARIB^^CAR^^^I^L"
+   },
+   "129": {
+    "zero": "GALICIAN^GL^GLG^^^I^L"
+   },
+   "13": {
+    "zero": "ACOLI^^ACH^^^I^L"
+   },
+   "130": {
+    "zero": "GANDA^LG^LUG^^^I^L"
+   },
+   "131": {
+    "zero": "GAYO^^GAY^^^I^L"
+   },
+   "132": {
+    "zero": "GBAYA^^GBA^^^M^L"
+   },
+   "133": {
+    "zero": "GEEZ^^GEZ^^^I^A"
+   },
+   "134": {
+    "zero": "GEORGIAN^KA^KAT^^GEO^I^L"
+   },
+   "135": {
+    "zero": "GILBERTESE^^GIL^^^I^L"
+   },
+   "136": {
+    "zero": "GONDI^^GON^^^M^L"
+   },
+   "137": {
+    "zero": "GORONTALO^^GOR^^^I^L"
+   },
+   "138": {
+    "zero": "GOTHIC^^GOT^^^I^A"
+   },
+   "139": {
+    "zero": "GREBO^^GRB^^^M^L"
+   },
+   "14": {
+    "zero": "ADANGME^^ADA^^^I^L"
+   },
+   "140": {
+    "zero": "GUARANI^GN^GRN^^^M^L"
+   },
+   "141": {
+    "zero": "GUJARATI^GU^GUJ^^^I^L"
+   },
+   "142": {
+    "zero": "GWICH'IN^^GWI^^^I^L"
+   },
+   "143": {
+    "zero": "HAIDA^^HAI^^^M^L"
+   },
+   "144": {
+    "zero": "HAITIAN CREOLE^HT^HAT^^^I^L"
+   },
+   "145": {
+    "zero": "HAUSA^HA^HAU^^^I^L"
+   },
+   "146": {
+    "zero": "HAWAIIAN^^HAW^^^I^L"
+   },
+   "147": {
+    "zero": "HERERO^HZ^HER^^^I^L"
+   },
+   "148": {
+    "zero": "HILIGAYNON^^HIL^^^I^L"
+   },
+   "149": {
+    "zero": "HINDI^HI^HIN^^^I^L"
+   },
+   "15": {
+    "zero": "ADYGHE^^ADY^^^I^L"
+   },
+   "150": {
+    "zero": "HIRI MOTU^HO^HMO^^^I^L"
+   },
+   "151": {
+    "zero": "HITTITE^^HIT^^^I^A"
+   },
+   "152": {
+    "zero": "HMONG^^HMN^^^M^L"
+   },
+   "153": {
+    "zero": "HUNGARIAN^HU^HUN^^^I^L"
+   },
+   "154": {
+    "zero": "HUPA^^HUP^^^I^L"
+   },
+   "155": {
+    "zero": "IBAN^^IBA^^^I^L"
+   },
+   "156": {
+    "zero": "ICELANDIC^IS^ISL^^ICE^I^L"
+   },
+   "157": {
+    "zero": "IDO^IO^IDO^^^I^C"
+   },
+   "158": {
+    "zero": "IGBO^IG^IBO^^^I^L"
+   },
+   "159": {
+    "zero": "ILOKO^^ILO^^^I^L"
+   },
+   "16": {
+    "zero": "AFAR^AA^AAR^^^I^L"
+   },
+   "160": {
+    "zero": "INARI SAMI^^SMN^^^I^L"
+   },
+   "161": {
+    "zero": "INDONESIAN^ID^IND^^^I^L"
+   },
+   "162": {
+    "zero": "INGUSH^^INH^^^I^L"
+   },
+   "163": {
+    "zero": "INTERLINGUA^IA^INA^^^I^C"
+   },
+   "164": {
+    "zero": "INTERLINGUE^IE^ILE^^^I^C"
+   },
+   "165": {
+    "zero": "INUKTITUT^IU^IKU^^^M^L"
+   },
+   "166": {
+    "zero": "INUPIAQ^IK^IPK^^^M^L"
+   },
+   "167": {
+    "zero": "IRISH^GA^GLE^^^I^L"
+   },
+   "168": {
+    "zero": "JAPANESE^JA^JPN^^^I^L"
+   },
+   "169": {
+    "zero": "JAVANESE^JV^JAV^^^I^L"
+   },
+   "17": {
+    "zero": "AFRIHILI^^AFH^^^I^C"
+   },
+   "170": {
+    "zero": "JUDEO-ARABIC^^JRB^^^M^L"
+   },
+   "171": {
+    "zero": "JUDEO-PERSIAN^^JPR^^^I^L"
+   },
+   "172": {
+    "zero": "KABARDIAN^^KBD^^^I^L"
+   },
+   "173": {
+    "zero": "KABYLE^^KAB^^^I^L"
+   },
+   "174": {
+    "zero": "KACHIN^^KAC^^^I^L"
+   },
+   "175": {
+    "zero": "KALAALLISUT^KL^KAL^^^I^L"
+   },
+   "176": {
+    "zero": "KALMYK^^XAL^^^I^L"
+   },
+   "177": {
+    "zero": "KAMBA^^KAM^^^I^L"
+   },
+   "178": {
+    "zero": "KANNADA^KN^KAN^^^I^L"
+   },
+   "179": {
+    "zero": "KANURI^KR^KAU^^^M^L"
+   },
+   "18": {
+    "zero": "HEBREW^HE^HEB^^^I^L"
+   },
+   "180": {
+    "zero": "KARA-KALPAK^^KAA^^^I^L"
+   },
+   "181": {
+    "zero": "KARACHAY-BALKAR^^KRC^^^I^L"
+   },
+   "182": {
+    "zero": "KARELIAN^^KRL^^^I^L"
+   },
+   "183": {
+    "zero": "KASHMIRI^KS^KAS^^^I^L"
+   },
+   "184": {
+    "zero": "KASHUBIAN^^CSB^^^I^L"
+   },
+   "185": {
+    "zero": "KAWI^^KAW^^^I^A"
+   },
+   "186": {
+    "zero": "KAZAKH^KK^KAZ^^^I^L"
+   },
+   "187": {
+    "zero": "KHASI^^KHA^^^I^L"
+   },
+   "188": {
+    "zero": "KHMER^KM^KHM^^^I^L"
+   },
+   "189": {
+    "zero": "KHOTANESE^^KHO^^^I^A"
+   },
+   "19": {
+    "zero": "AFRIKAANS^AF^AFR^^^I^L"
+   },
+   "190": {
+    "zero": "KIKUYU^KI^KIK^^^I^L"
+   },
+   "191": {
+    "zero": "KIMBUNDU^^KMB^^^I^L"
+   },
+   "192": {
+    "zero": "KINYARWANDA^RW^KIN^^^I^L"
+   },
+   "193": {
+    "zero": "KIRGHIZ^KY^KIR^^^I^L"
+   },
+   "194": {
+    "zero": "KLINGON^^TLH^^^I^C"
+   },
+   "195": {
+    "zero": "KOMI^KV^KOM^^^M^L"
+   },
+   "196": {
+    "zero": "KONGO^KG^KON^^^M^L"
+   },
+   "197": {
+    "zero": "KONKANI^^KOK^^^M^L"
+   },
+   "198": {
+    "zero": "KOREAN^KO^KOR^^^I^L"
+   },
+   "199": {
+    "zero": "KOSRAEAN^^KOS^^^I^L"
+   },
+   "2": {
+    "zero": "GERMAN^DE^DEU^^GER^I^L"
+   },
+   "20": {
+    "zero": "AINU^^AIN^^^I^L"
+   },
+   "200": {
+    "zero": "KPELLE^^KPE^^^M^L"
+   },
+   "201": {
+    "zero": "KUANYAMA^KJ^KUA^^^I^L"
+   },
+   "202": {
+    "zero": "KUMYK^^KUM^^^I^L"
+   },
+   "203": {
+    "zero": "KURDISH^KU^KUR^^^M^L"
+   },
+   "204": {
+    "zero": "KURUKH^^KRU^^^I^L"
+   },
+   "205": {
+    "zero": "KUTENAI^^KUT^^^I^L"
+   },
+   "206": {
+    "zero": "LADINO^^LAD^^^I^L"
+   },
+   "207": {
+    "zero": "LAHNDA^^LAH^^^M^L"
+   },
+   "208": {
+    "zero": "LAMBA^^LAM^^^I^L"
+   },
+   "209": {
+    "zero": "LANGUAGES, AFRO-ASIATIC^^AFA"
+   },
+   "21": {
+    "zero": "AKAN^AK^AKA^^^M^L"
+   },
+   "210": {
+    "zero": "LANGUAGES, ALACALUFAN^^AQA"
+   },
+   "211": {
+    "zero": "LANGUAGES, ALGIC^^AQL"
+   },
+   "212": {
+    "zero": "LANGUAGES, ALGONQUIAN^^ALG"
+   },
+   "213": {
+    "zero": "LANGUAGES, ALTAIC^^TUT"
+   },
+   "214": {
+    "zero": "LANGUAGES, APACHE^^APA"
+   },
+   "215": {
+    "zero": "LANGUAGES, ARAUAN^^AUF"
+   },
+   "216": {
+    "zero": "LANGUAGES, ARAWAKAN^^AWD"
+   },
+   "217": {
+    "zero": "LANGUAGES, ARMENIAN^^HYX"
+   },
+   "218": {
+    "zero": "LANGUAGES, ARTIFICIAL^^ART"
+   },
+   "219": {
+    "zero": "LANGUAGES, ATHAPASCAN^^ATH"
+   },
+   "22": {
+    "zero": "AKKADIAN^^AKK^^^I^A"
+   },
+   "220": {
+    "zero": "LANGUAGES, ATLANTIC-CONGO^^ALV"
+   },
+   "221": {
+    "zero": "LANGUAGES, AUSTRALIAN^^AUS"
+   },
+   "222": {
+    "zero": "LANGUAGES, AUSTRO-ASIATIC^^AAV"
+   },
+   "223": {
+    "zero": "LANGUAGES, AUSTRONESIAN^^MAP"
+   },
+   "224": {
+    "zero": "LANGUAGES, BALTIC^^BAT"
+   },
+   "225": {
+    "zero": "LANGUAGES, BAMILEKE^^BAI"
+   },
+   "226": {
+    "zero": "LANGUAGES, BANDA^^BAD"
+   },
+   "227": {
+    "zero": "LANGUAGES, BANTU^^BNT"
+   },
+   "228": {
+    "zero": "LANGUAGES, BASQUE^^EUQ"
+   },
+   "229": {
+    "zero": "LANGUAGES, BATAK^^BTK"
+   },
+   "23": {
+    "zero": "ALBANIAN^SQ^SQI^^ALB^M^L"
+   },
+   "230": {
+    "zero": "LANGUAGES, BERBER^^BER"
+   },
+   "231": {
+    "zero": "LANGUAGES, BIHARI^BH^BIH"
+   },
+   "232": {
+    "zero": "LANGUAGES, CADDOAN^^CDD"
+   },
+   "233": {
+    "zero": "LANGUAGES, CAUCASIAN^^CAU"
+   },
+   "234": {
+    "zero": "LANGUAGES, CELTIC^^CEL"
+   },
+   "235": {
+    "zero": "LANGUAGES, CENTRAL AMERICAN INDIAN^^CAI"
+   },
+   "236": {
+    "zero": "LANGUAGES, CENTRAL MALAYO-POLYNESIAN^^PLF"
+   },
+   "237": {
+    "zero": "LANGUAGES, CENTRAL SUDANIC^^CSU"
+   },
+   "238": {
+    "zero": "LANGUAGES, CHADIC^^CDC"
+   },
+   "239": {
+    "zero": "LANGUAGES, CHAMIC^^CMC"
+   },
+   "24": {
+    "zero": "ALEUT^^ALE^^^I^L"
+   },
+   "240": {
+    "zero": "LANGUAGES, CHIBCHAN^^CBA"
+   },
+   "241": {
+    "zero": "LANGUAGES, CHINESE^^ZHX"
+   },
+   "242": {
+    "zero": "LANGUAGES, CUSHITIC^^CUS"
+   },
+   "243": {
+    "zero": "LANGUAGES, DRAVIDIAN^^DRA"
+   },
+   "244": {
+    "zero": "LANGUAGES, EAST GERMANIC^^GME"
+   },
+   "245": {
+    "zero": "LANGUAGES, EAST SLAVIC^^ZLE"
+   },
+   "246": {
+    "zero": "LANGUAGES, EASTERN MALAYO-POLYNESIAN^^PQE"
+   },
+   "247": {
+    "zero": "LANGUAGES, EASTERN SUDANIC^^SDV"
+   },
+   "248": {
+    "zero": "LANGUAGES, EGYPTIAN^^EGX"
+   },
+   "249": {
+    "zero": "LANGUAGES, ESKIMO-ALEUT^^ESX"
+   },
+   "25": {
+    "zero": "ALTAI, SOUTHERN^^ALT^^^I^L"
+   },
+   "250": {
+    "zero": "LANGUAGES, FINNO-UGRIAN^^FIU"
+   },
+   "251": {
+    "zero": "LANGUAGES, FORMOSAN^^FOX"
+   },
+   "252": {
+    "zero": "LANGUAGES, GERMANIC^^GEM"
+   },
+   "253": {
+    "zero": "LANGUAGES, GREEK^^GRK"
+   },
+   "254": {
+    "zero": "LANGUAGES, HIMACHALI^^HIM"
+   },
+   "255": {
+    "zero": "LANGUAGES, HMONG-MIEN^^HMX"
+   },
+   "256": {
+    "zero": "LANGUAGES, HOKAN^^HOK"
+   },
+   "257": {
+    "zero": "LANGUAGES, IJO^^IJO"
+   },
+   "258": {
+    "zero": "LANGUAGES, INDIC^^INC"
+   },
+   "259": {
+    "zero": "LANGUAGES, INDO-EUROPEAN^^INE"
+   },
+   "26": {
+    "zero": "AMHARIC^AM^AMH^^^I^L"
+   },
+   "260": {
+    "zero": "LANGUAGES, INDO-IRANIAN^^IIR"
+   },
+   "261": {
+    "zero": "LANGUAGES, IRANIAN^^IRA"
+   },
+   "262": {
+    "zero": "LANGUAGES, IROQUOIAN^^IRO"
+   },
+   "263": {
+    "zero": "LANGUAGES, ITALIC^^ITC"
+   },
+   "264": {
+    "zero": "LANGUAGES, JAPANESE^^JPX"
+   },
+   "265": {
+    "zero": "LANGUAGES, KAREN^^KAR"
+   },
+   "266": {
+    "zero": "LANGUAGES, KHOISAN^^KHI"
+   },
+   "267": {
+    "zero": "LANGUAGES, KORDOFANIAN^^KDO"
+   },
+   "268": {
+    "zero": "LANGUAGES, KRU^^KRO"
+   },
+   "269": {
+    "zero": "LANGUAGES, LAND DAYAK^^DAY"
+   },
+   "27": {
+    "zero": "ANCIENT EGYPTIAN^^EGY^^^I^A"
+   },
+   "270": {
+    "zero": "LANGUAGES, MALAYO-POLYNESIAN^^POZ"
+   },
+   "271": {
+    "zero": "LANGUAGES, MANDE^^DMN"
+   },
+   "272": {
+    "zero": "LANGUAGES, MANOBO^^MNO"
+   },
+   "273": {
+    "zero": "LANGUAGES, MAYAN^^MYN"
+   },
+   "274": {
+    "zero": "LANGUAGES, MON-KHMER^^MKH"
+   },
+   "275": {
+    "zero": "LANGUAGES, MONGOLIAN^^XGN"
+   },
+   "276": {
+    "zero": "LANGUAGES, MULTIPLE^^MUL^^^S"
+   },
+   "277": {
+    "zero": "LANGUAGES, MUNDA^^MUN"
+   },
+   "278": {
+    "zero": "LANGUAGES, NA-DENE^^XND"
+   },
+   "279": {
+    "zero": "LANGUAGES, NAHUATL^^NAH"
+   },
+   "28": {
+    "zero": "ANCIENT GREEK^^GRC^^^I^H"
+   },
+   "280": {
+    "zero": "LANGUAGES, NIGER-KORDOFANIAN^^NIC"
+   },
+   "281": {
+    "zero": "LANGUAGES, NILO-SAHARAN^^SSA"
+   },
+   "282": {
+    "zero": "LANGUAGES, NORTH AMERICAN INDIAN^^NAI"
+   },
+   "283": {
+    "zero": "LANGUAGES, NORTH CAUCASIAN^^CCN"
+   },
+   "284": {
+    "zero": "LANGUAGES, NORTH GERMANIC^^GMQ"
+   },
+   "285": {
+    "zero": "LANGUAGES, NUBIAN^^NUB"
+   },
+   "286": {
+    "zero": "LANGUAGES, OMOTIC^^OMV"
+   },
+   "287": {
+    "zero": "LANGUAGES, OTO-MANGUEAN^^OMQ"
+   },
+   "288": {
+    "zero": "LANGUAGES, OTOMIAN^^OTO"
+   },
+   "289": {
+    "zero": "LANGUAGES, PAPUAN^^PAA"
+   },
+   "29": {
+    "zero": "ANGIKA^^ANP^^^I^L"
+   },
+   "290": {
+    "zero": "LANGUAGES, PHILIPPINE^^PHI"
+   },
+   "291": {
+    "zero": "LANGUAGES, PRAKRIT^^PRA"
+   },
+   "292": {
+    "zero": "LANGUAGES, QUECHUAN^^QWE"
+   },
+   "293": {
+    "zero": "LANGUAGES, ROMANCE^^ROA"
+   },
+   "294": {
+    "zero": "LANGUAGES, SALISHAN^^SAL"
+   },
+   "295": {
+    "zero": "LANGUAGES, SAMI^^SMI"
+   },
+   "296": {
+    "zero": "LANGUAGES, SAMOYEDIC^^SYD"
+   },
+   "297": {
+    "zero": "LANGUAGES, SEMITIC^^SEM"
+   },
+   "298": {
+    "zero": "LANGUAGES, SIGN^^SGN"
+   },
+   "299": {
+    "zero": "LANGUAGES, SINO-TIBETAN^^SIT"
+   },
+   "3": {
+    "zero": "SPANISH^ES^SPA^^^I^L"
+   },
+   "30": {
+    "zero": "ARAGONESE^AN^ARG^^^I^L"
+   },
+   "300": {
+    "zero": "LANGUAGES, SIOUAN^^SIO"
+   },
+   "301": {
+    "zero": "LANGUAGES, SLAVIC^^SLA"
+   },
+   "302": {
+    "zero": "LANGUAGES, SONGHAI^^SON"
+   },
+   "303": {
+    "zero": "LANGUAGES, SORBIAN^^WEN"
+   },
+   "304": {
+    "zero": "LANGUAGES, SOUTH AMERICAN INDIAN^^SAI"
+   },
+   "305": {
+    "zero": "LANGUAGES, SOUTH CAUCASIAN^^CCS"
+   },
+   "306": {
+    "zero": "LANGUAGES, SOUTH SLAVIC^^ZLS"
+   },
+   "307": {
+    "zero": "LANGUAGES, TAI^^TAI"
+   },
+   "308": {
+    "zero": "LANGUAGES, TIBETO-BURMAN^^TBQ"
+   },
+   "309": {
+    "zero": "LANGUAGES, TRANS-NEW GUINEA^^NGF"
+   },
+   "31": {
+    "zero": "ARAPAHO^^ARP^^^I^L"
+   },
+   "310": {
+    "zero": "LANGUAGES, TUNGUS^^TUW"
+   },
+   "311": {
+    "zero": "LANGUAGES, TUPI^^TUP"
+   },
+   "312": {
+    "zero": "LANGUAGES, TURKIC^^TRK"
+   },
+   "313": {
+    "zero": "LANGUAGES, UNCODED^^MIS^^^S"
+   },
+   "314": {
+    "zero": "LANGUAGES, URALIC^^URJ"
+   },
+   "315": {
+    "zero": "LANGUAGES, UTO-AZTECAN^^AZC"
+   },
+   "316": {
+    "zero": "LANGUAGES, WAKASHAN^^WAK"
+   },
+   "317": {
+    "zero": "LANGUAGES, WEST GERMANIC^^GMW"
+   },
+   "318": {
+    "zero": "LANGUAGES, WEST SLAVIC^^ZLW"
+   },
+   "319": {
+    "zero": "LANGUAGES, WESTERN MALAYO-POLYNESIAN^^PQW"
+   },
+   "32": {
+    "zero": "ARAWAK^^ARW^^^I^L"
+   },
+   "320": {
+    "zero": "LANGUAGES, YUPIK^^YPK"
+   },
+   "321": {
+    "zero": "LANGUAGES, ZANDE^^ZND"
+   },
+   "322": {
+    "zero": "LAO^LO^LAO^^^I^L"
+   },
+   "323": {
+    "zero": "LATIN^LA^LAT^^^I^A"
+   },
+   "324": {
+    "zero": "LATVIAN^LV^LAV^^^M^L"
+   },
+   "325": {
+    "zero": "LEZGHIAN^^LEZ^^^I^L"
+   },
+   "326": {
+    "zero": "LIMBURGAN^LI^LIM^^^I^L"
+   },
+   "327": {
+    "zero": "LINGALA^LN^LIN^^^I^L"
+   },
+   "328": {
+    "zero": "LITHUANIAN^LT^LIT^^^I^L"
+   },
+   "329": {
+    "zero": "LOJBAN^^JBO^^^I^C"
+   },
+   "33": {
+    "zero": "ARMENIAN^HY^HYE^^ARM^I^L"
+   },
+   "330": {
+    "zero": "LOW GERMAN^^NDS^^^I^L"
+   },
+   "331": {
+    "zero": "LOZI^^LOZ^^^I^L"
+   },
+   "332": {
+    "zero": "LUBA-KATANGA^LU^LUB^^^I^L"
+   },
+   "333": {
+    "zero": "LUBA-LULUA^^LUA^^^I^L"
+   },
+   "334": {
+    "zero": "LUISENO^^LUI^^^I^L"
+   },
+   "335": {
+    "zero": "LUNDA^^LUN^^^I^L"
+   },
+   "336": {
+    "zero": "LUO (KENYA AND TANZANIYA)^^LUO^^^I^L"
+   },
+   "337": {
+    "zero": "LUSHAI^^LUS^^^I^L"
+   },
+   "338": {
+    "zero": "LUXEMBOURGISH^LB^LTZ^^^I^L"
+   },
+   "339": {
+    "zero": "MACEDONIAN^MK^MKD^^MAC^I^L"
+   },
+   "34": {
+    "zero": "AROMANIAN^^RUP^^^I^L"
+   },
+   "340": {
+    "zero": "MADURESE^^MAD^^^I^L"
+   },
+   "341": {
+    "zero": "MAGAHI^^MAG^^^I^L"
+   },
+   "342": {
+    "zero": "MAITHILI^^MAI^^^I^L"
+   },
+   "343": {
+    "zero": "MAKASAR^^MAK^^^I^L"
+   },
+   "344": {
+    "zero": "MALAGASY^MG^MLG^^^M^L"
+   },
+   "345": {
+    "zero": "MALAY^MS^MSA^^MAY^M^L"
+   },
+   "346": {
+    "zero": "MALAYALAM^ML^MAL^^^I^L"
+   },
+   "347": {
+    "zero": "MALTESE^MT^MLT^^^I^L"
+   },
+   "348": {
+    "zero": "MANCHU^^MNC^^^I^L"
+   },
+   "349": {
+    "zero": "MANDAR^^MDR^^^I^L"
+   },
+   "35": {
+    "zero": "ASSAMESE^AS^ASM^^^I^L"
+   },
+   "350": {
+    "zero": "MANDINGO^^MAN^^^M^L"
+   },
+   "351": {
+    "zero": "MANIPURI^^MNI^^^I^L"
+   },
+   "352": {
+    "zero": "MANX^GV^GLV^^^I^L"
+   },
+   "353": {
+    "zero": "MAORI^MI^MRI^^MAO^I^L"
+   },
+   "354": {
+    "zero": "MAPUDUNGUN^^ARN^^^I^L"
+   },
+   "355": {
+    "zero": "MARATHI^MR^MAR^^^I^L"
+   },
+   "356": {
+    "zero": "MARI^^CHM^^^M^L"
+   },
+   "357": {
+    "zero": "MARSHALLESE^MH^MAH^^^I^L"
+   },
+   "358": {
+    "zero": "MARWARI^^MWR^^^M^L"
+   },
+   "359": {
+    "zero": "MASAI^^MAS^^^I^L"
+   },
+   "36": {
+    "zero": "ASTURIAN^^AST^^^I^L"
+   },
+   "360": {
+    "zero": "MENDE^^MEN^^^I^L"
+   },
+   "361": {
+    "zero": "MI'KMAQ^^MIC^^^I^L"
+   },
+   "362": {
+    "zero": "MIDDLE DUTCH^^DUM^^^I^H"
+   },
+   "363": {
+    "zero": "MIDDLE ENGLISH^^ENM^^^I^H"
+   },
+   "364": {
+    "zero": "MIDDLE FRENCH^^FRM^^^I^H"
+   },
+   "365": {
+    "zero": "MIDDLE HIGH GERMAN^^GMH^^^I^H"
+   },
+   "366": {
+    "zero": "MIDDLE IRISH^^MGA^^^I^H"
+   },
+   "367": {
+    "zero": "MINANGKABAU^^MIN^^^I^L"
+   },
+   "368": {
+    "zero": "MIRANDESE^^MWL^^^I^L"
+   },
+   "369": {
+    "zero": "MOHAWK^^MOH^^^I^L"
+   },
+   "37": {
+    "zero": "AVARIC^AV^AVA^^^I^L"
+   },
+   "370": {
+    "zero": "MOKSHA^^MDF^^^I^L"
+   },
+   "371": {
+    "zero": "MONGO^^LOL^^^I^L"
+   },
+   "372": {
+    "zero": "MONGOLIAN^MN^MON^^^M^L"
+   },
+   "373": {
+    "zero": "MOSSI^^MOS^^^I^L"
+   },
+   "374": {
+    "zero": "N'KO^^NQO^^^I^L"
+   },
+   "375": {
+    "zero": "NAURU^NA^NAU^^^I^L"
+   },
+   "376": {
+    "zero": "NAVAJO^NV^NAV^^^I^L"
+   },
+   "377": {
+    "zero": "NDEBELE, NORTH^ND^NDE^^^I^L"
+   },
+   "378": {
+    "zero": "NDEBELE, SOUTH^NR^NBL^^^I^L"
+   },
+   "379": {
+    "zero": "NDONGA^NG^NDO^^^I^L"
+   },
+   "38": {
+    "zero": "AVESTAN^AE^AVE^^^I^A"
+   },
+   "380": {
+    "zero": "NEAPOLITAN^^NAP^^^I^L"
+   },
+   "381": {
+    "zero": "NEPAL BHASA^^NEW^^^I^L"
+   },
+   "382": {
+    "zero": "NEPALI^NE^NEP^^^M^L"
+   },
+   "383": {
+    "zero": "NIAS^^NIA^^^I^L"
+   },
+   "384": {
+    "zero": "NIUEAN^^NIU^^^I^L"
+   },
+   "385": {
+    "zero": "NO LINGUISTIC CONTENT^^ZXX^^^S"
+   },
+   "386": {
+    "zero": "NOGAI^^NOG^^^I^L"
+   },
+   "387": {
+    "zero": "NORWEGIAN^NO^NOR^^^M^L"
+   },
+   "388": {
+    "zero": "NORWEGIAN BOKMAL^NB^NOB^^^I^L"
+   },
+   "389": {
+    "zero": "NORWEGIAN NYNORSK^NN^NNO^^^I^L"
+   },
+   "39": {
+    "zero": "AWADHI^^AWA^^^I^L"
+   },
+   "390": {
+    "zero": "NUOSU^II^III^^^I^L"
+   },
+   "391": {
+    "zero": "NYAMWEZI^^NYM^^^I^L"
+   },
+   "392": {
+    "zero": "NYANKOLE^^NYN^^^I^L"
+   },
+   "393": {
+    "zero": "NYORO^^NYO^^^I^L"
+   },
+   "394": {
+    "zero": "NZIMA^^NZI^^^I^L"
+   },
+   "395": {
+    "zero": "OCCITAN^OC^OCI^^^I^L"
+   },
+   "396": {
+    "zero": "OFFICIAL ARAMAIC^^ARC^^^I^A"
+   },
+   "397": {
+    "zero": "OJIBWE^OJ^OJI^^^M^L"
+   },
+   "398": {
+    "zero": "OLD ENGLISH^^ANG^^^I^H"
+   },
+   "399": {
+    "zero": "OLD FRENCH^^FRO^^^I^H"
+   },
+   "4": {
+    "zero": "FRENCH^FR^FRA^^FRE^I^L"
+   },
+   "40": {
+    "zero": "AYMARA^AY^AYM^^^M^L"
+   },
+   "400": {
+    "zero": "OLD HIGH GERMAN^^GOH^^^I^H"
+   },
+   "401": {
+    "zero": "OLD IRISH^^SGA^^^I^H"
+   },
+   "402": {
+    "zero": "OLD NORSE^^NON^^^I^H"
+   },
+   "403": {
+    "zero": "OLD PERSIAN^^PEO^^PEO^I^H"
+   },
+   "404": {
+    "zero": "OLD PROVENCAL^^PRO^^PRO^I^H"
+   },
+   "405": {
+    "zero": "ORIYA^OR^ORI^^^M^L"
+   },
+   "406": {
+    "zero": "OROMO^OM^ORM^^^M^L"
+   },
+   "407": {
+    "zero": "OSAGE^^OSA^^^I^L"
+   },
+   "408": {
+    "zero": "OSSETIAN^OS^OSS^^^I^L"
+   },
+   "409": {
+    "zero": "OTTOMAN TURKISH^^OTA^^OTA^I^H"
+   },
+   "41": {
+    "zero": "AZERBAIJANI^AZ^AZE^^^M^L"
+   },
+   "410": {
+    "zero": "PAHLAVI^^PAL^^^I^A"
+   },
+   "411": {
+    "zero": "PALAUAN^^PAU^^^I^L"
+   },
+   "412": {
+    "zero": "PALI^PI^PLI^^^I^A"
+   },
+   "413": {
+    "zero": "PAMPANGA^^PAM^^^I^L"
+   },
+   "414": {
+    "zero": "PANGASINAN^^PAG^^^I^L"
+   },
+   "415": {
+    "zero": "PAPIAMENTO^^PAP^^^I^L"
+   },
+   "416": {
+    "zero": "PASHTO^PS^PUS^^^M^L"
+   },
+   "417": {
+    "zero": "PEDI^^NSO^^^I^L"
+   },
+   "418": {
+    "zero": "PERSIAN^FA^FAS^^PER^M^L"
+   },
+   "419": {
+    "zero": "PHOENICIAN^^PHN^^^I^A"
+   },
+   "42": {
+    "zero": "BALINESE^^BAN^^^I^L"
+   },
+   "420": {
+    "zero": "POHNPEIAN^^PON^^^I^L"
+   },
+   "421": {
+    "zero": "POLISH^PL^POL^^^I^L"
+   },
+   "422": {
+    "zero": "PUNJABI^PA^PAN^^^I^L"
+   },
+   "423": {
+    "zero": "QUECHUA^QU^QUE^^^M^L"
+   },
+   "424": {
+    "zero": "RAJASTHANI^^RAJ^^^M^L"
+   },
+   "425": {
+    "zero": "RAPANUI^^RAP^^^I^L"
+   },
+   "426": {
+    "zero": "RAROTONGAN^^RAR^^^I^L"
+   },
+   "427": {
+    "zero": "STANDARD MOROCCAN TAMAZIGHT^^ZGH^^^I^L"
+   },
+   "428": {
+    "zero": "ROMANIAN^RO^RON^^RUM^I^L"
+   },
+   "429": {
+    "zero": "ROMANSH^RM^ROH^^^I^L"
+   },
+   "43": {
+    "zero": "BALUCHI^^BAL^^^M^L"
+   },
+   "430": {
+    "zero": "ROMANY^^ROM^^^M^L"
+   },
+   "431": {
+    "zero": "RUNDI^RN^RUN^^^I^L"
+   },
+   "432": {
+    "zero": "SAMARITAN ARAMAIC^^SAM^^^I^E"
+   },
+   "433": {
+    "zero": "SAMI, LULE^^SMJ^^^I^L"
+   },
+   "434": {
+    "zero": "SAMI, NORTHERN^SE^SME^^^I^L"
+   },
+   "435": {
+    "zero": "SAMI, SKOLT^^SMS^^^I^L"
+   },
+   "436": {
+    "zero": "SAMI, SOUTHERN^^SMA^^^I^L"
+   },
+   "437": {
+    "zero": "SAMOAN^SM^SMO^^^I^L"
+   },
+   "438": {
+    "zero": "SANDAWE^^SAD^^^I^L"
+   },
+   "439": {
+    "zero": "SANGO^SG^SAG^^^I^L"
+   },
+   "44": {
+    "zero": "BAMBARA^BM^BAM^^^I^L"
+   },
+   "440": {
+    "zero": "SANSKRIT^SA^SAN^^^I^A"
+   },
+   "441": {
+    "zero": "SANTALI^^SAT^^^I^L"
+   },
+   "442": {
+    "zero": "SARDINIAN^SC^SRD^^^M^L"
+   },
+   "443": {
+    "zero": "SASAK^^SAS^^^I^L"
+   },
+   "444": {
+    "zero": "SCOTS^^SCO^^^I^L"
+   },
+   "445": {
+    "zero": "SELKUP^^SEL^^^I^L"
+   },
+   "446": {
+    "zero": "SERBIAN^SR^SRP^^^I^L"
+   },
+   "447": {
+    "zero": "SERER^^SRR^^^I^L"
+   },
+   "448": {
+    "zero": "SHAN^^SHN^^^I^L"
+   },
+   "449": {
+    "zero": "SHONA^SN^SNA^^^I^L"
+   },
+   "45": {
+    "zero": "BASA^^BAS^^^I^L"
+   },
+   "450": {
+    "zero": "SICILIAN^^SCN^^^I^L"
+   },
+   "451": {
+    "zero": "SIDAMO^^SID^^^I^L"
+   },
+   "452": {
+    "zero": "SIKSIKA^^BLA^^^I^L"
+   },
+   "453": {
+    "zero": "SINDHI^SD^SND^^^I^L"
+   },
+   "454": {
+    "zero": "SINHALA^SI^SIN^^^I^L"
+   },
+   "455": {
+    "zero": "SLAVE (ATHAPASKAN)^^DEN^^^M^L"
+   },
+   "456": {
+    "zero": "SLAVONIC, CHURCH^CU^CHU^^^I^A"
+   },
+   "457": {
+    "zero": "SLOVAK^SK^SLK^^SLO^I^L"
+   },
+   "458": {
+    "zero": "SLOVENIAN^SL^SLV^^^I^L"
+   },
+   "459": {
+    "zero": "SOGDIAN^^SOG^^^I^A"
+   },
+   "46": {
+    "zero": "BASHKIR^BA^BAK^^^I^L"
+   },
+   "460": {
+    "zero": "SOMALI^SO^SOM^^^I^L"
+   },
+   "461": {
+    "zero": "SONINKE^^SNK^^^I^L"
+   },
+   "462": {
+    "zero": "SORBIAN, LOWER^^DSB^^^I^L"
+   },
+   "463": {
+    "zero": "SORBIAN, UPPER^^HSB^^^I^L"
+   },
+   "464": {
+    "zero": "SOTHO, SOUTHERN^ST^SOT^^^I^L"
+   },
+   "465": {
+    "zero": "SRANAN TONGO^^SRN^^^I^L"
+   },
+   "466": {
+    "zero": "SUKUMA^^SUK^^^I^L"
+   },
+   "467": {
+    "zero": "SUMERIAN^^SUX^^^I^A"
+   },
+   "468": {
+    "zero": "SUNDANESE^SU^SUN^^^I^L"
+   },
+   "469": {
+    "zero": "SUSU^^SUS^^^I^L"
+   },
+   "47": {
+    "zero": "BASQUE^EU^EUS^^BAQ^I^L"
+   },
+   "470": {
+    "zero": "SWAHILI^SW^SWA^^^M^L"
+   },
+   "471": {
+    "zero": "SWATI^SS^SSW^^^I^L"
+   },
+   "472": {
+    "zero": "SWEDISH^SV^SWE^^^I^L"
+   },
+   "473": {
+    "zero": "SWISS GERMAN^^GSW^^^I^L"
+   },
+   "474": {
+    "zero": "SYRIAC^^SYR^^^M^L"
+   },
+   "475": {
+    "zero": "TAGALOG^TL^TGL^^^I^L"
+   },
+   "476": {
+    "zero": "TAHITIAN^TY^TAH^^^I^L"
+   },
+   "477": {
+    "zero": "TAJIK^TG^TGK^^^I^L"
+   },
+   "478": {
+    "zero": "TAMASHEK^^TMH^^^M^L"
+   },
+   "479": {
+    "zero": "TAMIL^TA^TAM^^^I^L"
+   },
+   "48": {
+    "zero": "BEJA^^BEJ^^^I^L"
+   },
+   "480": {
+    "zero": "TATAR^TT^TAT^^^I^L"
+   },
+   "481": {
+    "zero": "TELUGU^TE^TEL^^^I^L"
+   },
+   "482": {
+    "zero": "TERENO^^TER^^^I^L"
+   },
+   "483": {
+    "zero": "TETUM^^TET^^^I^L"
+   },
+   "484": {
+    "zero": "THAI^TH^THA^^^I^L"
+   },
+   "485": {
+    "zero": "TIBETAN^BO^BOD^^TIB^I^L"
+   },
+   "486": {
+    "zero": "TIGRE^^TIG^^^I^L"
+   },
+   "487": {
+    "zero": "TIGRINYA^TI^TIR^^^I^L"
+   },
+   "488": {
+    "zero": "TIMNE^^TEM^^^I^L"
+   },
+   "489": {
+    "zero": "TIV^^TIV^^^I^L"
+   },
+   "49": {
+    "zero": "BELARUSIAN^BE^BEL^^^I^L"
+   },
+   "490": {
+    "zero": "TLINGIT^^TLI^^^I^L"
+   },
+   "491": {
+    "zero": "TOK PISIN^^TPI^^^I^L"
+   },
+   "492": {
+    "zero": "TOKELAU^^TKL^^^I^L"
+   },
+   "493": {
+    "zero": "TONGA (NYASA)^^TOG^^^I^L"
+   },
+   "494": {
+    "zero": "TONGA (TONGA ISLANDS)^TO^TON^^^I^L"
+   },
+   "495": {
+    "zero": "TSIMSHIAN^^TSI^^^I^L"
+   },
+   "496": {
+    "zero": "TSONGA^TS^TSO^^^I^L"
+   },
+   "497": {
+    "zero": "TSWANA^TN^TSN^^^I^L"
+   },
+   "498": {
+    "zero": "TUMBUKA^^TUM^^^I^L"
+   },
+   "499": {
+    "zero": "TURKISH^TR^TUR^^^I^L"
+   },
+   "5": {
+    "zero": "FINNISH^FI^FIN^^^I^L"
+   },
+   "50": {
+    "zero": "BEMBA^^BEM^^^I^L"
+   },
+   "500": {
+    "zero": "TURKMEN^TK^TUK^^^I^L"
+   },
+   "501": {
+    "zero": "TUVALU^^TVL^^^I^L"
+   },
+   "502": {
+    "zero": "TUVINIAN^^TYV^^^I^L"
+   },
+   "503": {
+    "zero": "TWI^TW^TWI^^^I^L"
+   },
+   "504": {
+    "zero": "UDMURT^^UDM^^^I^L"
+   },
+   "505": {
+    "zero": "UGARITIC^^UGA^^^I^A"
+   },
+   "506": {
+    "zero": "UIGHUR^UG^UIG^^^I^L"
+   },
+   "507": {
+    "zero": "UKRAINIAN^UK^UKR^^^I^L"
+   },
+   "508": {
+    "zero": "UMBUNDU^^UMB^^^I^L"
+   },
+   "509": {
+    "zero": "UNDETERMINED^^UND^^^S"
+   },
+   "51": {
+    "zero": "BENGALI^BN^BEN^^^I^L"
+   },
+   "510": {
+    "zero": "URDU^UR^URD^^^I^L"
+   },
+   "511": {
+    "zero": "UZBEK^UZ^UZB^^^M^L"
+   },
+   "512": {
+    "zero": "VAI^^VAI^^^I^L"
+   },
+   "513": {
+    "zero": "VENDA^VE^VEN^^^I^L"
+   },
+   "514": {
+    "zero": "VIETNAMESE^VI^VIE^^^I^L"
+   },
+   "515": {
+    "zero": "VOLAPUK^VO^VOL^^^I^C"
+   },
+   "516": {
+    "zero": "VOTIC^^VOT^^^I^L"
+   },
+   "517": {
+    "zero": "WALLOON^WA^WLN^^^I^L"
+   },
+   "518": {
+    "zero": "WARAY^^WAR^^^I^L"
+   },
+   "519": {
+    "zero": "WASHO^^WAS^^^I^L"
+   },
+   "52": {
+    "zero": "BHOJPURI^^BHO^^^I^L"
+   },
+   "520": {
+    "zero": "WELSH^CY^CYM^^WEL^I^L"
+   },
+   "521": {
+    "zero": "WOLAITTA^^WAL^^^I^L"
+   },
+   "522": {
+    "zero": "WOLOF^WO^WOL^^^I^L"
+   },
+   "523": {
+    "zero": "XHOSA^XH^XHO^^^I^L"
+   },
+   "524": {
+    "zero": "YAKUT^^SAH^^^I^L"
+   },
+   "525": {
+    "zero": "YAO^^YAO^^^I^L"
+   },
+   "526": {
+    "zero": "YAPESE^^YAP^^^I^L"
+   },
+   "527": {
+    "zero": "YIDDISH^YI^YID^^^M^L"
+   },
+   "528": {
+    "zero": "YORUBA^YO^YOR^^^I^L"
+   },
+   "529": {
+    "zero": "ZAPOTEC^^ZAP^^^M^L"
+   },
+   "53": {
+    "zero": "BIKOL^^BIK^^^M^L"
+   },
+   "530": {
+    "zero": "ZAZA^^ZZA^^^M^L"
+   },
+   "531": {
+    "zero": "ZENAGA^^ZEN^^^I^L"
+   },
+   "532": {
+    "zero": "ZHUANG^ZA^ZHA^^^M^L"
+   },
+   "533": {
+    "zero": "ZULU^ZU^ZUL^^^I^L"
+   },
+   "534": {
+    "zero": "ZUNI^^ZUN^^^I^L"
+   },
+   "54": {
+    "zero": "BILIN^^BYN^^^I^L"
+   },
+   "55": {
+    "zero": "BINI^^BIN^^^I^L"
+   },
+   "56": {
+    "zero": "BISLAMA^BI^BIS^^^I^L"
+   },
+   "57": {
+    "zero": "BLISSYMBOLS^^ZBL^^^I^C"
+   },
+   "58": {
+    "zero": "BOSNIAN^BS^BOS^^^I^L"
+   },
+   "59": {
+    "zero": "BRAJ^^BRA^^^I^L"
+   },
+   "6": {
+    "zero": "ITALIAN^IT^ITA^^^I^L"
+   },
+   "60": {
+    "zero": "BRETON^BR^BRE^^^I^L"
+   },
+   "61": {
+    "zero": "BUGINESE^^BUG^^^I^L"
+   },
+   "62": {
+    "zero": "BULGARIAN^BG^BUL^^^I^L"
+   },
+   "63": {
+    "zero": "BURIAT^^BUA^^^M^L"
+   },
+   "64": {
+    "zero": "BURMESE^MY^MYA^^BUR^I^L"
+   },
+   "65": {
+    "zero": "CADDO^^CAD^^^I^L"
+   },
+   "66": {
+    "zero": "CATALAN^CA^CAT^^^I^L"
+   },
+   "67": {
+    "zero": "CEBUANO^^CEB^^^I^L"
+   },
+   "68": {
+    "zero": "CHAGATAI^^CHG^^^I^E"
+   },
+   "69": {
+    "zero": "CHAMORRO^CH^CHA^^^I^L"
+   },
+   "7": {
+    "zero": "PORTUGUESE^PT^POR^^^I^L"
+   },
+   "70": {
+    "zero": "CHECHEN^CE^CHE^^^I^L"
+   },
+   "71": {
+    "zero": "CHEROKEE^^CHR^^^I^L"
+   },
+   "72": {
+    "zero": "CHEYENNE^^CHY^^^I^L"
+   },
+   "73": {
+    "zero": "CHIBCHA^^CHB^^^I^E"
+   },
+   "74": {
+    "zero": "CHICHEWA^NY^NYA^^^I^L"
+   },
+   "75": {
+    "zero": "CHINESE^ZH^ZHO^^CHI^M^L"
+   },
+   "76": {
+    "zero": "CHINOOK JARGON^^CHN^^^I^L"
+   },
+   "77": {
+    "zero": "CHIPEWYAN^^CHP^^^I^L"
+   },
+   "78": {
+    "zero": "CHOCTAW^^CHO^^^I^L"
+   },
+   "79": {
+    "zero": "CHUUKESE^^CHK^^^I^L"
+   },
+   "8": {
+    "zero": "ABKHAZ^AB^ABK^^^I^L"
+   },
+   "80": {
+    "zero": "CHUVASH^CV^CHV^^^I^L"
+   },
+   "81": {
+    "zero": "CLASSICAL NEWARI^^NWC^^^I^H"
+   },
+   "82": {
+    "zero": "CLASSICAL SYRIAC^^SYC^^^I^H"
+   },
+   "83": {
+    "zero": "COPTIC^^COP^^^I^E"
+   },
+   "84": {
+    "zero": "CORNISH^KW^COR^^^I^L"
+   },
+   "85": {
+    "zero": "CORSICAN^CO^COS^^^I^L"
+   },
+   "86": {
+    "zero": "CREE^CR^CRE^^^M^L"
+   },
+   "87": {
+    "zero": "CREEK^^MUS^^^I^L"
+   },
+   "88": {
+    "zero": "CREOLES AND PIDGINS^^CRP"
+   },
+   "89": {
+    "zero": "CREOLES AND PIDGINS, ENGLISH-BASED^^CPE"
+   },
+   "9": {
+    "zero": "ACHINESE^^ACE^^^I^L"
+   },
+   "90": {
+    "zero": "CREOLES AND PIDGINS, FRENCH-BASED^^CPF"
+   },
+   "91": {
+    "zero": "CREOLES AND PIDGINS, PORTUGUESE-BASED^^CPP"
+   },
+   "92": {
+    "zero": "CRIMEAN TATAR^^CRH^^^I^L"
+   },
+   "93": {
+    "zero": "CROATIAN^HR^HRV^^^I^L"
+   },
+   "94": {
+    "zero": "CZECH^CS^CES^^CZE^I^L"
+   },
+   "95": {
+    "zero": "DAKOTA^^DAK^^^I^L"
+   },
+   "96": {
+    "zero": "DANISH^DA^DAN^^^I^L"
+   },
+   "97": {
+    "zero": "DARGWA^^DAR^^^I^L"
+   },
+   "98": {
+    "zero": "DELAWARE^^DEL^^^M^L"
+   },
+   "99": {
+    "zero": "DINKA^^DIN^^^M^L"
+   }
+  },
+  "file": ".85",
+  "source": "Packages/VA FileMan/Globals/0.85+LANGUAGE.zwr"
+ },
+ "marital_status": {
+  "entries": {
+   "1": {
+    "zero": "DIVORCED^^D"
+   },
+   "2": {
+    "zero": "MARRIED^^M"
+   },
+   "4": {
+    "zero": "WIDOWED^^W"
+   },
+   "5": {
+    "zero": "SEPARATED^^S"
+   },
+   "6": {
+    "zero": "NEVER MARRIED^^N"
+   },
+   "7": {
+    "zero": "UNKNOWN^UNK^U"
+   }
+  },
+  "file": "11",
+  "source": "Packages/Registration/Globals/11+MARITAL STATUS.zwr"
+ },
+ "race": {
+  "entries": {
+   "1": {
+    "zero": "BLACK, NOT OF HISPANIC ORIGIN^4"
+   },
+   "10": {
+    "zero": "DECLINED TO ANSWER^D^0000-0^^C"
+   },
+   "11": {
+    "zero": "NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER^H^2076-8^2076-8^A"
+   },
+   "12": {
+    "zero": "UNKNOWN BY PATIENT^U^9999-4^^D"
+   },
+   "13": {
+    "zero": "WHITE^W^2106-3^2106-3^B"
+   },
+   "2": {
+    "zero": "AMERICAN INDIAN OR ALASKA NATIVE^3^1002-5^1002-5^3"
+   },
+   "3": {
+    "zero": "WHITE, NOT OF HISPANIC ORIGIN^6"
+   },
+   "4": {
+    "zero": "HISPANIC, WHITE^1"
+   },
+   "5": {
+    "zero": "ASIAN OR PACIFIC ISLANDER^5"
+   },
+   "6": {
+    "zero": "HISPANIC, BLACK^2"
+   },
+   "7": {
+    "zero": "UNKNOWN^7"
+   },
+   "8": {
+    "zero": "ASIAN^A^2028-9^2028-9^8"
+   },
+   "9": {
+    "zero": "BLACK OR AFRICAN AMERICAN^B^2054-5^2054-5^9"
+   }
+  },
+  "file": "10",
+  "source": "Packages/Registration/Globals/10+RACE.zwr"
+ },
+ "religion": {
+  "entries": {
+   "1": {
+    "zero": "JUDAISM^^4^1"
+   },
+   "10": {
+    "zero": "ASSEMBLY OF GOD^^^10"
+   },
+   "100": {
+    "zero": "NATIVE AMERICAN^^^30"
+   },
+   "101": {
+    "zero": "ZEN BUDDHISM^^^31"
+   },
+   "102": {
+    "zero": "AFRICAN RELIGIONS^^^32"
+   },
+   "103": {
+    "zero": "AFRO-CARIBBEAN RELIGIONS^^^33"
+   },
+   "104": {
+    "zero": "AGNOSTICISM^^^34"
+   },
+   "105": {
+    "zero": "ANGLICAN^^^35"
+   },
+   "106": {
+    "zero": "ANIMISM^^^36"
+   },
+   "107": {
+    "zero": "ATHEISM^^^37"
+   },
+   "108": {
+    "zero": "BABI & BAHA'I FAITHS^^^38"
+   },
+   "109": {
+    "zero": "BON^^^39"
+   },
+   "11": {
+    "zero": "BRETHREN^^^11"
+   },
+   "110": {
+    "zero": "CAO DAI^^^40"
+   },
+   "111": {
+    "zero": "CELTICISM^^^41"
+   },
+   "112": {
+    "zero": "CHRISTIAN (NON-SPECIFIC)^^^42"
+   },
+   "113": {
+    "zero": "CONFUCIANISM^^^43"
+   },
+   "114": {
+    "zero": "CONGREGATIONAL^^^44"
+   },
+   "115": {
+    "zero": "CYBERCULTURE RELIGIONS^^^45"
+   },
+   "116": {
+    "zero": "DIVINATION^^^46"
+   },
+   "117": {
+    "zero": "FOURTH WAY^^^47"
+   },
+   "118": {
+    "zero": "FREE DAISM^^^48"
+   },
+   "119": {
+    "zero": "FULL GOSPEL^^^49"
+   },
+   "12": {
+    "zero": "CHRISTIAN SCIENTIST^^^12"
+   },
+   "120": {
+    "zero": "GNOSIS^^^50"
+   },
+   "121": {
+    "zero": "HINDUISM^^^51"
+   },
+   "122": {
+    "zero": "HUMANISM^^^52"
+   },
+   "123": {
+    "zero": "INDEPENDENT^^^53"
+   },
+   "124": {
+    "zero": "JAINISM^^^54"
+   },
+   "125": {
+    "zero": "MAHAYANA^^^55"
+   },
+   "126": {
+    "zero": "MEDITATION^^^56"
+   },
+   "127": {
+    "zero": "MESSIANIC JUDAISM^^^57"
+   },
+   "128": {
+    "zero": "MITRAISM^^^58"
+   },
+   "129": {
+    "zero": "NEW AGE^^^59"
+   },
+   "13": {
+    "zero": "CHURCH OF CHRIST^^^13"
+   },
+   "130": {
+    "zero": "NON-ROMAN CATHOLIC^^^60"
+   },
+   "131": {
+    "zero": "OCCULT^^^61"
+   },
+   "132": {
+    "zero": "ORTHODOX^^^62"
+   },
+   "133": {
+    "zero": "PAGANISM^^^63"
+   },
+   "134": {
+    "zero": "PROCESS, THE^^^64"
+   },
+   "135": {
+    "zero": "REFORMED/PRESBYTERIAN^^^65"
+   },
+   "136": {
+    "zero": "SATANISM^^^66"
+   },
+   "137": {
+    "zero": "SCIENTOLOGY^^^67"
+   },
+   "138": {
+    "zero": "SHAMANISM^^^68"
+   },
+   "139": {
+    "zero": "SHIITE (ISLAM)^^^69"
+   },
+   "14": {
+    "zero": "CHURCH OF GOD^^5^14"
+   },
+   "140": {
+    "zero": "SHINTO^^^70"
+   },
+   "141": {
+    "zero": "SIKISM^^^71"
+   },
+   "142": {
+    "zero": "SPIRITUALISM^^^72"
+   },
+   "143": {
+    "zero": "SUNNI (ISLAM)^^^73"
+   },
+   "144": {
+    "zero": "TAOISM^^^74"
+   },
+   "145": {
+    "zero": "THERAVADA^^^75"
+   },
+   "146": {
+    "zero": "UNIVERSAL LIFE CHURCH^^^76"
+   },
+   "147": {
+    "zero": "VAJRAYANA (TIBETAN)^^^77"
+   },
+   "148": {
+    "zero": "VEDA^^^78"
+   },
+   "149": {
+    "zero": "VOODOO^^^79"
+   },
+   "15": {
+    "zero": "DISCIPLES OF CHRIST^^^15"
+   },
+   "150": {
+    "zero": "WICCA^^^80"
+   },
+   "151": {
+    "zero": "YAOHUSHUA^^^81"
+   },
+   "152": {
+    "zero": "ZOROASTRIANISM^^^82"
+   },
+   "153": {
+    "zero": "ASKED BUT DECLINED TO ANSWER^^^83"
+   },
+   "16": {
+    "zero": "EVANGELICAL COVENANT^^^16"
+   },
+   "17": {
+    "zero": "FRIENDS^^^17"
+   },
+   "18": {
+    "zero": "JEHOVAH'S WITNESSES^^^18"
+   },
+   "19": {
+    "zero": "LATTER DAY SAINTS^LDS^^19"
+   },
+   "2": {
+    "zero": "EASTERN ORTHODOX^^^2"
+   },
+   "20": {
+    "zero": "ISLAM^^^20"
+   },
+   "21": {
+    "zero": "NAZARENE^^^21"
+   },
+   "22": {
+    "zero": "OTHER^^^22"
+   },
+   "23": {
+    "zero": "PENTECOSTAL^^^23"
+   },
+   "24": {
+    "zero": "PROTESTANT^^^24"
+   },
+   "25": {
+    "zero": "PROTESTANT, NO DENOMINATION^^^25"
+   },
+   "26": {
+    "zero": "REFORMED^^^26"
+   },
+   "27": {
+    "zero": "SALVATION ARMY^^^27"
+   },
+   "28": {
+    "zero": "UNITARIAN-UNIVERSALISM^^^28"
+   },
+   "29": {
+    "zero": "UNKNOWN/NO PREFERENCE^^^29"
+   },
+   "3": {
+    "zero": "BAPTIST^^^3"
+   },
+   "4": {
+    "zero": "METHODIST^^^4"
+   },
+   "5": {
+    "zero": "LUTHERAN^^2^5"
+   },
+   "6": {
+    "zero": "PRESBYTERIAN^^^6"
+   },
+   "7": {
+    "zero": "UNITED CHURCH OF CHRIST^^^7"
+   },
+   "8": {
+    "zero": "EPISCOPALIAN^^^8"
+   },
+   "9": {
+    "zero": "ADVENTIST^^^9"
+   },
+   "99": {
+    "zero": "ROMAN CATHOLIC CHURCH^^^0"
+   }
+  },
+  "file": "13",
+  "source": "Packages/Registration/Globals/13+RELIGION.zwr"
+ },
+ "state": {
+  "entries": {
+   "1": {
+    "county": {
+     "1": "MOBILE",
+     "10": "BUTLER",
+     "11": "CALHOUN",
+     "12": "CHAMBERS",
+     "13": "CHEROKEE",
+     "14": "CHILTON",
+     "15": "CHOCTAW",
+     "16": "CLARKE",
+     "17": "CLAY",
+     "18": "CLEBURNE",
+     "19": "COFFEE",
+     "20": "COLBERT",
+     "21": "CONECUH",
+     "22": "COOSA",
+     "23": "COVINGTON",
+     "24": "CRENSHAW",
+     "25": "CULLMAN",
+     "26": "DALE",
+     "27": "DALLAS",
+     "28": "DEKALB",
+     "29": "ELMORE",
+     "30": "ESCAMBIA",
+     "31": "ETOWAH",
+     "32": "FAYETTE",
+     "33": "FRANKLIN",
+     "34": "GENEVA",
+     "35": "GREENE",
+     "36": "HALE",
+     "37": "HENRY",
+     "38": "HOUSTON",
+     "39": "JACKSON",
+     "4": "AUTAUGA",
+     "40": "JEFFERSON",
+     "41": "LAMAR",
+     "42": "LAUDERDALE",
+     "43": "LAWRENCE",
+     "44": "LEE",
+     "45": "LIMESTONE",
+     "46": "LOWNDES",
+     "47": "MACON",
+     "48": "MADISON",
+     "49": "MARENGO",
+     "5": "BALDWIN",
+     "50": "MARION",
+     "51": "MARSHALL",
+     "52": "MONROE",
+     "53": "MONTGOMERY",
+     "54": "MORGAN",
+     "55": "PERRY",
+     "56": "PICKENS",
+     "57": "PIKE",
+     "58": "RANDOLPH",
+     "59": "RUSSELL",
+     "6": "BARBOUR",
+     "60": "ST. CLAIR",
+     "61": "SHELBY",
+     "62": "SUMTER",
+     "63": "TALLADEGA",
+     "64": "TALLAPOOSA",
+     "65": "TUSCALOOSA",
+     "66": "WALKER",
+     "67": "WASHINGTON",
+     "68": "WILCOX",
+     "69": "WINSTON",
+     "7": "BIBB",
+     "8": "BLOUNT",
+     "9": "BULLOCK"
+    },
+    "zero": "ALABAMA^AL^01^^1^1"
+   },
+   "10": {
+    "county": {
+     "1": "KENT",
+     "2": "NEW CASTLE",
+     "3": "SUSSEX"
+    },
+    "zero": "DELAWARE^DE^10^^1^1"
+   },
+   "100": {
+    "county": {
+     "1": "ALBERTA"
+    },
+    "zero": "ALBERTA^AB^58^^1^0"
+   },
+   "101": {
+    "county": {
+     "1": "BRITISH COLUMBIA"
+    },
+    "zero": "BRITISH COLUMBIA^BC^59^^1^0"
+   },
+   "102": {
+    "county": {
+     "1": "MANITOBA"
+    },
+    "zero": "MANITOBA^MB^61^^1^0"
+   },
+   "103": {
+    "county": {
+     "1": "NEW BRUNSWICK"
+    },
+    "zero": "NEW BRUNSWICK^NB^62^^1^0"
+   },
+   "104": {
+    "county": {
+     "1": "NEWFOUNDLAND"
+    },
+    "zero": "NEWFOUNDLAND^NF^63^^1^0"
+   },
+   "105": {
+    "county": {
+     "1": "NOVA SCOTIA"
+    },
+    "zero": "NOVA SCOTIA^NS^65^^1^0"
+   },
+   "106": {
+    "county": {
+     "1": "NORTHWEST TERRITORIES"
+    },
+    "zero": "NORTHWEST TERRITORIES^NT^73^^1^0"
+   },
+   "107": {
+    "county": {
+     "1": "ONTARIO"
+    },
+    "zero": "ONTARIO^ON^75^^1^0"
+   },
+   "108": {
+    "county": {
+     "1": "PRINCE EDWARD ISLAND"
+    },
+    "zero": "PRINCE EDWARD ISLAND^PE^77^^1^0"
+   },
+   "109": {
+    "county": {
+     "1": "SASKATCHEWAN"
+    },
+    "zero": "SASKATCHEWAN^SK^82^^1^0"
+   },
+   "11": {
+    "county": {
+     "1": "DISTRICT OF COLUMBIA"
+    },
+    "zero": "DISTRICT OF COLUMBIA^DC^11^^1^1"
+   },
+   "110": {
+    "county": {
+     "1": "YUKON TERRITORY"
+    },
+    "zero": "YUKON TERRITORY^YT^83^^1^0"
+   },
+   "111": {
+    "county": {
+     "1": "ARMED FORCES AMER (EXC CA",
+     "2": "ARMED FORCES"
+    },
+    "zero": "ARMED FORCES AMER (EXC CANADA)^AA^85^^1^1"
+   },
+   "112": {
+    "county": {
+     "1": "ARMED FORCES AF,EU,ME,CA",
+     "2": "ARMED FORCES"
+    },
+    "zero": "ARMED FORCES AF,EU,ME,CA^AE^87^^1^1"
+   },
+   "113": {
+    "county": {
+     "1": "ARMED FORCES PACIFIC",
+     "2": "ARMED FORCES"
+    },
+    "zero": "ARMED FORCES PACIFIC^AP^88^^1^1"
+   },
+   "114": {
+    "county": {
+     "1": "NUNAVUT PROVINCE"
+    },
+    "zero": "NUNAVUT PROVINCE^NU^94^^1^0"
+   },
+   "115": {
+    "county": {
+     "1": "OTHER"
+    },
+    "zero": "UNKNOWN^UN^99^^1^0"
+   },
+   "12": {
+    "county": {
+     "10": "ORANGE",
+     "11": "BRADFORD",
+     "12": "HERNANDO",
+     "13": "OSCEOLA",
+     "14": "BREVARD",
+     "15": "HIGHLANDS",
+     "16": "PALM BEACH",
+     "17": "BROWARD",
+     "18": "HILLSBOROUGH",
+     "19": "PASCO",
+     "2": "ALACHUA",
+     "20": "CALHOUN",
+     "21": "HOLMES",
+     "22": "PINELLAS",
+     "23": "CHARLOTTE",
+     "24": "INDIAN RIVER",
+     "25": "POLK",
+     "26": "CITRUS",
+     "27": "JACKSON",
+     "28": "PUTNAM",
+     "29": "CLAY",
+     "3": "HAMILTON",
+     "30": "JEFFERSON",
+     "31": "ST. JOHNS",
+     "32": "COLLIER",
+     "33": "LAFAYETTE",
+     "34": "ST. LUCIE",
+     "35": "COLUMBIA",
+     "36": "LAKE",
+     "37": "SANTA ROSA",
+     "38": "MIAMI-DADE",
+     "39": "LEE",
+     "4": "OKALOOSA",
+     "40": "SARASOTA",
+     "41": "DESOTO",
+     "42": "LEON",
+     "43": "SEMINOLE",
+     "44": "DIXIE",
+     "45": "LEVY",
+     "46": "SUMTER",
+     "47": "DUVAL",
+     "48": "LIBERTY",
+     "49": "SUWANNEE",
+     "5": "BAKER",
+     "50": "ESCAMBIA",
+     "51": "MADISON",
+     "52": "TAYLOR",
+     "53": "FLAGLER",
+     "54": "MANATEE",
+     "55": "UNION",
+     "56": "FRANKLIN",
+     "57": "MARION",
+     "58": "VOLUSIA",
+     "59": "GADSDEN",
+     "6": "HARDEE",
+     "60": "MARTIN",
+     "61": "WAKULLA",
+     "62": "GILCHRIST",
+     "63": "MONROE",
+     "64": "WALTON",
+     "65": "GLADES",
+     "66": "NASSAU",
+     "67": "WASHINGTON",
+     "68": "GULF",
+     "69": "DADE",
+     "7": "OKEECHOBEE",
+     "8": "BAY",
+     "9": "HENDRY"
+    },
+    "zero": "FLORIDA^FL^12^^1^1"
+   },
+   "13": {
+    "county": {
+     "1": "APPLING",
+     "10": "BAKER",
+     "100": "HARRIS",
+     "101": "MUSCOGEE",
+     "102": "TREUTLEN",
+     "103": "HART",
+     "104": "NEWTON",
+     "105": "TROUP",
+     "106": "HEARD",
+     "107": "OCONEE",
+     "108": "TURNER",
+     "109": "HENRY",
+     "11": "CATOOSA",
+     "110": "OGLETHORPE",
+     "111": "TWIGGS",
+     "112": "HOUSTON",
+     "113": "PAULDING",
+     "114": "UNION",
+     "115": "IRWIN",
+     "116": "PEACH",
+     "117": "UPSON",
+     "118": "JACKSON",
+     "119": "PICKENS",
+     "12": "DAWSON",
+     "120": "WALKER",
+     "121": "JASPER",
+     "122": "PIERCE",
+     "123": "WALTON",
+     "124": "JEFF DAVIS",
+     "125": "PIKE",
+     "126": "WARE",
+     "127": "JEFFERSON",
+     "128": "POLK",
+     "129": "WARREN",
+     "13": "BALDWIN",
+     "130": "JENKINS",
+     "131": "PULASKI",
+     "132": "WASHINGTON",
+     "133": "JOHNSON",
+     "134": "PUTNAM",
+     "135": "WAYNE",
+     "136": "JONES",
+     "137": "QUITMAN",
+     "138": "WEBSTER",
+     "139": "LAMAR",
+     "14": "CHARLTON",
+     "140": "RABUN",
+     "141": "WHEELER",
+     "142": "LANIER",
+     "143": "RANDOLPH",
+     "144": "WHITE",
+     "145": "LAURENS",
+     "146": "RICHMOND",
+     "147": "WHITFIELD",
+     "148": "LEE",
+     "149": "ROCKDALE",
+     "15": "DECATUR",
+     "150": "WILCOX",
+     "151": "LIBERTY",
+     "152": "SCHLEY",
+     "153": "WILKES",
+     "154": "LINCOLN",
+     "155": "SCREVEN",
+     "156": "WILKINSON",
+     "157": "LONG",
+     "158": "SEMINOLE",
+     "159": "WORTH",
+     "16": "BANKS",
+     "17": "CHATHAM",
+     "18": "DEKALB",
+     "19": "BARROW",
+     "2": "CAMDEN",
+     "20": "CHATTAHOOCHEE",
+     "21": "DODGE",
+     "22": "BARTOW",
+     "23": "CHATTOOGA",
+     "24": "DOOLY",
+     "25": "BEN HILL",
+     "26": "CHEROKEE",
+     "27": "DOUGHERTY",
+     "28": "BERRIEN",
+     "29": "CLARKE",
+     "3": "CRAWFORD",
+     "30": "DOUGLAS",
+     "31": "BIBB",
+     "32": "CLAY",
+     "33": "EARLY",
+     "34": "BLECKLEY",
+     "35": "CLAYTON",
+     "36": "ECHOLS",
+     "37": "BRANTLEY",
+     "38": "CLINCH",
+     "39": "EFFINGHAM",
+     "4": "ATKINSON",
+     "40": "BROOKS",
+     "41": "COBB",
+     "42": "ELBERT",
+     "43": "BRYAN",
+     "44": "COFFEE",
+     "45": "EMANUEL",
+     "46": "BULLOCH",
+     "47": "COLQUITT",
+     "48": "EVANS",
+     "49": "BURKE",
+     "5": "CANDLER",
+     "50": "COLUMBIA",
+     "51": "FANNIN",
+     "52": "BUTTS",
+     "53": "COOK",
+     "54": "FAYETTE",
+     "55": "CALHOUN",
+     "56": "COWETA",
+     "57": "FLOYD",
+     "58": "FORSYTH",
+     "59": "LOWNDES",
+     "6": "CRISP",
+     "60": "SPALDING",
+     "61": "FRANKLIN",
+     "62": "LUMPKIN",
+     "63": "STEPHENS",
+     "64": "FULTON",
+     "65": "MCDUFFIE",
+     "66": "STEWART",
+     "67": "GILMER",
+     "68": "MCINTOSH",
+     "69": "SUMTER",
+     "7": "BACON",
+     "70": "GLASCOCK",
+     "71": "MACON",
+     "72": "TALBOT",
+     "73": "GLYNN",
+     "74": "MADISON",
+     "75": "TALIAFERRO",
+     "76": "GORDON",
+     "77": "MARION",
+     "78": "TATTNALL",
+     "79": "GRADY",
+     "8": "CARROLL",
+     "80": "MERIWETHER",
+     "81": "TAYLOR",
+     "82": "GREENE",
+     "83": "MILLER",
+     "84": "TELFAIR",
+     "85": "GWINNETT",
+     "86": "MITCHELL",
+     "87": "TERRELL",
+     "88": "HABERSHAM",
+     "89": "MONROE",
+     "9": "DADE",
+     "90": "THOMAS",
+     "91": "HALL",
+     "92": "MONTGOMERY",
+     "93": "TIFT",
+     "94": "HANCOCK",
+     "95": "MORGAN",
+     "96": "TOOMBS",
+     "97": "HARALSON",
+     "98": "MURRAY",
+     "99": "TOWNS"
+    },
+    "zero": "GEORGIA^GA^13^^1^1"
+   },
+   "15": {
+    "county": {
+     "1": "HAWAII",
+     "2": "KALAWAO",
+     "3": "MAUI",
+     "4": "HONOLULU",
+     "5": "KAUAI"
+    },
+    "zero": "HAWAII^HI^15^^1^1"
+   },
+   "16": {
+    "county": {
+     "1": "ADA",
+     "10": "BEAR LAKE",
+     "11": "BOISE",
+     "12": "BUTTE",
+     "13": "CAMAS",
+     "14": "GOODING",
+     "15": "NEZ PERCE",
+     "16": "CANYON",
+     "17": "IDAHO",
+     "18": "ONEIDA",
+     "19": "CARIBOU",
+     "2": "BENEWAH",
+     "20": "JEFFERSON",
+     "21": "OWYHEE",
+     "22": "CASSIA",
+     "23": "JEROME",
+     "24": "PAYETTE",
+     "25": "CLARK",
+     "26": "KOOTENAI",
+     "27": "POWER",
+     "28": "CLEARWATER",
+     "29": "LATAH",
+     "3": "BONNER",
+     "30": "SHOSHONE",
+     "31": "CUSTER",
+     "32": "LEMHI",
+     "33": "TETON",
+     "34": "ELMORE",
+     "35": "LEWIS",
+     "36": "TWIN FALLS",
+     "37": "FRANKLIN",
+     "38": "LINCOLN",
+     "39": "VALLEY",
+     "4": "ADAMS",
+     "40": "FREMONT",
+     "41": "MADISON",
+     "42": "WASHINGTON",
+     "43": "GEM",
+     "44": "MINIDOKA",
+     "5": "BINGHAM",
+     "6": "BONNEVILLE",
+     "7": "BANNOCK",
+     "8": "BLAINE",
+     "9": "BOUNDARY"
+    },
+    "zero": "IDAHO^ID^16^^1^1"
+   },
+   "17": {
+    "county": {
+     "1": "COOK",
+     "10": "OGLE",
+     "100": "HANCOCK",
+     "101": "MONTGOMERY",
+     "102": "WOODFORD",
+     "11": "BOONE",
+     "12": "IROQUOIS",
+     "13": "PEORIA",
+     "14": "BROWN",
+     "15": "JACKSON",
+     "16": "PERRY",
+     "17": "BUREAU",
+     "18": "JASPER",
+     "19": "PIATT",
+     "2": "ADAMS",
+     "20": "CALHOUN",
+     "21": "JEFFERSON",
+     "22": "PIKE",
+     "23": "CARROLL",
+     "24": "JERSEY",
+     "25": "POPE",
+     "26": "CASS",
+     "27": "JO DAVIESS",
+     "28": "PULASKI",
+     "29": "CHAMPAIGN",
+     "3": "HARDIN",
+     "30": "JOHNSON",
+     "31": "PUTNAM",
+     "32": "CHRISTIAN",
+     "33": "KANE",
+     "34": "RANDOLPH",
+     "35": "CLARK",
+     "36": "KANKAKEE",
+     "37": "RICHLAND",
+     "38": "CLAY",
+     "39": "KENDALL",
+     "4": "MORGAN",
+     "40": "ROCK ISLAND",
+     "41": "CLINTON",
+     "42": "KNOX",
+     "43": "ST. CLAIR",
+     "44": "COLES",
+     "45": "LAKE",
+     "46": "SALINE",
+     "47": "LA SALLE",
+     "48": "SANGAMON",
+     "49": "CRAWFORD",
+     "5": "ALEXANDER",
+     "50": "LAWRENCE",
+     "51": "SCHUYLER",
+     "52": "CUMBERLAND",
+     "53": "LEE",
+     "54": "SCOTT",
+     "55": "DEKALB",
+     "56": "LIVINGSTON",
+     "57": "SHELBY",
+     "58": "DE WITT",
+     "59": "LOGAN",
+     "6": "HENDERSON",
+     "60": "STARK",
+     "61": "DOUGLAS",
+     "62": "MCDONOUGH",
+     "63": "STEPHENSON",
+     "64": "DUPAGE",
+     "65": "MCHENRY",
+     "66": "TAZEWELL",
+     "67": "EDGAR",
+     "68": "MCLEAN",
+     "69": "UNION",
+     "7": "MOULTRIE",
+     "70": "EDWARDS",
+     "71": "MACON",
+     "72": "VERMILION",
+     "73": "EFFINGHAM",
+     "74": "MACOUPIN",
+     "75": "WABASH",
+     "76": "FAYETTE",
+     "77": "MADISON",
+     "78": "WARREN",
+     "79": "FORD",
+     "8": "BOND",
+     "80": "MARION",
+     "81": "WASHINGTON",
+     "82": "FRANKLIN",
+     "83": "MARSHALL",
+     "84": "WAYNE",
+     "85": "FULTON",
+     "86": "MASON",
+     "87": "WHITE",
+     "88": "GALLATIN",
+     "89": "MASSAC",
+     "9": "HENRY",
+     "90": "WHITESIDE",
+     "91": "GREENE",
+     "92": "MENARD",
+     "93": "WILL",
+     "94": "GRUNDY",
+     "95": "MERCER",
+     "96": "WILLIAMSON",
+     "97": "HAMILTON",
+     "98": "MONROE",
+     "99": "WINNEBAGO"
+    },
+    "zero": "ILLINOIS^IL^17^^1^1"
+   },
+   "18": {
+    "county": {
+     "10": "HENRY",
+     "11": "PORTER",
+     "12": "BARTHOLOMEW",
+     "13": "HOWARD",
+     "14": "POSEY",
+     "15": "BENTON",
+     "16": "HUNTINGTON",
+     "17": "PULASKI",
+     "18": "BLACKFORD",
+     "19": "JACKSON",
+     "2": "JASPER",
+     "20": "PUTNAM",
+     "21": "BOONE",
+     "22": "RANDOLPH",
+     "23": "BROWN",
+     "24": "JAY",
+     "25": "RIPLEY",
+     "27": "JEFFERSON",
+     "28": "RUSH",
+     "29": "CASS",
+     "3": "LA PORTE",
+     "30": "JENNINGS",
+     "31": "CLARK",
+     "32": "JOHNSON",
+     "33": "SCOTT",
+     "34": "CLAY",
+     "35": "KNOX",
+     "36": "SHELBY",
+     "37": "CLINTON",
+     "38": "KOSCIUSKO",
+     "39": "SPENCER",
+     "4": "MARION",
+     "40": "CRAWFORD",
+     "41": "LAGRANGE",
+     "42": "STARKE",
+     "43": "DAVIESS",
+     "44": "LAKE",
+     "45": "STEUBEN",
+     "46": "DEARBORN",
+     "47": "SULLIVAN",
+     "48": "DECATUR",
+     "49": "LAWRENCE",
+     "5": "ST. JOSEPH",
+     "50": "SWITZERLAND",
+     "51": "DE KALB",
+     "52": "MADISON",
+     "53": "TIPPECANOE",
+     "54": "DELAWARE",
+     "55": "TIPTON",
+     "56": "DUBOIS",
+     "57": "MARSHALL",
+     "58": "UNION",
+     "59": "ELKHART",
+     "6": "ADAMS",
+     "60": "MARTIN",
+     "61": "VANDERBURGH",
+     "62": "FAYETTE",
+     "63": "MIAMI",
+     "64": "VERMILLION",
+     "65": "FLOYD",
+     "66": "MONROE",
+     "67": "VIGO",
+     "68": "FOUNTAIN",
+     "69": "MONTGOMERY",
+     "7": "HENDRICKS",
+     "70": "WABASH",
+     "71": "FRANKLIN",
+     "72": "MORGAN",
+     "73": "WARREN",
+     "74": "FULTON",
+     "75": "NEWTON",
+     "76": "WARRICK",
+     "77": "GIBSON",
+     "78": "NOBLE",
+     "79": "WASHINGTON",
+     "8": "PIKE",
+     "80": "GRANT",
+     "81": "OHIO",
+     "82": "WAYNE",
+     "83": "GREENE",
+     "84": "ORANGE",
+     "85": "WELLS",
+     "86": "HAMILTON",
+     "87": "OWEN",
+     "88": "WHITE",
+     "89": "HANCOCK",
+     "9": "ALLEN",
+     "90": "PARKE",
+     "91": "WHITLEY",
+     "93": "HARRISON",
+     "94": "PERRY",
+     "95": "CARROLL"
+    },
+    "zero": "INDIANA^IN^18^^1^1"
+   },
+   "19": {
+    "county": {
+     "10": "CEDAR",
+     "100": "WRIGHT",
+     "11": "DES MOINES",
+     "12": "APPANOOSE",
+     "13": "CERRO GORDO",
+     "14": "DICKINSON",
+     "15": "AUDUBON",
+     "16": "CHEROKEE",
+     "17": "DUBUQUE",
+     "18": "BENTON",
+     "19": "CHICKASAW",
+     "2": "JASPER",
+     "20": "EMMET",
+     "21": "BLACK HAWK",
+     "22": "CLARKE",
+     "23": "FAYETTE",
+     "24": "BOONE",
+     "25": "CLAY",
+     "26": "FLOYD",
+     "27": "BREMER",
+     "28": "CLAYTON",
+     "29": "FRANKLIN",
+     "3": "ADAIR",
+     "30": "BUCHANAN",
+     "31": "CLINTON",
+     "32": "FREMONT",
+     "33": "BUENA VISTA",
+     "34": "CRAWFORD",
+     "35": "GREENE",
+     "36": "BUTLER",
+     "37": "DALLAS",
+     "38": "GRUNDY",
+     "39": "CALHOUN",
+     "4": "CARROLL",
+     "40": "DAVIS",
+     "41": "GUTHRIE",
+     "42": "HAMILTON",
+     "43": "LYON",
+     "44": "RINGGOLD",
+     "45": "HANCOCK",
+     "46": "MADISON",
+     "47": "SAC",
+     "48": "HARDIN",
+     "49": "MAHASKA",
+     "5": "DECATUR",
+     "50": "SCOTT",
+     "51": "HARRISON",
+     "52": "MARION",
+     "53": "SHELBY",
+     "54": "HENRY",
+     "55": "MARSHALL",
+     "56": "SIOUX",
+     "57": "HOWARD",
+     "58": "MILLS",
+     "59": "STORY",
+     "6": "ADAMS",
+     "60": "HUMBOLDT",
+     "61": "MITCHELL",
+     "62": "TAMA",
+     "63": "IDA",
+     "64": "MONONA",
+     "65": "TAYLOR",
+     "66": "IOWA",
+     "67": "MONROE",
+     "68": "UNION",
+     "69": "JACKSON",
+     "7": "CASS",
+     "70": "MONTGOMERY",
+     "71": "VAN BUREN",
+     "72": "MUSCATINE",
+     "73": "WAPELLO",
+     "74": "JEFFERSON",
+     "75": "O'BRIEN",
+     "76": "WARREN",
+     "77": "JOHNSON",
+     "78": "OSCEOLA",
+     "79": "WASHINGTON",
+     "8": "DELAWARE",
+     "80": "JONES",
+     "81": "PAGE",
+     "82": "WAYNE",
+     "83": "KEOKUK",
+     "84": "PALO ALTO",
+     "85": "WEBSTER",
+     "86": "KOSSUTH",
+     "87": "PLYMOUTH",
+     "88": "WINNEBAGO",
+     "89": "LEE",
+     "9": "ALLAMAKEE",
+     "90": "POCAHONTAS",
+     "91": "WINNESHIEK",
+     "92": "LINN",
+     "93": "POLK",
+     "94": "WOODBURY",
+     "95": "LOUISA",
+     "96": "POTTAWATTAMIE",
+     "97": "WORTH",
+     "98": "LUCAS",
+     "99": "POWESHIEK"
+    },
+    "zero": "IOWA^IA^19^^1^1"
+   },
+   "2": {
+    "county": {
+     "10": "FAIRBANKS NORTH STAR",
+     "11": "HAINES",
+     "12": "JUNEAU",
+     "13": "KENAI PENINSULA",
+     "14": "KETCHIKAN GATEWAY",
+     "15": "NORTHWEST ARCTIC",
+     "16": "KODIAK ISLAND",
+     "18": "MATANUSKA-SUSITNA",
+     "19": "NOME (CA)",
+     "2": "ALEUTIANS WEST (CA)",
+     "20": "PRINCE WALES KETCHIKAN",
+     "23": "SITKA",
+     "25": "SOUTHEAST FAIRBANKS (CA)",
+     "26": "YUKON-KOYUKUK (CA)",
+     "28": "WADE HAMPTON (CA)",
+     "29": "WRANGELL-PETERSBURG (CA)",
+     "3": "ANCHORAGE",
+     "31": "ALEUTIANS EAST",
+     "32": "LAKE AND PENINSULA",
+     "34": "DILLINGHAM (CA)",
+     "35": "NOT SPECIFIED",
+     "36": "DENALI",
+     "37": "YAKUTAT",
+     "38": "SKAGWAY YAKUTAT ANGO",
+     "4": "SKAGWAY HOONAH ANGOON",
+     "5": "NORTH SLOPE",
+     "6": "BETHEL (CA)",
+     "7": "BRISTOL BAY",
+     "9": "VALDEZ-CORDOVA (CA)"
+    },
+    "zero": "ALASKA^AK^02^^1^1"
+   },
+   "20": {
+    "county": {
+     "1": "ALLEN",
+     "10": "CHAUTAUQUA",
+     "100": "WALLACE",
+     "101": "WASHINGTON",
+     "102": "WICHITA",
+     "103": "WILSON",
+     "104": "WOODSON",
+     "105": "WYANDOTTE",
+     "107": "ELK",
+     "108": "ELLIS",
+     "11": "CHEROKEE",
+     "12": "CHEYENNE",
+     "13": "CLARK",
+     "14": "CLAY",
+     "15": "CLOUD",
+     "16": "COFFEY",
+     "17": "COMANCHE",
+     "18": "COWLEY",
+     "19": "CRAWFORD",
+     "2": "ANDERSON",
+     "20": "DECATUR",
+     "21": "DICKINSON",
+     "22": "DONIPHAN",
+     "23": "DOUGLAS",
+     "24": "EDWARDS",
+     "27": "ELLSWORTH",
+     "28": "FINNEY",
+     "29": "FORD",
+     "3": "ATCHISON",
+     "30": "FRANKLIN",
+     "31": "GEARY",
+     "32": "GOVE",
+     "33": "GRAHAM",
+     "34": "GRANT",
+     "35": "GRAY",
+     "36": "GREELEY",
+     "37": "GREENWOOD",
+     "38": "HAMILTON",
+     "39": "HARPER",
+     "4": "BARBER",
+     "40": "HARVEY",
+     "41": "HASKELL",
+     "42": "HODGEMAN",
+     "43": "JACKSON",
+     "44": "JEFFERSON",
+     "45": "JEWELL",
+     "46": "JOHNSON",
+     "47": "KEARNY",
+     "48": "KINGMAN",
+     "49": "KIOWA",
+     "5": "BARTON",
+     "50": "LABETTE",
+     "51": "LANE",
+     "52": "LEAVENWORTH",
+     "53": "LINCOLN",
+     "54": "LINN",
+     "55": "LOGAN",
+     "56": "LYON",
+     "57": "MCPHERSON",
+     "58": "MARION",
+     "59": "MARSHALL",
+     "6": "BOURBON",
+     "60": "MEADE",
+     "61": "MIAMI",
+     "62": "MITCHELL",
+     "63": "MONTGOMERY",
+     "64": "MORRIS",
+     "65": "MORTON",
+     "66": "NEMAHA",
+     "67": "NEOSHO",
+     "68": "NESS",
+     "69": "NORTON",
+     "7": "BROWN",
+     "70": "OSAGE",
+     "71": "OSBORNE",
+     "72": "OTTAWA",
+     "73": "PAWNEE",
+     "74": "PHILLIPS",
+     "75": "POTTAWATOMIE",
+     "76": "PRATT",
+     "77": "RAWLINS",
+     "78": "RENO",
+     "79": "REPUBLIC",
+     "8": "BUTLER",
+     "80": "RICE",
+     "81": "RILEY",
+     "82": "ROOKS",
+     "83": "RUSH",
+     "84": "RUSSELL",
+     "85": "SALINE",
+     "86": "SCOTT",
+     "87": "SEDGWICK",
+     "88": "SEWARD",
+     "89": "SHAWNEE",
+     "9": "CHASE",
+     "90": "SHERIDAN",
+     "91": "SHERMAN",
+     "92": "SMITH",
+     "93": "STAFFORD",
+     "94": "STANTON",
+     "95": "STEVENS",
+     "96": "SUMNER",
+     "97": "THOMAS",
+     "98": "TREGO",
+     "99": "WABAUNSEE"
+    },
+    "zero": "KANSAS^KS^20^^1^1"
+   },
+   "21": {
+    "county": {
+     "1": "ADAIR",
+     "10": "BALLARD",
+     "100": "FAYETTE",
+     "101": "LEWIS",
+     "102": "ROCKCASTLE",
+     "103": "ROWAN",
+     "104": "TAYLOR",
+     "105": "WASHINGTON",
+     "106": "RUSSELL",
+     "107": "TODD",
+     "108": "WAYNE",
+     "109": "SCOTT",
+     "11": "FULTON",
+     "110": "TRIGG",
+     "111": "WEBSTER",
+     "112": "SHELBY",
+     "113": "TRIMBLE",
+     "114": "WHITLEY",
+     "115": "SIMPSON",
+     "116": "UNION",
+     "117": "WOLFE",
+     "118": "SPENCER",
+     "119": "WARREN",
+     "12": "LYON",
+     "120": "WOODFORD",
+     "13": "BARREN",
+     "14": "GALLATIN",
+     "15": "MCCRACKEN",
+     "16": "BATH",
+     "17": "GARRARD",
+     "18": "MCCREARY",
+     "19": "BELL",
+     "2": "FLEMING",
+     "20": "GRANT",
+     "21": "MCLEAN",
+     "22": "BOONE",
+     "23": "GRAVES",
+     "24": "MADISON",
+     "25": "BOURBON",
+     "26": "GRAYSON",
+     "27": "MAGOFFIN",
+     "28": "BOYD",
+     "29": "GREEN",
+     "3": "LINCOLN",
+     "30": "MARION",
+     "31": "BOYLE",
+     "32": "GREENUP",
+     "33": "MARSHALL",
+     "34": "BRACKEN",
+     "35": "HANCOCK",
+     "36": "MARTIN",
+     "37": "BREATHITT",
+     "38": "HARDIN",
+     "39": "MASON",
+     "4": "ALLEN",
+     "40": "BRECKINRIDGE",
+     "41": "HARLAN",
+     "42": "MEADE",
+     "43": "BULLITT",
+     "44": "HARRISON",
+     "45": "MENIFEE",
+     "46": "BUTLER",
+     "47": "HART",
+     "48": "MERCER",
+     "49": "CALDWELL",
+     "5": "FLOYD",
+     "50": "HENDERSON",
+     "51": "METCALFE",
+     "52": "CALLOWAY",
+     "53": "HENRY",
+     "54": "MONROE",
+     "55": "CAMPBELL",
+     "56": "HICKMAN",
+     "57": "MONTGOMERY",
+     "58": "CARLISLE",
+     "59": "HOPKINS",
+     "6": "LIVINGSTON",
+     "60": "MORGAN",
+     "61": "CARROLL",
+     "62": "JACKSON",
+     "63": "MUHLENBERG",
+     "64": "CARTER",
+     "65": "JEFFERSON",
+     "66": "NELSON",
+     "67": "CASEY",
+     "68": "JESSAMINE",
+     "69": "NICHOLAS",
+     "7": "ANDERSON",
+     "70": "CHRISTIAN",
+     "71": "JOHNSON",
+     "72": "OHIO",
+     "73": "CLARK",
+     "74": "KENTON",
+     "75": "OLDHAM",
+     "76": "CLAY",
+     "77": "KNOTT",
+     "78": "OWEN",
+     "79": "CLINTON",
+     "8": "FRANKLIN",
+     "80": "KNOX",
+     "81": "OWSLEY",
+     "82": "CRITTENDEN",
+     "83": "LARUE",
+     "84": "PENDLETON",
+     "85": "CUMBERLAND",
+     "86": "LAUREL",
+     "87": "PERRY",
+     "88": "DAVIESS",
+     "89": "LAWRENCE",
+     "9": "LOGAN",
+     "90": "PIKE",
+     "91": "EDMONSON",
+     "92": "LEE",
+     "93": "POWELL",
+     "94": "ELLIOTT",
+     "95": "LESLIE",
+     "96": "PULASKI",
+     "97": "ESTILL",
+     "98": "LETCHER",
+     "99": "ROBERTSON"
+    },
+    "zero": "KENTUCKY^KY^21^^1^1"
+   },
+   "22": {
+    "county": {
+     "1": "ACADIA",
+     "10": "ASSUMPTION",
+     "11": "JEFFERSON",
+     "12": "ST. JOHN THE BAPTIST",
+     "13": "AVOYELLES",
+     "14": "JEFFERSON DAVIS",
+     "15": "BEAUREGARD",
+     "16": "ST. LANDRY",
+     "17": "BIENVILLE",
+     "18": "LAFAYETTE",
+     "19": "ST. MARTIN",
+     "2": "IBERIA",
+     "20": "BOSSIER",
+     "21": "LAFOURCHE",
+     "22": "ST. MARY",
+     "23": "CADDO",
+     "24": "LA SALLE",
+     "25": "ST. TAMMANY",
+     "26": "CALCASIEU",
+     "27": "LINCOLN",
+     "28": "TANGIPAHOA",
+     "29": "CALDWELL",
+     "3": "ST. CHARLES",
+     "30": "LIVINGSTON",
+     "31": "TENSAS",
+     "32": "CAMERON",
+     "33": "MADISON",
+     "34": "TERREBONNE",
+     "35": "CATAHOULA",
+     "36": "MOREHOUSE",
+     "37": "UNION",
+     "38": "CLAIBORNE",
+     "39": "NATCHITOCHES",
+     "4": "ALLEN",
+     "40": "VERMILION",
+     "41": "CONCORDIA",
+     "42": "ORLEANS",
+     "43": "VERNON",
+     "44": "DE SOTO",
+     "45": "OUACHITA",
+     "46": "WASHINGTON",
+     "47": "EAST BATON ROUGE",
+     "48": "PLAQUEMINES",
+     "49": "POINTE COUPEE",
+     "5": "IBERVILLE",
+     "50": "WEBSTER",
+     "51": "WEST BATON ROUGE",
+     "52": "EAST CARROLL",
+     "53": "RAPIDES",
+     "54": "EAST FELICIANA",
+     "55": "RED RIVER",
+     "56": "WEST CARROLL",
+     "57": "EVANGELINE",
+     "58": "RICHLAND",
+     "59": "WEST FELICIANA",
+     "6": "ST. HELENA",
+     "60": "FRANKLIN",
+     "61": "SABINE",
+     "62": "WINN",
+     "63": "GRANT",
+     "64": "ST. BERNARD",
+     "7": "ASCENSION",
+     "8": "JACKSON",
+     "9": "ST. JAMES"
+    },
+    "zero": "LOUISIANA^LA^22^^1^1"
+   },
+   "23": {
+    "county": {
+     "1": "WASHINGTON",
+     "10": "SOMERSET",
+     "11": "FRANKLIN",
+     "12": "OXFORD",
+     "13": "WALDO",
+     "14": "HANCOCK",
+     "15": "PENOBSCOT",
+     "16": "YORK",
+     "2": "ANDROSCOGGIN",
+     "3": "KENNEBEC",
+     "4": "PISCATAQUIS",
+     "5": "AROOSTOOK",
+     "6": "KNOX",
+     "7": "SAGADAHOC",
+     "8": "CUMBERLAND",
+     "9": "LINCOLN"
+    },
+    "zero": "MAINE^ME^23^^1^1"
+   },
+   "24": {
+    "county": {
+     "1": "ANNE ARUNDEL",
+     "10": "SOMERSET",
+     "11": "CALVERT",
+     "12": "HARFORD",
+     "13": "TALBOT",
+     "14": "CAROLINE",
+     "15": "HOWARD",
+     "16": "WASHINGTON",
+     "17": "CARROLL",
+     "18": "KENT",
+     "19": "WICOMICO",
+     "2": "PRINCE GEORGE'S",
+     "20": "CECIL",
+     "21": "MONTGOMERY",
+     "22": "WORCESTER",
+     "23": "CHARLES",
+     "24": "BALTIMORE (CITY)",
+     "3": "ALLEGANY",
+     "4": "DORCHESTER",
+     "5": "QUEEN ANNE'S",
+     "6": "FREDERICK",
+     "7": "ST. MARY'S",
+     "8": "BALTIMORE",
+     "9": "GARRETT"
+    },
+    "zero": "MARYLAND^MD^24^^1^1"
+   },
+   "25": {
+    "county": {
+     "1": "BARNSTABLE",
+     "10": "DUKES",
+     "11": "MIDDLESEX",
+     "12": "WORCESTER",
+     "13": "ESSEX",
+     "14": "NANTUCKET",
+     "2": "FRANKLIN",
+     "3": "NORFOLK",
+     "4": "BERKSHIRE",
+     "5": "HAMPDEN",
+     "6": "PLYMOUTH",
+     "7": "BRISTOL",
+     "8": "HAMPSHIRE",
+     "9": "SUFFOLK"
+    },
+    "zero": "MASSACHUSETTS^MA^25^^1^1"
+   },
+   "26": {
+    "county": {
+     "1": "CHIPPEWA",
+     "10": "GLADWIN",
+     "11": "ALLEGAN",
+     "12": "GOGEBIC",
+     "13": "MANISTEE",
+     "14": "ALPENA",
+     "15": "MARQUETTE",
+     "16": "ANTRIM",
+     "17": "GRATIOT",
+     "18": "MASON",
+     "19": "ARENAC",
+     "2": "CLARE",
+     "20": "HILLSDALE",
+     "21": "MECOSTA",
+     "22": "BARAGA",
+     "23": "HOUGHTON",
+     "24": "MENOMINEE",
+     "25": "BARRY",
+     "26": "HURON",
+     "27": "MIDLAND",
+     "28": "BAY",
+     "29": "INGHAM",
+     "30": "MISSAUKEE",
+     "31": "BENZIE",
+     "32": "IONIA",
+     "33": "MONROE",
+     "34": "BERRIEN",
+     "35": "IOSCO",
+     "36": "MONTCALM",
+     "37": "BRANCH",
+     "38": "IRON",
+     "39": "MONTMORENCY",
+     "4": "GRAND TRAVERSE",
+     "40": "CALHOUN",
+     "41": "ISABELLA",
+     "42": "MUSKEGON",
+     "43": "CASS",
+     "44": "JACKSON",
+     "45": "NEWAYGO",
+     "46": "CHARLEVOIX",
+     "47": "KALAMAZOO",
+     "48": "OAKLAND",
+     "49": "CHEBOYGAN",
+     "5": "MACOMB",
+     "50": "KALKASKA",
+     "51": "OCEANA",
+     "52": "KENT",
+     "53": "OGEMAW",
+     "54": "KEWEENAW",
+     "55": "ONTONAGON",
+     "56": "CLINTON",
+     "57": "LAKE",
+     "58": "OSCEOLA",
+     "59": "CRAWFORD",
+     "6": "ALCONA",
+     "60": "LAPEER",
+     "61": "OSCODA",
+     "62": "DELTA",
+     "63": "LEELANAU",
+     "64": "OTSEGO",
+     "65": "LENAWEE",
+     "66": "DICKINSON",
+     "67": "OTTAWA",
+     "68": "EATON",
+     "69": "LIVINGSTON",
+     "7": "GENESEE",
+     "70": "PRESQUE ISLE",
+     "71": "EMMET",
+     "72": "LUCE",
+     "73": "ROSCOMMON",
+     "74": "SAGINAW",
+     "75": "SCHOOLCRAFT",
+     "76": "WASHTENAW",
+     "77": "ST. CLAIR",
+     "78": "SHIAWASSEE",
+     "79": "WAYNE",
+     "8": "MACKINAC",
+     "80": "ST. JOSEPH",
+     "81": "TUSCOLA",
+     "82": "WEXFORD",
+     "83": "SANILAC",
+     "84": "VAN BUREN",
+     "9": "ALGER"
+    },
+    "zero": "MICHIGAN^MI^26^LANSING^1^1"
+   },
+   "27": {
+    "county": {
+     "10": "POPE",
+     "11": "BELTRAMI",
+     "12": "KANDIYOHI",
+     "13": "RAMSEY",
+     "14": "BENTON",
+     "15": "KITTSON",
+     "16": "RED LAKE",
+     "17": "BIG STONE",
+     "18": "KOOCHICHING",
+     "19": "REDWOOD",
+     "2": "AITKIN",
+     "20": "BLUE EARTH",
+     "21": "LAC QUI PARLE",
+     "22": "RENVILLE",
+     "23": "BROWN",
+     "24": "LAKE",
+     "25": "RICE",
+     "26": "CARLTON",
+     "27": "LAKE OF THE WOODS",
+     "28": "CARVER",
+     "29": "ROCK",
+     "3": "ITASCA",
+     "30": "ROSEAU",
+     "31": "CASS",
+     "32": "LE SUEUR",
+     "33": "ST. LOUIS",
+     "34": "CHIPPEWA",
+     "35": "LINCOLN",
+     "36": "SCOTT",
+     "37": "CHISAGO",
+     "38": "LYON",
+     "39": "SHERBURNE",
+     "4": "PIPESTONE",
+     "40": "CLAY",
+     "41": "MCLEOD",
+     "42": "SIBLEY",
+     "43": "CLEARWATER",
+     "44": "MAHNOMEN",
+     "45": "STEARNS",
+     "46": "COOK",
+     "47": "MARSHALL",
+     "48": "STEELE",
+     "49": "COTTONWOOD",
+     "5": "ANOKA",
+     "50": "MARTIN",
+     "51": "STEVENS",
+     "52": "CROW WING",
+     "53": "MEEKER",
+     "54": "SWIFT",
+     "55": "DAKOTA",
+     "56": "MILLE LACS",
+     "57": "TODD",
+     "58": "DODGE",
+     "59": "MORRISON",
+     "6": "JACKSON",
+     "60": "TRAVERSE",
+     "61": "DOUGLAS",
+     "62": "MOWER",
+     "63": "WABASHA",
+     "64": "FARIBAULT",
+     "65": "MURRAY",
+     "66": "WADENA",
+     "67": "FILLMORE",
+     "68": "NICOLLET",
+     "69": "WASECA",
+     "7": "POLK",
+     "70": "FREEBORN",
+     "71": "NOBLES",
+     "72": "WASHINGTON",
+     "73": "GOODHUE",
+     "74": "NORMAN",
+     "75": "WATONWAN",
+     "76": "GRANT",
+     "77": "OLMSTED",
+     "78": "WILKIN",
+     "79": "HENNEPIN",
+     "8": "BECKER",
+     "80": "OTTER TAIL",
+     "81": "WINONA",
+     "82": "HOUSTON",
+     "83": "PENNINGTON",
+     "84": "WRIGHT",
+     "85": "HUBBARD",
+     "86": "PINE",
+     "87": "YELLOW MEDICINE",
+     "88": "ISANTI",
+     "9": "KANABEC"
+    },
+    "zero": "MINNESOTA^MN^27^^1^1"
+   },
+   "28": {
+    "county": {
+     "1": "COAHOMA",
+     "10": "FRANKLIN",
+     "11": "ATTALA",
+     "12": "CLARKE",
+     "13": "GEORGE",
+     "14": "BENTON",
+     "15": "CLAY",
+     "16": "GREENE",
+     "17": "BOLIVAR",
+     "18": "GRENADA",
+     "19": "CALHOUN",
+     "2": "ADAMS",
+     "20": "COPIAH",
+     "21": "HANCOCK",
+     "22": "CARROLL",
+     "23": "COVINGTON",
+     "24": "HARRISON",
+     "25": "HINDS",
+     "26": "MADISON",
+     "27": "SIMPSON",
+     "28": "HOLMES",
+     "29": "MARION",
+     "3": "CHICKASAW",
+     "30": "SMITH",
+     "31": "HUMPHREYS",
+     "32": "MARSHALL",
+     "33": "STONE",
+     "34": "ISSAQUENA",
+     "35": "MONROE",
+     "36": "SUNFLOWER",
+     "37": "ITAWAMBA",
+     "38": "MONTGOMERY",
+     "39": "TALLAHATCHIE",
+     "4": "DESOTO",
+     "40": "JACKSON",
+     "41": "NESHOBA",
+     "42": "TATE",
+     "43": "JASPER",
+     "44": "NEWTON",
+     "45": "TIPPAH",
+     "46": "JEFFERSON",
+     "47": "NOXUBEE",
+     "48": "TISHOMINGO",
+     "49": "JEFFERSON DAVIS",
+     "5": "ALCORN",
+     "50": "OKTIBBEHA",
+     "51": "TUNICA",
+     "52": "JONES",
+     "53": "PANOLA",
+     "54": "UNION",
+     "55": "KEMPER",
+     "56": "PEARL RIVER",
+     "57": "WALTHALL",
+     "58": "LAFAYETTE",
+     "59": "PERRY",
+     "6": "CHOCTAW",
+     "60": "WARREN",
+     "61": "LAMAR",
+     "62": "PIKE",
+     "63": "WASHINGTON",
+     "64": "LAUDERDALE",
+     "65": "PONTOTOC",
+     "66": "WAYNE",
+     "67": "LAWRENCE",
+     "68": "PRENTISS",
+     "69": "WEBSTER",
+     "7": "FORREST",
+     "70": "LEAKE",
+     "71": "QUITMAN",
+     "72": "WILKINSON",
+     "73": "LEE",
+     "74": "RANKIN",
+     "75": "WINSTON",
+     "76": "LEFLORE",
+     "77": "SCOTT",
+     "78": "YALOBUSHA",
+     "79": "LINCOLN",
+     "80": "SHARKEY",
+     "81": "YAZOO",
+     "82": "LOWNDES",
+     "83": "AMITE",
+     "9": "CLAIBORNE"
+    },
+    "zero": "MISSISSIPPI^MS^28^^1^1"
+   },
+   "29": {
+    "county": {
+     "1": "MCDONALD",
+     "10": "JEFFERSON",
+     "100": "PLATTE",
+     "101": "SALINE",
+     "102": "WASHINGTON",
+     "103": "POLK",
+     "104": "SCHUYLER",
+     "105": "WAYNE",
+     "106": "PULASKI",
+     "107": "SCOTLAND",
+     "108": "WEBSTER",
+     "109": "PUTNAM",
+     "11": "GREENE",
+     "110": "SCOTT",
+     "111": "WORTH",
+     "112": "RALLS",
+     "113": "SHANNON",
+     "114": "WRIGHT",
+     "115": "RANDOLPH",
+     "116": "ST. LOUIS (CITY)",
+     "12": "JACKSON",
+     "13": "ADAIR",
+     "14": "ANDREW",
+     "15": "ATCHISON",
+     "16": "AUDRAIN",
+     "17": "BARTON",
+     "18": "BATES",
+     "19": "BENTON",
+     "2": "NODAWAY",
+     "20": "BOLLINGER",
+     "21": "BUCHANAN",
+     "22": "BUTLER",
+     "23": "CALDWELL",
+     "24": "CALLAWAY",
+     "25": "CAMDEN",
+     "26": "CAPE GIRARDEAU",
+     "27": "CARROLL",
+     "28": "CARTER",
+     "29": "CASS",
+     "3": "PHELPS",
+     "30": "CEDAR",
+     "31": "CHARITON",
+     "32": "CHRISTIAN",
+     "33": "CLARK",
+     "34": "CLAY",
+     "35": "CLINTON",
+     "36": "JOHNSON",
+     "37": "COOPER",
+     "38": "KNOX",
+     "39": "CRAWFORD",
+     "40": "LACLEDE",
+     "41": "DADE",
+     "42": "LAFAYETTE",
+     "43": "DALLAS",
+     "44": "LAWRENCE",
+     "45": "DAVIESS",
+     "46": "LEWIS",
+     "47": "DEKALB",
+     "48": "LINCOLN",
+     "49": "DENT",
+     "5": "COLE",
+     "50": "LINN",
+     "51": "DOUGLAS",
+     "52": "LIVINGSTON",
+     "53": "DUNKLIN",
+     "54": "FRANKLIN",
+     "55": "MACON",
+     "56": "GASCONADE",
+     "57": "MADISON",
+     "58": "GENTRY",
+     "59": "MARIES",
+     "6": "BOONE",
+     "60": "MARION",
+     "61": "GRUNDY",
+     "62": "MERCER",
+     "63": "HARRISON",
+     "64": "MILLER",
+     "65": "HENRY",
+     "66": "MISSISSIPPI",
+     "67": "HICKORY",
+     "68": "MONITEAU",
+     "69": "HOLT",
+     "7": "JASPER",
+     "70": "MONROE",
+     "71": "HOWARD",
+     "72": "MONTGOMERY",
+     "73": "HOWELL",
+     "74": "MORGAN",
+     "75": "IRON",
+     "76": "NEW MADRID",
+     "77": "NEWTON",
+     "78": "OREGON",
+     "79": "RAY",
+     "8": "RIPLEY",
+     "80": "SHELBY",
+     "81": "OSAGE",
+     "82": "REYNOLDS",
+     "83": "STODDARD",
+     "84": "OZARK",
+     "85": "STONE",
+     "86": "PEMISCOT",
+     "87": "ST. CHARLES",
+     "88": "SULLIVAN",
+     "89": "PERRY",
+     "9": "BARRY",
+     "90": "ST. CLAIR",
+     "91": "TANEY",
+     "92": "PETTIS",
+     "93": "ST. FRANCOIS",
+     "94": "TEXAS",
+     "95": "ST. LOUIS",
+     "96": "VERNON",
+     "97": "PIKE",
+     "98": "ST. GENEVIEVE",
+     "99": "WARREN"
+    },
+    "zero": "MISSOURI^MO^29^^1^1"
+   },
+   "30": {
+    "county": {
+     "1": "CUSTER",
+     "10": "RICHLAND",
+     "11": "BROADWATER",
+     "12": "LAKE",
+     "13": "ROOSEVELT",
+     "14": "CARBON",
+     "15": "LEWIS AND CLARK",
+     "16": "ROSEBUD",
+     "17": "CARTER",
+     "18": "SANDERS",
+     "19": "CASCADE",
+     "2": "BEAVERHEAD",
+     "20": "LIBERTY",
+     "21": "SHERIDAN",
+     "22": "CHOUTEAU",
+     "23": "LINCOLN",
+     "24": "SILVER BOW",
+     "25": "MCCONE",
+     "26": "STILLWATER",
+     "27": "DANIELS",
+     "28": "MADISON",
+     "29": "SWEET GRASS",
+     "3": "HILL",
+     "30": "DAWSON",
+     "31": "MEAGHER",
+     "32": "TETON",
+     "33": "DEER LODGE",
+     "34": "MINERAL",
+     "35": "TOOLE",
+     "36": "FALLON",
+     "37": "MISSOULA",
+     "38": "TREASURE",
+     "39": "FERGUS",
+     "4": "PRAIRIE",
+     "40": "MUSSELSHELL",
+     "41": "VALLEY",
+     "42": "FLATHEAD",
+     "43": "PARK",
+     "44": "WHEATLAND",
+     "45": "GALLATIN",
+     "46": "PETROLEUM",
+     "47": "WIBAUX",
+     "48": "GARFIELD",
+     "49": "PHILLIPS",
+     "5": "BIG HORN",
+     "50": "YELLOWSTONE",
+     "51": "GLACIER",
+     "52": "PONDERA",
+     "53": "YELLOWSTONE NATIONAL PARK",
+     "54": "GOLDEN VALLEY",
+     "55": "POWDER RIVER",
+     "56": "GRANITE",
+     "57": "POWELL",
+     "6": "JEFFERSON",
+     "7": "RAVALLI",
+     "8": "BLAINE",
+     "9": "JUDITH BASIN"
+    },
+    "zero": "MONTANA^MT^30^^1^1"
+   },
+   "31": {
+    "county": {
+     "1": "ADAMS",
+     "10": "BANNER",
+     "11": "GARDEN",
+     "12": "OTOE",
+     "13": "BLAINE",
+     "14": "GARFIELD",
+     "15": "PAWNEE",
+     "16": "BOONE",
+     "17": "GOSPER",
+     "18": "PERKINS",
+     "19": "BOX BUTTE",
+     "2": "FRONTIER",
+     "20": "GRANT",
+     "21": "PHELPS",
+     "22": "BOYD",
+     "23": "GREELEY",
+     "24": "PIERCE",
+     "25": "BROWN",
+     "26": "HALL",
+     "27": "PLATTE",
+     "28": "BUFFALO",
+     "29": "HAMILTON",
+     "3": "NANCE",
+     "30": "POLK",
+     "31": "BURT",
+     "32": "HARLAN",
+     "33": "RED WILLOW",
+     "34": "BUTLER",
+     "35": "HAYES",
+     "36": "RICHARDSON",
+     "37": "CASS",
+     "38": "HITCHCOCK",
+     "39": "ROCK",
+     "4": "ANTELOPE",
+     "40": "CEDAR",
+     "41": "HOLT",
+     "42": "SALINE",
+     "43": "CHASE",
+     "44": "HOOKER",
+     "45": "SARPY",
+     "46": "CHERRY",
+     "47": "HOWARD",
+     "48": "SAUNDERS",
+     "49": "CHEYENNE",
+     "5": "FURNAS",
+     "50": "JEFFERSON",
+     "51": "SCOTTS BLUFF",
+     "52": "CLAY",
+     "53": "JOHNSON",
+     "54": "SEWARD",
+     "55": "COLFAX",
+     "56": "KEARNEY",
+     "57": "SHERIDAN",
+     "58": "CUMING",
+     "59": "KEITH",
+     "6": "NEMAHA",
+     "60": "SHERMAN",
+     "61": "CUSTER",
+     "62": "KEYA PAHA",
+     "63": "SIOUX",
+     "64": "DAKOTA",
+     "65": "KIMBALL",
+     "66": "STANTON",
+     "67": "DAWES",
+     "68": "KNOX",
+     "69": "THAYER",
+     "7": "ARTHUR",
+     "70": "DAWSON",
+     "71": "LANCASTER",
+     "72": "THOMAS",
+     "73": "DEUEL",
+     "74": "LINCOLN",
+     "75": "THURSTON",
+     "76": "DIXON",
+     "77": "LOGAN",
+     "78": "VALLEY",
+     "79": "DODGE",
+     "8": "GAGE",
+     "80": "LOUP",
+     "81": "WASHINGTON",
+     "82": "DOUGLAS",
+     "83": "MCPHERSON",
+     "84": "WAYNE",
+     "85": "DUNDY",
+     "86": "MADISON",
+     "87": "WEBSTER",
+     "88": "FILLMORE",
+     "89": "MERRICK",
+     "9": "NUCKOLLS",
+     "90": "WHEELER",
+     "91": "FRANKLIN",
+     "92": "MORRILL",
+     "93": "YORK"
+    },
+    "zero": "NEBRASKA^NE^31^^1^1"
+   },
+   "32": {
+    "county": {
+     "1": "CHURCHILL",
+     "10": "ELKO",
+     "11": "LYON",
+     "12": "WASHOE",
+     "13": "ESMERALDA",
+     "14": "WHITE PINE",
+     "15": "EUREKA",
+     "16": "MINERAL",
+     "17": "CARSON CITY",
+     "2": "HUMBOLDT",
+     "3": "NYE",
+     "4": "CLARK",
+     "5": "LANDER",
+     "6": "PERSHING",
+     "7": "DOUGLAS",
+     "8": "LINCOLN",
+     "9": "STOREY"
+    },
+    "zero": "NEVADA^NV^32^^1^1"
+   },
+   "33": {
+    "county": {
+     "1": "BELKNAP",
+     "10": "COOS",
+     "2": "GRAFTON",
+     "3": "ROCKINGHAM",
+     "4": "CARROLL",
+     "5": "HILLSBOROUGH",
+     "6": "STRAFFORD",
+     "7": "CHESHIRE",
+     "8": "MERRIMACK",
+     "9": "SULLIVAN"
+    },
+    "zero": "NEW HAMPSHIRE^NH^33^^1^1"
+   },
+   "34": {
+    "county": {
+     "1": "ATLANTIC",
+     "10": "CAMDEN",
+     "11": "MERCER",
+     "12": "SOMERSET",
+     "13": "CAPE MAY",
+     "14": "MIDDLESEX",
+     "15": "SUSSEX",
+     "16": "CUMBERLAND",
+     "17": "MONMOUTH",
+     "18": "UNION",
+     "19": "ESSEX",
+     "2": "GLOUCESTER",
+     "20": "MORRIS",
+     "21": "WARREN",
+     "3": "OCEAN",
+     "4": "BERGEN",
+     "5": "HUDSON",
+     "6": "PASSAIC",
+     "7": "BURLINGTON",
+     "8": "HUNTERDON",
+     "9": "SALEM"
+    },
+    "zero": "NEW JERSEY^NJ^34^^1^1"
+   },
+   "35": {
+    "county": {
+     "1": "BERNALILLO",
+     "10": "GUADALUPE",
+     "11": "HARDING",
+     "12": "HIDALGO",
+     "13": "LEA",
+     "14": "LINCOLN",
+     "15": "LOS ALAMOS",
+     "16": "LUNA",
+     "17": "MCKINLEY",
+     "18": "MORA",
+     "19": "OTERO",
+     "2": "CATRON",
+     "20": "RIO ARRIBA",
+     "21": "ROOSEVELT",
+     "22": "SANDOVAL",
+     "23": "SAN JUAN",
+     "24": "SAN MIGUEL",
+     "25": "SANTA FE",
+     "26": "SIERRA",
+     "27": "SOCORRO",
+     "28": "TAOS",
+     "29": "TORRANCE",
+     "3": "CHAVES",
+     "30": "UNION",
+     "31": "VALENCIA",
+     "35": "QUAY",
+     "36": "CIBOLA",
+     "37": "ZZSAN MIGUEL",
+     "4": "COLFAX",
+     "5": "CURRY",
+     "6": "DEBACA",
+     "7": "DONA ANA",
+     "8": "EDDY",
+     "9": "GRANT"
+    },
+    "zero": "NEW MEXICO^NM^35^^1^1"
+   },
+   "36": {
+    "county": {
+     "1": "ALBANY",
+     "10": "FULTON",
+     "11": "SARATOGA",
+     "12": "HAMILTON",
+     "13": "FRANKLIN",
+     "14": "WARREN",
+     "15": "ESSEX",
+     "16": "CLINTON",
+     "17": "WASHINGTON",
+     "18": "RENSSELAER",
+     "19": "COLUMBIA",
+     "2": "ULSTER",
+     "20": "DUTCHESS",
+     "3": "GREENE",
+     "4": "SCHENECTADY",
+     "44": "ZZLANE",
+     "5": "SCHOHARIE",
+     "51": "JEFFERSON",
+     "56": "QUEENS",
+     "57": "ONTARIO",
+     "58": "ALLEGANY",
+     "59": "GENESEE",
+     "6": "DELAWARE",
+     "60": "ORANGE",
+     "61": "BRONX",
+     "62": "ORLEANS",
+     "63": "BROOME",
+     "64": "OSWEGO",
+     "65": "CATTARAUGUS",
+     "66": "HERKIMER",
+     "67": "CAYUGA",
+     "68": "PUTNAM",
+     "69": "CHAUTAUQUA",
+     "7": "SULLIVAN",
+     "70": "KINGS",
+     "71": "CHEMUNG",
+     "72": "LEWIS",
+     "73": "CHENANGO",
+     "74": "LIVINGSTON",
+     "75": "RICHMOND",
+     "76": "MADISON",
+     "77": "ROCKLAND",
+     "78": "MONROE",
+     "79": "ST. LAWRENCE",
+     "8": "OTSEGO",
+     "80": "CORTLAND",
+     "81": "NASSAU",
+     "82": "NEW YORK",
+     "83": "ERIE",
+     "84": "NIAGARA",
+     "85": "SCHUYLER",
+     "86": "ONEIDA",
+     "87": "SENECA",
+     "88": "ONONDAGA",
+     "89": "STEUBEN",
+     "9": "MONTGOMERY",
+     "90": "SUFFOLK",
+     "91": "WESTCHESTER",
+     "92": "WYOMING",
+     "93": "TIOGA",
+     "94": "YATES",
+     "95": "TOMPKINS",
+     "96": "WAYNE"
+    },
+    "zero": "NEW YORK^NY^36^^1^1"
+   },
+   "37": {
+    "county": {
+     "1": "ALAMANCE",
+     "10": "ANSON",
+     "100": "FORSYTH",
+     "11": "GRAHAM",
+     "12": "PENDER",
+     "13": "ASHE",
+     "14": "GRANVILLE",
+     "15": "PERQUIMANS",
+     "16": "AVERY",
+     "17": "GREENE",
+     "18": "PERSON",
+     "19": "BEAUFORT",
+     "2": "FRANKLIN",
+     "20": "GUILFORD",
+     "21": "PITT",
+     "22": "BERTIE",
+     "23": "HALIFAX",
+     "24": "POLK",
+     "25": "BLADEN",
+     "26": "HARNETT",
+     "27": "RANDOLPH",
+     "28": "BRUNSWICK",
+     "29": "HAYWOOD",
+     "3": "ORANGE",
+     "30": "RICHMOND",
+     "31": "BUNCOMBE",
+     "32": "HENDERSON",
+     "33": "ROBESON",
+     "34": "BURKE",
+     "35": "HERTFORD",
+     "36": "ROCKINGHAM",
+     "37": "CABARRUS",
+     "38": "HOKE",
+     "39": "ROWAN",
+     "4": "ALEXANDER",
+     "40": "CALDWELL",
+     "41": "HYDE",
+     "42": "RUTHERFORD",
+     "43": "CAMDEN",
+     "44": "IREDELL",
+     "45": "SAMPSON",
+     "46": "CARTERET",
+     "47": "JACKSON",
+     "48": "SCOTLAND",
+     "49": "CASWELL",
+     "5": "GASTON",
+     "50": "JOHNSTON",
+     "51": "STANLY",
+     "52": "CATAWBA",
+     "53": "JONES",
+     "54": "STOKES",
+     "55": "CHATHAM",
+     "56": "LEE",
+     "57": "SURRY",
+     "58": "CHEROKEE",
+     "59": "LENOIR",
+     "6": "PAMLICO",
+     "60": "SWAIN",
+     "61": "CHOWAN",
+     "62": "LINCOLN",
+     "63": "TRANSYLVANIA",
+     "64": "CLAY",
+     "65": "MCDOWELL",
+     "66": "TYRRELL",
+     "67": "CLEVELAND",
+     "68": "MACON",
+     "69": "UNION",
+     "7": "ALLEGHANY",
+     "70": "COLUMBUS",
+     "71": "MADISON",
+     "72": "VANCE",
+     "73": "CRAVEN",
+     "74": "MARTIN",
+     "75": "WAKE",
+     "76": "CUMBERLAND",
+     "77": "MECKLENBURG",
+     "78": "WARREN",
+     "79": "CURRITUCK",
+     "8": "GATES",
+     "80": "MITCHELL",
+     "81": "WASHINGTON",
+     "82": "DARE",
+     "83": "MONTGOMERY",
+     "84": "WATAUGA",
+     "85": "DAVIDSON",
+     "86": "MOORE",
+     "87": "WAYNE",
+     "88": "DAVIE",
+     "89": "NASH",
+     "9": "PASQUOTANK",
+     "90": "WILKES",
+     "91": "DUPLIN",
+     "92": "NEW HANOVER",
+     "93": "WILSON",
+     "94": "DURHAM",
+     "95": "NORTHAMPTON",
+     "96": "YADKIN",
+     "97": "EDGECOMBE",
+     "98": "ONSLOW",
+     "99": "YANCEY"
+    },
+    "zero": "NORTH CAROLINA^NC^37^^1^1"
+   },
+   "38": {
+    "county": {
+     "1": "ADAMS",
+     "10": "BILLINGS",
+     "11": "CASS",
+     "12": "EDDY",
+     "13": "BOTTINEAU",
+     "14": "CAVALIER",
+     "15": "EMMONS",
+     "16": "FOSTER",
+     "17": "MERCER",
+     "18": "SHERIDAN",
+     "19": "GOLDEN VALLEY",
+     "2": "BOWMAN",
+     "20": "MORTON",
+     "21": "SIOUX",
+     "22": "GRAND FORKS",
+     "23": "MOUNTRAIL",
+     "24": "SLOPE",
+     "25": "GRANT",
+     "26": "NELSON",
+     "27": "STARK",
+     "28": "GRIGGS",
+     "29": "OLIVER",
+     "3": "DICKEY",
+     "30": "STEELE",
+     "31": "HETTINGER",
+     "32": "PEMBINA",
+     "33": "STUTSMAN",
+     "34": "KIDDER",
+     "35": "PIERCE",
+     "36": "TOWNER",
+     "37": "LAMOURE",
+     "38": "RAMSEY",
+     "39": "TRAILL",
+     "4": "BARNES",
+     "40": "LOGAN",
+     "41": "RANSOM",
+     "42": "WALSH",
+     "43": "MCHENRY",
+     "44": "RENVILLE",
+     "45": "WARD",
+     "46": "MCINTOSH",
+     "47": "RICHLAND",
+     "48": "WELLS",
+     "49": "MCKENZIE",
+     "5": "BURKE",
+     "50": "ROLETTE",
+     "51": "WILLIAMS",
+     "52": "MCLEAN",
+     "53": "SARGENT",
+     "6": "DIVIDE",
+     "7": "BENSON",
+     "8": "BURLEIGH",
+     "9": "DUNN"
+    },
+    "zero": "NORTH DAKOTA^ND^38^^1^1"
+   },
+   "39": {
+    "county": {
+     "10": "OTTAWA",
+     "11": "ASHTABULA",
+     "12": "HARRISON",
+     "13": "PAULDING",
+     "14": "ATHENS",
+     "15": "HENRY",
+     "16": "PERRY",
+     "17": "AUGLAIZE",
+     "18": "HIGHLAND",
+     "19": "PICKAWAY",
+     "2": "LOGAN",
+     "20": "BELMONT",
+     "21": "HOCKING",
+     "22": "PIKE",
+     "23": "BROWN",
+     "24": "HOLMES",
+     "25": "PORTAGE",
+     "26": "BUTLER",
+     "27": "HURON",
+     "28": "PREBLE",
+     "29": "CARROLL",
+     "3": "ADAMS",
+     "30": "JACKSON",
+     "31": "PUTNAM",
+     "32": "CHAMPAIGN",
+     "33": "JEFFERSON",
+     "34": "RICHLAND",
+     "35": "CLARK",
+     "36": "KNOX",
+     "37": "ROSS",
+     "38": "CLERMONT",
+     "39": "LAKE",
+     "4": "MUSKINGUM",
+     "40": "SANDUSKY",
+     "41": "CLINTON",
+     "42": "LAWRENCE",
+     "43": "SCIOTO",
+     "44": "COLUMBIANA",
+     "45": "LICKING",
+     "46": "SENECA",
+     "47": "COSHOCTON",
+     "48": "SHELBY",
+     "49": "CRAWFORD",
+     "5": "ALLEN",
+     "50": "LORAIN",
+     "51": "STARK",
+     "52": "CUYAHOGA",
+     "53": "LUCAS",
+     "54": "SUMMIT",
+     "55": "DARKE",
+     "56": "MADISON",
+     "57": "TRUMBULL",
+     "58": "DEFIANCE",
+     "59": "MAHONING",
+     "6": "HANCOCK",
+     "60": "TUSCARAWAS",
+     "61": "DELAWARE",
+     "62": "MARION",
+     "63": "UNION",
+     "64": "ERIE",
+     "65": "MEDINA",
+     "66": "VAN WERT",
+     "67": "FAIRFIELD",
+     "68": "MEIGS",
+     "69": "VINTON",
+     "7": "NOBLE",
+     "70": "FAYETTE",
+     "71": "MERCER",
+     "72": "WARREN",
+     "73": "FRANKLIN",
+     "74": "MIAMI",
+     "75": "WASHINGTON",
+     "76": "FULTON",
+     "77": "MONROE",
+     "78": "WAYNE",
+     "79": "GALLIA",
+     "8": "ASHLAND",
+     "80": "MONTGOMERY",
+     "81": "WILLIAMS",
+     "82": "GEAUGA",
+     "83": "MORGAN",
+     "84": "WOOD",
+     "85": "GREENE",
+     "86": "MORROW",
+     "87": "WYANDOT",
+     "88": "GUERNSEY",
+     "89": "HAMILTON",
+     "9": "HARDIN"
+    },
+    "zero": "OHIO^OH^39^^1^1"
+   },
+   "4": {
+    "county": {
+     "1": "NAVAJO",
+     "10": "MOHAVE",
+     "11": "PIMA",
+     "12": "SANTA CRUZ",
+     "13": "YAVAPAI",
+     "14": "YUMA",
+     "15": "LA PAZ",
+     "2": "PINAL",
+     "3": "APACHE",
+     "4": "COCHISE",
+     "5": "COCONINO",
+     "6": "GILA",
+     "7": "GRAHAM",
+     "8": "GREENLEE",
+     "9": "MARICOPA"
+    },
+    "zero": "ARIZONA^AZ^04^^1^1"
+   },
+   "40": {
+    "county": {
+     "1": "KAY",
+     "10": "HARMON",
+     "11": "JACKSON",
+     "12": "NOWATA",
+     "13": "CRAIG",
+     "14": "OTTAWA",
+     "15": "MAYES",
+     "16": "DELAWARE",
+     "17": "CHEROKEE",
+     "18": "ADAIR",
+     "19": "SEQUOYAH",
+     "2": "CIMARRON",
+     "20": "LE FLORE",
+     "21": "PUSHMATAHA",
+     "22": "MCCURTAIN",
+     "23": "CHOCTAW",
+     "24": "WOODS",
+     "25": "WOODWARD",
+     "26": "DEWEY",
+     "27": "CUSTER",
+     "28": "WASHITA",
+     "29": "KIOWA",
+     "3": "TEXAS",
+     "30": "TILLMAN",
+     "31": "ALFALFA",
+     "32": "MAJOR",
+     "33": "BLAINE",
+     "34": "GRANT",
+     "35": "OSAGE",
+     "36": "WASHINGTON",
+     "37": "TULSA",
+     "38": "ROGERS",
+     "39": "WAGONER",
+     "4": "BEAVER",
+     "40": "MUSKOGEE",
+     "41": "MCINTOSH",
+     "42": "HASKELL",
+     "43": "PITTSBURG",
+     "44": "LATIMER",
+     "45": "COAL",
+     "46": "ATOKA",
+     "47": "JOHNSTON",
+     "48": "MARSHALL",
+     "49": "BRYAN",
+     "5": "HARPER",
+     "50": "CARTER",
+     "51": "JEFFERSON",
+     "52": "COTTON",
+     "53": "LOVE",
+     "54": "CADDO",
+     "55": "COMANCHE",
+     "56": "STEPHENS",
+     "57": "GARVIN",
+     "58": "MURRAY",
+     "59": "PONTOTOC",
+     "6": "ELLIS",
+     "60": "HUGHES",
+     "61": "SEMINOLE",
+     "62": "OKFUSKEE",
+     "63": "OKMULGEE",
+     "64": "CREEK",
+     "65": "PAWNEE",
+     "66": "NOBLE",
+     "67": "GARFIELD",
+     "68": "KINGFISHER",
+     "69": "CANADIAN",
+     "7": "ROGER MILLS",
+     "70": "GRADY",
+     "71": "MCCLAIN",
+     "72": "CLEVELAND",
+     "73": "POTTAWATOMIE",
+     "74": "LINCOLN",
+     "75": "PAYNE",
+     "76": "LOGAN",
+     "77": "OKLAHOMA",
+     "8": "BECKHAM",
+     "9": "GREER"
+    },
+    "zero": "OKLAHOMA^OK^40^^1^1"
+   },
+   "41": {
+    "county": {
+     "1": "LINCOLN",
+     "10": "POLK",
+     "11": "CLATSOP",
+     "12": "JEFFERSON",
+     "13": "SHERMAN",
+     "14": "COLUMBIA",
+     "15": "JOSEPHINE",
+     "16": "TILLAMOOK",
+     "17": "COOS",
+     "18": "KLAMATH",
+     "19": "UMATILLA",
+     "2": "BAKER",
+     "20": "CROOK",
+     "21": "LAKE",
+     "22": "UNION",
+     "23": "CURRY",
+     "24": "LANE",
+     "25": "WALLOWA",
+     "26": "DESCHUTES",
+     "27": "WASCO",
+     "28": "DOUGLAS",
+     "29": "LINN",
+     "3": "HARNEY",
+     "30": "WASHINGTON",
+     "31": "GILLIAM",
+     "32": "MALHEUR",
+     "33": "WHEELER",
+     "34": "GRANT",
+     "35": "MARION",
+     "36": "YAMHILL",
+     "4": "MORROW",
+     "5": "BENTON",
+     "6": "HOOD RIVER",
+     "7": "MULTNOMAH",
+     "8": "CLACKAMAS",
+     "9": "JACKSON"
+    },
+    "zero": "OREGON^OR^41^^1^1"
+   },
+   "42": {
+    "county": {
+     "1": "PHILADELPHIA",
+     "10": "CAMBRIA",
+     "11": "BEAVER",
+     "12": "BRADFORD",
+     "13": "CAMERON",
+     "14": "CARBON",
+     "15": "INDIANA",
+     "16": "PERRY",
+     "17": "CENTRE",
+     "18": "JEFFERSON",
+     "19": "CHESTER",
+     "2": "BUCKS",
+     "20": "JUNIATA",
+     "21": "PIKE",
+     "22": "CLARION",
+     "23": "LACKAWANNA",
+     "24": "POTTER",
+     "25": "CLEARFIELD",
+     "26": "LANCASTER",
+     "27": "SCHUYLKILL",
+     "28": "CLINTON",
+     "29": "LAWRENCE",
+     "3": "ADAMS",
+     "30": "SNYDER",
+     "31": "COLUMBIA",
+     "32": "LEBANON",
+     "33": "SOMERSET",
+     "34": "CRAWFORD",
+     "35": "LEHIGH",
+     "36": "SULLIVAN",
+     "37": "CUMBERLAND",
+     "38": "LUZERNE",
+     "39": "SUSQUEHANNA",
+     "4": "BEDFORD",
+     "40": "DAUPHIN",
+     "41": "LYCOMING",
+     "42": "TIOGA",
+     "43": "DELAWARE",
+     "44": "MCKEAN",
+     "45": "UNION",
+     "46": "ELK",
+     "47": "VENANGO",
+     "48": "ERIE",
+     "49": "MIFFLIN",
+     "5": "ALLEGHENY",
+     "50": "WARREN",
+     "51": "FAYETTE",
+     "52": "MONROE",
+     "53": "WASHINGTON",
+     "54": "FOREST",
+     "55": "MONTGOMERY",
+     "56": "WAYNE",
+     "57": "FRANKLIN",
+     "58": "MONTOUR",
+     "59": "WESTMORELAND",
+     "6": "BERKS",
+     "60": "FULTON",
+     "61": "NORTHAMPTON",
+     "62": "WYOMING",
+     "63": "GREENE",
+     "64": "NORTHUMBERLAND",
+     "65": "YORK",
+     "66": "HUNTINGDON",
+     "67": "MERCER",
+     "7": "BUTLER",
+     "8": "ARMSTRONG",
+     "9": "BLAIR"
+    },
+    "zero": "PENNSYLVANIA^PA^42^^1^1"
+   },
+   "44": {
+    "county": {
+     "1": "BRISTOL",
+     "2": "NEWPORT",
+     "3": "WASHINGTON",
+     "4": "KENT",
+     "5": "PROVIDENCE"
+    },
+    "zero": "RHODE ISLAND^RI^44^^1^1"
+   },
+   "45": {
+    "county": {
+     "1": "ABBEVILLE",
+     "10": "ANDERSON",
+     "11": "FAIRFIELD",
+     "12": "MARLBORO",
+     "13": "BAMBERG",
+     "14": "FLORENCE",
+     "15": "NEWBERRY",
+     "16": "BARNWELL",
+     "17": "GEORGETOWN",
+     "18": "OCONEE",
+     "19": "BEAUFORT",
+     "2": "DILLON",
+     "20": "GREENVILLE",
+     "21": "ORANGEBURG",
+     "22": "BERKELEY",
+     "23": "GREENWOOD",
+     "24": "PICKENS",
+     "25": "CALHOUN",
+     "26": "HAMPTON",
+     "27": "RICHLAND",
+     "28": "CHARLESTON",
+     "29": "HORRY",
+     "3": "LEXINGTON",
+     "30": "SALUDA",
+     "31": "CHEROKEE",
+     "32": "JASPER",
+     "33": "SPARTANBURG",
+     "34": "CHESTER",
+     "35": "KERSHAW",
+     "36": "SUMTER",
+     "37": "CHESTERFIELD",
+     "38": "LANCASTER",
+     "39": "UNION",
+     "4": "AIKEN",
+     "40": "CLARENDON",
+     "41": "LAURENS",
+     "42": "WILLIAMSBURG",
+     "43": "COLLETON",
+     "44": "LEE",
+     "45": "YORK",
+     "46": "DARLINGTON",
+     "5": "DORCHESTER",
+     "6": "MCCORMICK",
+     "7": "ALLENDALE",
+     "8": "EDGEFIELD",
+     "9": "MARION"
+    },
+    "zero": "SOUTH CAROLINA^SC^45^^1^1"
+   },
+   "46": {
+    "county": {
+     "1": "AURORA",
+     "10": "BUFFALO",
+     "11": "HAND",
+     "12": "MINNEHAHA",
+     "13": "BUTTE",
+     "14": "HANSON",
+     "15": "MOODY",
+     "16": "CAMPBELL",
+     "17": "HARDING",
+     "18": "PENNINGTON",
+     "19": "CHARLES MIX",
+     "2": "BENNETT",
+     "20": "HUGHES",
+     "21": "PERKINS",
+     "22": "CLARK",
+     "23": "HUTCHINSON",
+     "24": "POTTER",
+     "25": "CLAY",
+     "26": "HYDE",
+     "27": "ROBERTS",
+     "28": "CODINGTON",
+     "29": "JACKSON",
+     "3": "BROOKINGS",
+     "30": "SANBORN",
+     "31": "CORSON",
+     "32": "JERAULD",
+     "33": "SHANNON",
+     "34": "CUSTER",
+     "35": "JONES",
+     "36": "SPINK",
+     "37": "DAVISON",
+     "38": "KINGSBURY",
+     "39": "STANLEY",
+     "4": "BEADLE",
+     "40": "DAY",
+     "41": "LAKE",
+     "42": "SULLY",
+     "43": "DEUEL",
+     "44": "LAWRENCE",
+     "45": "TODD",
+     "46": "DEWEY",
+     "47": "LINCOLN",
+     "48": "TRIPP",
+     "49": "DOUGLAS",
+     "5": "BON HOMME",
+     "50": "LYMAN",
+     "51": "TURNER",
+     "52": "EDMUNDS",
+     "53": "MCCOOK",
+     "54": "UNION",
+     "55": "FALL RIVER",
+     "56": "MCPHERSON",
+     "57": "WALWORTH",
+     "58": "FAULK",
+     "59": "MARSHALL",
+     "6": "BROWN",
+     "60": "WASHABAUGH",
+     "61": "GRANT",
+     "62": "MEADE",
+     "63": "YANKTON",
+     "64": "GREGORY",
+     "65": "MELLETTE",
+     "66": "ZIEBACH",
+     "67": "HAAKON",
+     "7": "BRULE",
+     "8": "HAMLIN",
+     "9": "MINER"
+    },
+    "zero": "SOUTH DAKOTA^SD^46^^1^1"
+   },
+   "47": {
+    "county": {
+     "1": "DAVIDSON",
+     "10": "BENTON",
+     "11": "GIBSON",
+     "12": "LEWIS",
+     "13": "BLEDSOE",
+     "14": "GILES",
+     "15": "LINCOLN",
+     "16": "BLOUNT",
+     "17": "GRAINGER",
+     "18": "LOUDON",
+     "19": "BRADLEY",
+     "2": "CUMBERLAND",
+     "20": "GREENE",
+     "21": "MCMINN",
+     "22": "CAMPBELL",
+     "23": "GRUNDY",
+     "24": "MCNAIRY",
+     "25": "CANNON",
+     "26": "HAMBLEN",
+     "27": "MACON",
+     "28": "CARROLL",
+     "29": "HAMILTON",
+     "3": "RUTHERFORD",
+     "30": "MADISON",
+     "31": "CARTER",
+     "32": "HANCOCK",
+     "33": "MARION",
+     "34": "CHEATHAM",
+     "35": "HARDEMAN",
+     "36": "MARSHALL",
+     "37": "CHESTER",
+     "38": "HARDIN",
+     "39": "MAURY",
+     "4": "ANDERSON",
+     "40": "CLAIBORNE",
+     "41": "HAWKINS",
+     "42": "MEIGS",
+     "43": "CLAY",
+     "44": "HAYWOOD",
+     "45": "MONROE",
+     "46": "COCKE",
+     "47": "HENDERSON",
+     "48": "MONTGOMERY",
+     "49": "COFFEE",
+     "5": "FENTRESS",
+     "50": "HENRY",
+     "51": "MOORE",
+     "52": "CROCKETT",
+     "53": "HICKMAN",
+     "54": "MORGAN",
+     "55": "HOUSTON",
+     "56": "OBION",
+     "57": "HUMPHREYS",
+     "58": "OVERTON",
+     "59": "DECATUR",
+     "6": "LAUDERDALE",
+     "60": "JACKSON",
+     "61": "PERRY",
+     "62": "DEKALB",
+     "63": "JEFFERSON",
+     "64": "PICKETT",
+     "65": "DICKSON",
+     "66": "JOHNSON",
+     "67": "POLK",
+     "68": "DYER",
+     "69": "KNOX",
+     "7": "BEDFORD",
+     "70": "PUTNAM",
+     "71": "FAYETTE",
+     "72": "LAKE",
+     "73": "RHEA",
+     "74": "ROANE",
+     "75": "STEWART",
+     "76": "WARREN",
+     "77": "ROBERTSON",
+     "78": "SULLIVAN",
+     "79": "WASHINGTON",
+     "8": "FRANKLIN",
+     "80": "SUMNER",
+     "81": "WAYNE",
+     "82": "SCOTT",
+     "83": "TIPTON",
+     "84": "WEAKLEY",
+     "85": "SEQUATCHIE",
+     "86": "TROUSDALE",
+     "87": "WHITE",
+     "88": "SEVIER",
+     "89": "UNICOI",
+     "9": "LAWRENCE",
+     "90": "WILLIAMSON",
+     "91": "SHELBY",
+     "92": "UNION",
+     "93": "WILSON",
+     "94": "SMITH",
+     "95": "VAN BUREN"
+    },
+    "zero": "TENNESSEE^TN^47^NASHVILLE^1^1"
+   },
+   "48": {
+    "county": {
+     "1": "ANDERSON",
+     "10": "BANDERA",
+     "100": "HARDIN",
+     "101": "HARRIS",
+     "102": "HARRISON",
+     "103": "HARTLEY",
+     "104": "HASKELL",
+     "105": "HAYS",
+     "106": "HEMPHILL",
+     "107": "HENDERSON",
+     "108": "HIDALGO",
+     "109": "HILL",
+     "11": "BASTROP",
+     "110": "HOCKLEY",
+     "111": "HOOD",
+     "112": "HOPKINS",
+     "113": "HOUSTON",
+     "114": "HOWARD",
+     "115": "HUDSPETH",
+     "116": "HUNT",
+     "117": "HUTCHINSON",
+     "118": "IRION",
+     "119": "JACK",
+     "12": "BAYLOR",
+     "120": "JACKSON",
+     "121": "JASPER",
+     "122": "JEFF DAVIS",
+     "123": "JEFFERSON",
+     "124": "JIM HOGG",
+     "125": "JIM WELLS",
+     "126": "JOHNSON",
+     "127": "JONES",
+     "128": "KARNES",
+     "129": "KAUFMAN",
+     "13": "BEE",
+     "130": "KENDALL",
+     "131": "KENEDY",
+     "132": "KENT",
+     "133": "KERR",
+     "134": "KIMBLE",
+     "135": "KING",
+     "136": "KINNEY",
+     "137": "KLEBERG",
+     "138": "KNOX",
+     "139": "LAMAR",
+     "14": "BELL",
+     "140": "LAMB",
+     "141": "LAMPASAS",
+     "142": "LA SALLE",
+     "143": "LAVACA",
+     "144": "LEE",
+     "145": "LEON",
+     "146": "LIBERTY",
+     "147": "LIMESTONE",
+     "148": "LIPSCOMB",
+     "149": "LIVE OAK",
+     "15": "BEXAR",
+     "150": "LLANO",
+     "151": "LOVING",
+     "152": "LUBBOCK",
+     "153": "LYNN",
+     "154": "MCCULLOCH",
+     "155": "MCLENNAN",
+     "156": "MCMULLEN",
+     "157": "MADISON",
+     "158": "MARION",
+     "159": "MARTIN",
+     "16": "BLANCO",
+     "160": "MASON",
+     "161": "MATAGORDA",
+     "162": "MAVERICK",
+     "163": "MEDINA",
+     "164": "MENARD",
+     "165": "MIDLAND",
+     "166": "MILAM",
+     "167": "MILLS",
+     "168": "MITCHELL",
+     "169": "MONTAGUE",
+     "17": "BORDEN",
+     "170": "MONTGOMERY",
+     "171": "MOORE",
+     "172": "MORRIS",
+     "173": "MOTLEY",
+     "174": "NACOGDOCHES",
+     "175": "NAVARRO",
+     "176": "NEWTON",
+     "177": "NOLAN",
+     "178": "NUECES",
+     "179": "OCHILTREE",
+     "18": "BOSQUE",
+     "180": "OLDHAM",
+     "181": "ORANGE",
+     "182": "PALO PINTO",
+     "183": "PANOLA",
+     "184": "PARKER",
+     "185": "PARMER",
+     "186": "PECOS",
+     "187": "POLK",
+     "188": "POTTER",
+     "189": "PRESIDIO",
+     "19": "BOWIE",
+     "190": "RAINS",
+     "191": "RANDALL",
+     "192": "REAGAN",
+     "193": "REAL",
+     "194": "RED RIVER",
+     "195": "REEVES",
+     "196": "REFUGIO",
+     "197": "ROBERTS",
+     "198": "ROBERTSON",
+     "199": "ROCKWALL",
+     "2": "ANDREWS",
+     "20": "BRAZORIA",
+     "200": "RUNNELS",
+     "201": "RUSK",
+     "202": "SABINE",
+     "203": "SAN AUGUSTINE",
+     "204": "SAN JACINTO",
+     "205": "SAN PATRICIO",
+     "206": "SAN SABA",
+     "207": "SCHLEICHER",
+     "208": "SCURRY",
+     "209": "SHACKELFORD",
+     "21": "BRAZOS",
+     "210": "SHELBY",
+     "211": "SHERMAN",
+     "212": "SMITH",
+     "213": "SOMERVELL",
+     "214": "STARR",
+     "215": "STEPHENS",
+     "216": "STONEWALL",
+     "217": "SUTTON",
+     "218": "SWISHER",
+     "219": "TARRANT",
+     "22": "BREWSTER",
+     "220": "TAYLOR",
+     "221": "TERRELL",
+     "222": "TERRY",
+     "223": "THROCKMORTON",
+     "224": "TITUS",
+     "225": "TOM GREEN",
+     "226": "TRAVIS",
+     "227": "TRINITY",
+     "228": "TYLER",
+     "229": "UPSHUR",
+     "23": "BRISCOE",
+     "230": "UPTON",
+     "231": "UVALDE",
+     "232": "VAL VERDE",
+     "233": "VAN ZANDT",
+     "234": "VICTORIA",
+     "235": "WALKER",
+     "236": "WALLER",
+     "237": "WARD",
+     "238": "WASHINGTON",
+     "239": "WEBB",
+     "24": "BROOKS",
+     "240": "WHARTON",
+     "241": "WHEELER",
+     "242": "WICHITA",
+     "243": "WILBARGER",
+     "244": "WILLACY",
+     "245": "WILLIAMSON",
+     "246": "WILSON",
+     "247": "WINKLER",
+     "248": "WISE",
+     "249": "WOOD",
+     "25": "BROWN",
+     "250": "YOAKUM",
+     "251": "YOUNG",
+     "252": "ZAPATA",
+     "253": "ZAVALA",
+     "255": "STERLING",
+     "26": "BURLESON",
+     "27": "BURNET",
+     "28": "CALDWELL",
+     "29": "CALHOUN",
+     "3": "ANGELINA",
+     "30": "CALLAHAN",
+     "31": "CAMERON",
+     "32": "CAMP",
+     "33": "CARSON",
+     "34": "CASS",
+     "35": "CASTRO",
+     "36": "CHAMBERS",
+     "37": "CHEROKEE",
+     "38": "CHILDRESS",
+     "39": "CLAY",
+     "4": "ARANSAS",
+     "40": "COCHRAN",
+     "41": "COKE",
+     "42": "COLEMAN",
+     "43": "COLLIN",
+     "44": "COLLINGSWORTH",
+     "45": "COLORADO",
+     "46": "COMAL",
+     "47": "COMANCHE",
+     "48": "CONCHO",
+     "49": "COOKE",
+     "5": "ARCHER",
+     "50": "CORYELL",
+     "51": "COTTLE",
+     "52": "CRANE",
+     "53": "CROCKETT",
+     "54": "CROSBY",
+     "55": "CULBERSON",
+     "56": "DALLAM",
+     "57": "DALLAS",
+     "58": "DAWSON",
+     "59": "DEAF SMITH",
+     "6": "ARMSTRONG",
+     "60": "DELTA",
+     "61": "DENTON",
+     "62": "DEWITT",
+     "63": "DICKENS",
+     "64": "DIMMIT",
+     "65": "DONLEY",
+     "66": "DUVAL",
+     "67": "EASTLAND",
+     "68": "ECTOR",
+     "69": "EDWARDS",
+     "7": "ATASCOSA",
+     "70": "ELLIS",
+     "71": "EL PASO",
+     "72": "ERATH",
+     "73": "FALLS",
+     "74": "FANNIN",
+     "75": "FAYETTE",
+     "76": "FISHER",
+     "77": "FLOYD",
+     "78": "FOARD",
+     "79": "FORT BEND",
+     "8": "AUSTIN",
+     "80": "FRANKLIN",
+     "81": "FREESTONE",
+     "82": "FRIO",
+     "83": "GAINES",
+     "84": "GALVESTON",
+     "85": "GARZA",
+     "86": "GILLESPIE",
+     "87": "GLASSCOCK",
+     "88": "GOLIAD",
+     "89": "GONZALES",
+     "9": "BAILEY",
+     "90": "GRAY",
+     "91": "GRAYSON",
+     "92": "GREGG",
+     "93": "GRIMES",
+     "94": "GUADALUPE",
+     "95": "HALE",
+     "96": "HALL",
+     "97": "HAMILTON",
+     "98": "HANSFORD",
+     "99": "HARDEMAN"
+    },
+    "zero": "TEXAS^TX^48^^1^1"
+   },
+   "49": {
+    "county": {
+     "1": "SALT LAKE",
+     "10": "TOOELE",
+     "11": "CARBON",
+     "12": "MILLARD",
+     "13": "UINTAH",
+     "14": "DAGGETT",
+     "15": "MORGAN",
+     "16": "UTAH",
+     "17": "DAVIS",
+     "18": "PIUTE",
+     "19": "WASATCH",
+     "2": "BEAVER",
+     "20": "DUCHESNE",
+     "21": "RICH",
+     "22": "WASHINGTON",
+     "23": "EMERY",
+     "24": "WAYNE",
+     "25": "GARFIELD",
+     "26": "SAN JUAN",
+     "27": "WEBER",
+     "28": "GRAND",
+     "29": "SANPETE",
+     "3": "IRON",
+     "4": "SEVIER",
+     "5": "BOX ELDER",
+     "6": "JUAB",
+     "7": "SUMMIT",
+     "8": "CACHE",
+     "9": "KANE"
+    },
+    "zero": "UTAH^UT^49^^1^1"
+   },
+   "5": {
+    "county": {
+     "1": "ARKANSAS",
+     "10": "CLARK",
+     "11": "CLAY",
+     "12": "CLEBURNE",
+     "13": "CLEVELAND",
+     "14": "COLUMBIA",
+     "15": "CONWAY",
+     "16": "CRAIGHEAD",
+     "17": "CRAWFORD",
+     "18": "CRITTENDEN",
+     "19": "CROSS",
+     "2": "ASHLEY",
+     "20": "DALLAS",
+     "21": "DESHA",
+     "22": "DREW",
+     "23": "FAULKNER",
+     "24": "FRANKLIN",
+     "25": "FULTON",
+     "26": "GARLAND",
+     "27": "GRANT",
+     "28": "GREENE",
+     "29": "HEMPSTEAD",
+     "3": "BAXTER",
+     "30": "HOT SPRING",
+     "31": "HOWARD",
+     "32": "INDEPENDENCE",
+     "33": "IZARD",
+     "34": "JACKSON",
+     "35": "JEFFERSON",
+     "36": "JOHNSON",
+     "37": "LAFAYETTE",
+     "38": "LAWRENCE",
+     "39": "LEE",
+     "4": "BENTON",
+     "40": "LINCOLN",
+     "41": "LITTLE RIVER",
+     "42": "LOGAN",
+     "43": "LONOKE",
+     "44": "MADISON",
+     "45": "MARION",
+     "46": "MILLER",
+     "47": "MISSISSIPPI",
+     "48": "MONROE",
+     "49": "MONTGOMERY",
+     "5": "BOONE",
+     "50": "NEVADA",
+     "51": "NEWTON",
+     "52": "OUACHITA",
+     "53": "PERRY",
+     "54": "PHILLIPS",
+     "55": "PIKE",
+     "56": "POINSETT",
+     "57": "POLK",
+     "58": "POPE",
+     "59": "PRAIRIE",
+     "6": "BRADLEY",
+     "61": "RANDOLPH",
+     "62": "ST. FRANCIS",
+     "63": "SALINE",
+     "64": "SCOTT",
+     "65": "SEARCY",
+     "66": "SEBASTIAN",
+     "67": "SEVIER",
+     "68": "SHARP",
+     "69": "STONE",
+     "7": "CALHOUN",
+     "70": "UNION",
+     "71": "VAN BUREN",
+     "72": "WASHINGTON",
+     "73": "WHITE",
+     "74": "WOODRUFF",
+     "75": "YELL",
+     "76": "PULASKI",
+     "8": "CARROLL",
+     "9": "CHICOT"
+    },
+    "zero": "ARKANSAS^AR^05^^1^1"
+   },
+   "50": {
+    "county": {
+     "1": "ADDISON",
+     "10": "CHITTENDEN",
+     "11": "ORANGE",
+     "12": "WINDSOR",
+     "13": "ESSEX",
+     "14": "ORLEANS",
+     "2": "FRANKLIN",
+     "3": "RUTLAND",
+     "4": "BENNINGTON",
+     "5": "GRAND ISLE",
+     "6": "WASHINGTON",
+     "7": "CALEDONIA",
+     "8": "LAMOILLE",
+     "9": "WINDHAM"
+    },
+    "zero": "VERMONT^VT^50^^1^1"
+   },
+   "51": {
+    "county": {
+     "10": "MATHEWS",
+     "100": "FREDERICKSBURG (CITY)",
+     "101": "RADFORD (CITY)",
+     "102": "BRISTOL (CITY)",
+     "103": "GALAX (CITY)",
+     "104": "BUENA VISTA (CITY)",
+     "105": "HAMPTON (CITY)",
+     "106": "CHARLOTTESVILLE (CITY)",
+     "107": "HARRISONBURG (CITY)",
+     "108": "SALEM (CITY)",
+     "109": "CHESAPEAKE (CITY)",
+     "11": "AMELIA",
+     "110": "HOPEWELL (CITY)",
+     "111": "SOUTH BOSTON (IC)",
+     "112": "CLIFTON FORGE (CITY)",
+     "113": "LEXINGTON (CITY)",
+     "114": "STAUNTON (CITY)",
+     "115": "COLONIAL HEIGHTS (CITY)",
+     "116": "LYNCHBURG (CITY)",
+     "117": "SUFFOLK (CITY)",
+     "118": "COVINGTON (CITY)",
+     "119": "MARTINSVILLE (CITY)",
+     "12": "FLOYD",
+     "120": "VIRGINIA BEACH (CITY)",
+     "121": "DANVILLE (CITY)",
+     "122": "NEWPORT NEWS (CITY)",
+     "123": "WAYNESBORO (CITY)",
+     "124": "EMPORIA (CITY)",
+     "125": "NORFOLK (CITY)",
+     "126": "WILLIAMSBURG (CITY)",
+     "127": "NORTON (CITY)",
+     "128": "WINCHESTER (CITY)",
+     "129": "FALLS CHURCH (CITY)",
+     "13": "MECKLENBURG",
+     "130": "PETERSBURG (CITY)",
+     "131": "RICHMOND",
+     "132": "ROANOKE",
+     "133": "ROANOKE (CITY)",
+     "134": "ALBEMARLE",
+     "135": "BEDFORD",
+     "136": "FAIRFAX",
+     "137": "FRANKLIN",
+     "138": "MANASSAS (CITY)",
+     "139": "MANASSAS PARK (CITY)",
+     "14": "AMHERST",
+     "140": "POQUOSON (CITY)",
+     "15": "FLUVANNA",
+     "16": "MIDDLESEX",
+     "17": "APPOMATTOX",
+     "18": "FRANKLIN (CITY)",
+     "19": "MONTGOMERY",
+     "2": "ACCOMACK",
+     "20": "ARLINGTON",
+     "21": "FREDERICK",
+     "22": "INDEPENDENT CITY NANSEMOND",
+     "23": "AUGUSTA",
+     "24": "GILES",
+     "25": "NELSON",
+     "26": "BATH",
+     "27": "GLOUCESTER",
+     "28": "NEW KENT",
+     "29": "BEDFORD (CITY)",
+     "3": "ESSEX",
+     "30": "GOOCHLAND",
+     "31": "NORTHAMPTON",
+     "32": "BLAND",
+     "33": "GRAYSON",
+     "34": "NORTHUMBERLAND",
+     "35": "BOTETOURT",
+     "36": "GREENE",
+     "37": "NOTTOWAY",
+     "38": "BRUNSWICK",
+     "39": "GREENSVILLE",
+     "4": "LUNENBURG",
+     "40": "ORANGE",
+     "41": "BUCHANAN",
+     "42": "HALIFAX",
+     "43": "PAGE",
+     "44": "BUCKINGHAM",
+     "45": "HANOVER",
+     "46": "PATRICK",
+     "47": "CAMPBELL",
+     "48": "HENRICO",
+     "49": "PITTSYLVANIA",
+     "50": "CAROLINE",
+     "51": "HENRY",
+     "52": "POWHATAN",
+     "53": "CARROLL",
+     "54": "HIGHLAND",
+     "55": "PRINCE EDWARD",
+     "56": "CHARLES CITY",
+     "57": "ISLE OF WIGHT",
+     "58": "PRINCE GEORGE",
+     "59": "CHARLOTTE",
+     "6": "FAIRFAX (CITY)",
+     "60": "JAMES CITY",
+     "61": "PRINCE WILLIAM",
+     "62": "CHESTERFIELD",
+     "63": "KING AND QUEEN",
+     "64": "PULASKI",
+     "65": "CLARKE",
+     "66": "KING GEORGE",
+     "67": "RAPPAHANNOCK",
+     "68": "CRAIG",
+     "69": "KING WILLIAM",
+     "7": "MADISON",
+     "70": "RICHMOND (CITY)",
+     "71": "CULPEPER",
+     "72": "LANCASTER",
+     "74": "CUMBERLAND",
+     "75": "LEE",
+     "76": "ROCKBRIDGE",
+     "77": "DICKENSON",
+     "78": "LOUDOUN",
+     "79": "ROCKINGHAM",
+     "8": "ALLEGHANY",
+     "80": "DINWIDDIE",
+     "81": "LOUISA",
+     "82": "RUSSELL",
+     "83": "SCOTT",
+     "84": "STAFFORD",
+     "85": "WASHINGTON",
+     "86": "SHENANDOAH",
+     "87": "SURRY",
+     "88": "WESTMORELAND",
+     "89": "SMYTH",
+     "9": "FAUQUIER",
+     "90": "SUSSEX",
+     "91": "WISE",
+     "92": "SOUTHAMPTON",
+     "93": "TAZEWELL",
+     "94": "WYTHE",
+     "95": "SPOTSYLVANIA",
+     "96": "WARREN",
+     "97": "YORK",
+     "98": "ALEXANDRIA (CITY)",
+     "99": "PORTSMOUTH (CITY)"
+    },
+    "zero": "VIRGINIA^VA^51^^1^1"
+   },
+   "53": {
+    "county": {
+     "1": "KING",
+     "10": "BENTON",
+     "11": "JEFFERSON",
+     "12": "SKAGIT",
+     "13": "CHELAN",
+     "14": "SKAMANIA",
+     "15": "CLALLAM",
+     "16": "KITSAP",
+     "17": "SNOHOMISH",
+     "18": "KITTITAS",
+     "19": "SPOKANE",
+     "2": "YAKIMA",
+     "20": "COLUMBIA",
+     "21": "KLICKITAT",
+     "22": "STEVENS",
+     "23": "COWLITZ",
+     "24": "LEWIS",
+     "25": "THURSTON",
+     "26": "DOUGLAS",
+     "27": "LINCOLN",
+     "28": "WAHKIAKUM",
+     "29": "FERRY",
+     "3": "CLARK",
+     "30": "MASON",
+     "31": "WALLA WALLA",
+     "32": "FRANKLIN",
+     "33": "OKANOGAN",
+     "34": "WHATCOM",
+     "35": "GARFIELD",
+     "36": "PACIFIC",
+     "37": "WHITMAN",
+     "38": "GRANT",
+     "39": "PEND OREILLE",
+     "4": "ADAMS",
+     "5": "GRAYS HARBOR",
+     "6": "PIERCE",
+     "7": "ASOTIN",
+     "8": "ISLAND",
+     "9": "SAN JUAN"
+    },
+    "zero": "WASHINGTON^WA^53^OLYMPIA^1^1"
+   },
+   "54": {
+    "county": {
+     "1": "OHIO",
+     "10": "FAYETTE",
+     "11": "HARRISON",
+     "12": "BRAXTON",
+     "13": "GILMER",
+     "14": "JACKSON",
+     "15": "BROOKE",
+     "16": "GRANT",
+     "17": "JEFFERSON",
+     "18": "CABELL",
+     "19": "GREENBRIER",
+     "20": "KANAWHA",
+     "21": "CALHOUN",
+     "22": "HAMPSHIRE",
+     "23": "LEWIS",
+     "24": "LINCOLN",
+     "25": "NICHOLAS",
+     "26": "SUMMERS",
+     "27": "LOGAN",
+     "28": "TAYLOR",
+     "29": "MCDOWELL",
+     "3": "BARBOUR",
+     "30": "PENDLETON",
+     "31": "TUCKER",
+     "32": "MARION",
+     "33": "PLEASANTS",
+     "34": "TYLER",
+     "35": "MARSHALL",
+     "36": "POCAHONTAS",
+     "37": "UPSHUR",
+     "38": "MASON",
+     "39": "PRESTON",
+     "4": "CLAY",
+     "40": "WAYNE",
+     "41": "MERCER",
+     "42": "PUTNAM",
+     "43": "WEBSTER",
+     "44": "MINERAL",
+     "45": "RALEIGH",
+     "46": "WETZEL",
+     "47": "MINGO",
+     "48": "RANDOLPH",
+     "49": "WIRT",
+     "5": "HANCOCK",
+     "50": "MONONGALIA",
+     "51": "RITCHIE",
+     "52": "WOOD",
+     "53": "MONROE",
+     "54": "ROANE",
+     "55": "WYOMING",
+     "56": "MORGAN",
+     "6": "BERKELEY",
+     "7": "DODDRIDGE",
+     "8": "HARDY",
+     "9": "BOONE"
+    },
+    "zero": "WEST VIRGINIA^WV^54^^1^1"
+   },
+   "55": {
+    "county": {
+     "1": "JEFFERSON",
+     "10": "PRICE",
+     "11": "BAYFIELD",
+     "12": "RACINE",
+     "13": "BROWN",
+     "14": "JUNEAU",
+     "15": "RICHLAND",
+     "16": "BUFFALO",
+     "17": "KENOSHA",
+     "18": "ROCK",
+     "19": "BURNETT",
+     "2": "ADAMS",
+     "20": "KEWAUNEE",
+     "21": "RUSK",
+     "22": "CALUMET",
+     "23": "LA CROSSE",
+     "24": "ST. CROIX",
+     "25": "CHIPPEWA",
+     "26": "LAFAYETTE",
+     "27": "SAUK",
+     "28": "CLARK",
+     "29": "LANGLADE",
+     "3": "IOWA",
+     "30": "SAWYER",
+     "31": "COLUMBIA",
+     "32": "LINCOLN",
+     "33": "SHAWANO",
+     "34": "CRAWFORD",
+     "35": "MANITOWOC",
+     "36": "SHEBOYGAN",
+     "37": "DANE",
+     "38": "MARATHON",
+     "39": "TAYLOR",
+     "4": "POLK",
+     "40": "DODGE",
+     "41": "MARINETTE",
+     "42": "TREMPEALEAU",
+     "43": "DOOR",
+     "44": "MARQUETTE",
+     "45": "VERNON",
+     "46": "DOUGLAS",
+     "47": "MENOMINEE",
+     "48": "VILAS",
+     "49": "DUNN",
+     "5": "ASHLAND",
+     "50": "MILWAUKEE",
+     "51": "WALWORTH",
+     "52": "EAU CLAIRE",
+     "53": "MONROE",
+     "54": "WASHBURN",
+     "55": "FLORENCE",
+     "56": "OCONTO",
+     "57": "WASHINGTON",
+     "58": "FOND DU LAC",
+     "59": "ONEIDA",
+     "6": "IRON",
+     "60": "WAUKESHA",
+     "61": "FOREST",
+     "62": "OUTAGAMIE",
+     "63": "WAUPACA",
+     "64": "GRANT",
+     "65": "OZAUKEE",
+     "66": "WAUSHARA",
+     "67": "GREEN",
+     "68": "PEPIN",
+     "69": "WINNEBAGO",
+     "7": "PORTAGE",
+     "70": "GREEN LAKE",
+     "71": "PIERCE",
+     "72": "WOOD",
+     "8": "BARRON",
+     "9": "JACKSON"
+    },
+    "zero": "WISCONSIN^WI^55^^1^1"
+   },
+   "56": {
+    "county": {
+     "1": "ALBANY",
+     "10": "CARBON",
+     "11": "JOHNSON",
+     "12": "PLATTE",
+     "13": "CONVERSE",
+     "14": "LARAMIE",
+     "15": "SHERIDAN",
+     "16": "CROOK",
+     "17": "LINCOLN",
+     "18": "SUBLETTE",
+     "19": "SWEETWATER",
+     "2": "FREMONT",
+     "20": "UINTA",
+     "21": "WESTON",
+     "22": "TETON",
+     "23": "WASHAKIE",
+     "3": "NATRONA",
+     "4": "BIG HORN",
+     "5": "GOSHEN",
+     "6": "NIOBRARA",
+     "7": "CAMPBELL",
+     "8": "HOT SPRINGS",
+     "9": "PARK"
+    },
+    "zero": "WYOMING^WY^56^^1^1"
+   },
+   "6": {
+    "county": {
+     "1": "FRESNO",
+     "10": "BUTTE",
+     "11": "CALAVERAS",
+     "12": "COLUSA",
+     "13": "CONTRA COSTA",
+     "14": "DEL NORTE",
+     "15": "EL DORADO",
+     "16": "GLENN",
+     "17": "HUMBOLDT",
+     "18": "IMPERIAL",
+     "19": "INYO",
+     "20": "KERN",
+     "21": "KINGS",
+     "22": "LAKE",
+     "23": "LASSEN",
+     "24": "LOS ANGELES",
+     "25": "MADERA",
+     "26": "MARIN",
+     "27": "MARIPOSA",
+     "28": "MENDOCINO",
+     "29": "MERCED",
+     "3": "ORANGE",
+     "30": "MODOC",
+     "31": "MONO",
+     "32": "MONTEREY",
+     "33": "NAPA",
+     "34": "NEVADA",
+     "35": "PLACER",
+     "36": "PLUMAS",
+     "37": "RIVERSIDE",
+     "38": "SACRAMENTO",
+     "39": "SAN BENITO",
+     "4": "SAN DIEGO",
+     "40": "SAN BERNARDINO",
+     "41": "SAN FRANCISCO",
+     "42": "SAN JOAQUIN",
+     "43": "SAN LUIS OBISPO",
+     "44": "SAN MATEO",
+     "45": "SANTA BARBARA",
+     "46": "SANTA CRUZ",
+     "47": "SHASTA",
+     "48": "SIERRA",
+     "49": "SISKIYOU",
+     "5": "SANTA CLARA",
+     "50": "SOLANO",
+     "51": "SONOMA",
+     "52": "STANISLAUS",
+     "53": "SUTTER",
+     "54": "TEHAMA",
+     "55": "TRINITY",
+     "56": "TULARE",
+     "57": "TUOLUMNE",
+     "58": "VENTURA",
+     "59": "YOLO",
+     "60": "YUBA",
+     "7": "ALAMEDA",
+     "8": "ALPINE",
+     "9": "AMADOR"
+    },
+    "zero": "CALIFORNIA^CA^06^SACRAMENTO^1^1"
+   },
+   "60": {
+    "county": {
+     "1": "EASTERN (DISTRICT)",
+     "2": "MANU'A (DISTRICT)",
+     "3": "ROSE ISLAND",
+     "4": "SWAINS ISLAND",
+     "5": "WESTERN (DISTRICT)",
+     "6": "ALL OTHER"
+    },
+    "zero": "AMERICAN SAMOA^AS^60^^1^1"
+   },
+   "64": {
+    "county": {
+     "1": "CHUUK",
+     "2": "KOSRAE",
+     "3": "POHNPEI",
+     "4": "YAP",
+     "5": "FEDERATED STATES OF MICRO"
+    },
+    "zero": "FEDERATED STATES OF MICRONESIA^FM^64^^1^1"
+   },
+   "66": {
+    "county": {
+     "1": "999",
+     "2": "GUAM"
+    },
+    "zero": "GUAM^GU^66^^1^1"
+   },
+   "68": {
+    "county": {
+     "1": "AILINGINAE",
+     "10": "ENEWETAK",
+     "11": "ERIKUB",
+     "12": "JABAT",
+     "13": "JALUIT",
+     "14": "JEMO",
+     "15": "KILI",
+     "16": "KWAJALEIN",
+     "17": "LAE",
+     "18": "LIB",
+     "19": "LIKIEP",
+     "2": "AILINGLAPLAP",
+     "20": "MAJURO",
+     "21": "MALOELAP",
+     "22": "MEJIT",
+     "23": "MILI",
+     "24": "NAMORIK",
+     "25": "NAMU",
+     "26": "RONGELAP",
+     "27": "RONGRIK",
+     "28": "TOKE",
+     "29": "UJAE",
+     "3": "AILUK",
+     "30": "UJELANG",
+     "31": "UTRIK",
+     "32": "WOTHO",
+     "33": "WOTJE",
+     "34": "MARSHALL ISLANDS",
+     "4": "ARNO",
+     "5": "AUR",
+     "6": "BIKAR",
+     "7": "BIKINI",
+     "8": "BOKAK",
+     "9": "EBON"
+    },
+    "zero": "MARSHALL ISLANDS^MH^68^^1^1"
+   },
+   "69": {
+    "county": {
+     "1": "NORTHERN ISLANDS",
+     "2": "ROTA",
+     "3": "SAIPAN",
+     "4": "TINIAN",
+     "5": "NORTHERN MARIANA ISLANDS"
+    },
+    "zero": "NORTHERN MARIANA ISLANDS^MP^69^^1^1"
+   },
+   "70": {
+    "county": {
+     "1": "AIMELIIK",
+     "10": "NGAREMLENGUI",
+     "11": "NGATPANG",
+     "12": "NGCHESAR",
+     "13": "NGIWAL",
+     "14": "PELELIU",
+     "15": "SONSOROL",
+     "16": "HATOBOHEI",
+     "17": "NGEREMLENGUI",
+     "18": "PALAU",
+     "2": "AIRAI",
+     "3": "ANGAUR",
+     "4": "KAYANGEL",
+     "5": "KOROR",
+     "6": "MELEKEOK",
+     "7": "NGARAARD",
+     "8": "NGARCHELONG",
+     "9": "NGARDMAU"
+    },
+    "zero": "PALAU^PW^70^^1^0"
+   },
+   "72": {
+    "county": {
+     "1": "999",
+     "10": "ARECIBO",
+     "11": "ARROYO",
+     "12": "BARCELONETA",
+     "13": "BARRANQUITAS",
+     "14": "BAYAMON",
+     "15": "CABO ROJO",
+     "16": "CAGUAS",
+     "17": "CAMUY",
+     "18": "CANOVANAS",
+     "19": "CAROLINA",
+     "2": "CULEBRA",
+     "20": "CATANO",
+     "21": "CAYEY",
+     "22": "CEIBA",
+     "23": "CIALES",
+     "24": "CIDRA",
+     "25": "COAMO",
+     "26": "COMERIO",
+     "27": "COROZAL",
+     "28": "DORADO",
+     "29": "FAJARDO",
+     "3": "VIEQUES",
+     "30": "FLORIDA",
+     "31": "GUANICA",
+     "32": "GUAYAMA",
+     "33": "GUAYANILLA",
+     "34": "GUAYNABO",
+     "35": "GURABO",
+     "36": "HATILLO",
+     "37": "HORMIGUEROS",
+     "38": "HUMACAO",
+     "39": "ISABELA",
+     "4": "ADJUNTAS",
+     "40": "JAYUYA",
+     "41": "JUANA DIAZ",
+     "42": "JUNCOS",
+     "43": "LAJAS",
+     "44": "LARES",
+     "45": "LAS MARIAS",
+     "46": "LAS PIEDRAS",
+     "47": "LOIZA",
+     "48": "LUQUILLO",
+     "49": "MANATI",
+     "5": "AGUADA",
+     "50": "MARICAO",
+     "51": "MAUNABO",
+     "52": "MAYAGUEZ",
+     "53": "MOCA",
+     "54": "MOROVIS",
+     "55": "NAGUABO",
+     "56": "NARANJITO",
+     "57": "OROCOVIS",
+     "58": "PATILLAS",
+     "59": "PENUELAS",
+     "6": "AGUADILLA",
+     "60": "PONCE",
+     "61": "QUEBRADILLAS",
+     "62": "RINCON",
+     "63": "RIO GRANDE",
+     "64": "SABANA GRANDE",
+     "65": "SALINAS",
+     "66": "SAN GERMAN",
+     "67": "SAN LORENZO",
+     "68": "SAN SEBASTIAN",
+     "69": "SANTA ISABEL",
+     "7": "AGUAS BUENAS",
+     "70": "TOA ALTA",
+     "71": "TOA BAJA",
+     "72": "TRUJILLO ALTO",
+     "73": "UTUADO",
+     "74": "VEGA ALTA",
+     "75": "VEGA BAJA",
+     "76": "VILLALBA",
+     "77": "YABUCOA",
+     "78": "YAUCO",
+     "79": "SAN JUAN",
+     "8": "AIBONITO",
+     "9": "ANASCO"
+    },
+    "zero": "PUERTO RICO^PR^72^^1^1"
+   },
+   "74": {
+    "county": {
+     "1": "JOHNSTON ISLAND",
+     "10": "ALL OTHER",
+     "2": "MIDWAY ISLANDS",
+     "3": "WAKE ISLAND",
+     "4": "NAVASSA ISLAND",
+     "5": "BAKER ISLAND",
+     "6": "HOWLAND ISLAND",
+     "7": "JARVIS ISLAND",
+     "8": "KINGMAN REEF",
+     "9": "PALMYRA ATOLL"
+    },
+    "zero": "U.S. MINOR OUTLYING ISLANDS^UM^74^^1^1"
+   },
+   "78": {
+    "county": {
+     "1": "999",
+     "2": "ST. CROIX",
+     "3": "ST. JOHN",
+     "4": "ST. THOMAS",
+     "5": "ALL OTHER"
+    },
+    "zero": "VIRGIN ISLANDS^VI^78^^1^1"
+   },
+   "8": {
+    "county": {
+     "1": "LAS ANIMAS",
+     "10": "CHAFFEE",
+     "11": "CHEYENNE",
+     "12": "CLEAR CREEK",
+     "13": "CONEJOS",
+     "14": "COSTILLA",
+     "15": "CROWLEY",
+     "16": "CUSTER",
+     "17": "DELTA",
+     "18": "DENVER",
+     "19": "DOLORES",
+     "2": "BOULDER",
+     "20": "DOUGLAS",
+     "21": "EAGLE",
+     "22": "ELBERT",
+     "23": "EL PASO",
+     "24": "FREMONT",
+     "25": "MONTROSE",
+     "26": "GARFIELD",
+     "27": "MORGAN",
+     "28": "GILPIN",
+     "29": "OTERO",
+     "3": "PUEBLO",
+     "30": "GRAND",
+     "31": "OURAY",
+     "32": "GUNNISON",
+     "33": "PARK",
+     "34": "HINSDALE",
+     "35": "PHILLIPS",
+     "36": "HUERFANO",
+     "37": "PITKIN",
+     "38": "JACKSON",
+     "39": "PROWERS",
+     "4": "ADAMS",
+     "40": "JEFFERSON",
+     "41": "KIOWA",
+     "42": "RIO BLANCO",
+     "43": "KIT CARSON",
+     "44": "RIO GRANDE",
+     "45": "LAKE",
+     "46": "ROUTT",
+     "47": "LA PLATA",
+     "48": "SAGUACHE",
+     "49": "LARIMER",
+     "5": "ALAMOSA",
+     "50": "SAN JUAN",
+     "51": "SAN MIGUEL",
+     "52": "LINCOLN",
+     "53": "SEDGWICK",
+     "54": "LOGAN",
+     "55": "SUMMIT",
+     "56": "MESA",
+     "57": "TELLER",
+     "58": "MINERAL",
+     "59": "WASHINGTON",
+     "6": "ARAPAHOE",
+     "60": "MOFFAT",
+     "61": "WELD",
+     "62": "MONTEZUMA",
+     "63": "YUMA",
+     "64": "BROOMFIELD",
+     "7": "ARCHULETA",
+     "8": "BACA",
+     "9": "BENT"
+    },
+    "zero": "COLORADO^CO^08^^1^1"
+   },
+   "9": {
+    "county": {
+     "1": "NEW LONDON",
+     "2": "LITCHFIELD",
+     "3": "FAIRFIELD",
+     "4": "MIDDLESEX",
+     "5": "TOLLAND",
+     "6": "HARTFORD",
+     "7": "NEW HAVEN",
+     "8": "WINDHAM"
+    },
+    "zero": "CONNECTICUT^CT^09^HARTFORD^1^1"
+   },
+   "90": {
+    "county": {
+     "1": "ALL OTHER FOREIGN"
+    },
+    "zero": "FOREIGN COUNTRY^FG^90^^1^0"
+   },
+   "91": {
+    "county": {
+     "1": "260",
+     "2": "595",
+     "3": "CANADA",
+     "4": "MEXICO"
+    },
+    "zero": "MEXICO^MX^92^^1^0"
+   },
+   "93": {
+    "county": {
+     "1": "999",
+     "2": "EUROPE"
+    },
+    "zero": "EUROPE^EU^93^^1^0"
+   },
+   "96": {
+    "county": {
+     "1": "725",
+     "2": "PHILIPINES"
+    },
+    "zero": "PHILIPPINES^PH^96^^1^0"
+   },
+   "98": {
+    "county": {
+     "1": "CANADA"
+    },
+    "zero": "CANADA^CANAD^91^^0^0"
+   },
+   "99": {
+    "county": {
+     "1": "QUEBEC"
+    },
+    "zero": "QUEBEC^QC^80^^1^0"
+   }
+  },
+  "file": "5",
+  "source": "Packages/Kernel/Globals/5+STATE.zwr"
+ }
+}

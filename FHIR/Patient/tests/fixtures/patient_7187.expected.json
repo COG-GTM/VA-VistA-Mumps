@@ -1,0 +1,748 @@
+{
+  "resourceType": "Patient",
+  "id": "7187",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+    ],
+    "security": [
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v3-ActReason",
+        "code": "HTEST",
+        "display": "test health data"
+      }
+    ]
+  },
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-race",
+      "extension": [
+        {
+          "url": "ombCategory",
+          "valueCoding": {
+            "system": "urn:oid:2.16.840.1.113883.6.238",
+            "code": "2028-9",
+            "display": "Asian"
+          }
+        },
+        {
+          "url": "ombCategory",
+          "valueCoding": {
+            "system": "urn:oid:2.16.840.1.113883.6.238",
+            "code": "2106-3",
+            "display": "White"
+          }
+        },
+        {
+          "url": "text",
+          "valueString": "ASIAN, WHITE"
+        }
+      ]
+    },
+    {
+      "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-ethnicity",
+      "extension": [
+        {
+          "url": "ombCategory",
+          "valueCoding": {
+            "system": "urn:oid:2.16.840.1.113883.6.238",
+            "code": "2186-5",
+            "display": "Not Hispanic Or Latino"
+          }
+        },
+        {
+          "url": "text",
+          "valueString": "NOT HISPANIC OR LATINO"
+        }
+      ]
+    },
+    {
+      "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-genderIdentity",
+      "valueCodeableConcept": {
+        "coding": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "446141000124107",
+            "display": "Identifies as female gender (finding)"
+          }
+        ],
+        "text": "Female"
+      }
+    },
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/patient-birthPlace",
+      "valueAddress": {
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "country": "USA"
+      }
+    },
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/patient-mothersMaidenName",
+      "valueString": "SMITH,ANNE"
+    },
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/patient-religion",
+      "valueCodeableConcept": {
+        "text": "BAPTIST"
+      }
+    }
+  ],
+  "identifier": [
+    {
+      "use": "usual",
+      "type": {
+        "coding": [
+          {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+            "code": "MR",
+            "display": "Medical record number"
+          }
+        ]
+      },
+      "system": "urn:va:dfn:500",
+      "value": "7187"
+    },
+    {
+      "use": "official",
+      "type": {
+        "coding": [
+          {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+            "code": "NI",
+            "display": "National unique individual identifier"
+          }
+        ]
+      },
+      "system": "http://va.gov/mpi",
+      "value": "1008520438V882204"
+    },
+    {
+      "use": "official",
+      "type": {
+        "coding": [
+          {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+            "code": "SS",
+            "display": "Social Security number"
+          }
+        ]
+      },
+      "system": "http://hl7.org/fhir/sid/us-ssn",
+      "value": "000001234"
+    },
+    {
+      "use": "secondary",
+      "type": {
+        "coding": [
+          {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+            "code": "MA",
+            "display": "Patient Medicaid number"
+          }
+        ]
+      },
+      "system": "urn:va:medicaid-number",
+      "value": "CA1234567"
+    },
+    {
+      "use": "secondary",
+      "type": {
+        "text": "VA claim number"
+      },
+      "system": "urn:va:claim-number",
+      "value": "C12345678"
+    },
+    {
+      "use": "secondary",
+      "type": {
+        "coding": [
+          {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+            "code": "MI",
+            "display": "Military ID number"
+          }
+        ]
+      },
+      "system": "urn:va:military-service-number",
+      "value": "RA11111111"
+    },
+    {
+      "use": "secondary",
+      "type": {
+        "coding": [
+          {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+            "code": "MI",
+            "display": "Military ID number"
+          }
+        ]
+      },
+      "system": "urn:va:military-service-number",
+      "value": "RA22222222"
+    },
+    {
+      "use": "secondary",
+      "type": {
+        "coding": [
+          {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+            "code": "MI",
+            "display": "Military ID number"
+          }
+        ]
+      },
+      "system": "urn:va:military-service-number",
+      "value": "RA33333333"
+    },
+    {
+      "use": "temp",
+      "system": "urn:va:mpi:temporary-id",
+      "value": "TMP123"
+    },
+    {
+      "use": "secondary",
+      "system": "urn:va:mpi:foreign-id",
+      "value": "FRN456"
+    },
+    {
+      "use": "old",
+      "type": {
+        "coding": [
+          {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+            "code": "NI",
+            "display": "National unique individual identifier"
+          }
+        ]
+      },
+      "system": "http://va.gov/mpi",
+      "value": "1008500000V123456"
+    }
+  ],
+  "name": [
+    {
+      "use": "official",
+      "text": "FHIRTEST,JANE QUINN JR",
+      "family": "FHIRTEST",
+      "given": [
+        "JANE",
+        "QUINN"
+      ],
+      "suffix": [
+        "JR"
+      ]
+    },
+    {
+      "use": "usual",
+      "text": "JANIE",
+      "given": [
+        "JANIE"
+      ]
+    },
+    {
+      "use": "old",
+      "text": "FHIRTEST,JANIE",
+      "family": "FHIRTEST",
+      "given": [
+        "JANIE"
+      ]
+    }
+  ],
+  "telecom": [
+    {
+      "system": "phone",
+      "value": "916-555-0101",
+      "use": "home"
+    },
+    {
+      "system": "phone",
+      "value": "916-555-0102",
+      "use": "work"
+    },
+    {
+      "system": "phone",
+      "value": "916-555-0103",
+      "use": "mobile"
+    },
+    {
+      "system": "pager",
+      "value": "916-555-0104"
+    },
+    {
+      "system": "email",
+      "value": "jane.fhirtest@example.org"
+    },
+    {
+      "system": "phone",
+      "value": "775-555-0100",
+      "use": "temp",
+      "period": {
+        "start": "2024-10-01",
+        "end": "2024-12-31"
+      }
+    },
+    {
+      "system": "phone",
+      "value": "503-555-0199",
+      "use": "temp",
+      "period": {
+        "start": "2024-01-01",
+        "end": "2025-12-31"
+      }
+    }
+  ],
+  "gender": "female",
+  "birthDate": "1975-04-12",
+  "address": [
+    {
+      "use": "home",
+      "type": "postal",
+      "line": [
+        "123 MAIN ST",
+        "APT 4",
+        "BLDG C"
+      ],
+      "city": "SACRAMENTO",
+      "district": "SACRAMENTO",
+      "state": "CA",
+      "postalCode": "95814-1234",
+      "country": "USA"
+    },
+    {
+      "use": "home",
+      "type": "physical",
+      "line": [
+        "456 OAK AVE",
+        "UNIT 2",
+        "REAR"
+      ],
+      "city": "DAVIS",
+      "district": "YOLO",
+      "state": "CA",
+      "postalCode": "95616-0000",
+      "country": "USA"
+    },
+    {
+      "use": "temp",
+      "line": [
+        "789 PINE RD",
+        "STE 100",
+        "FLOOR 2"
+      ],
+      "city": "RENO",
+      "district": "WASHOE",
+      "state": "NV",
+      "postalCode": "89501-1111",
+      "country": "USA",
+      "period": {
+        "start": "2024-10-01",
+        "end": "2024-12-31"
+      }
+    },
+    {
+      "use": "temp",
+      "line": [
+        "PO BOX 99",
+        "C/O SMITH",
+        "DEPT 7"
+      ],
+      "city": "PORTLAND",
+      "district": "MULTNOMAH",
+      "state": "OR",
+      "postalCode": "97201",
+      "country": "USA",
+      "period": {
+        "start": "2024-01-01",
+        "end": "2025-12-31"
+      }
+    }
+  ],
+  "maritalStatus": {
+    "coding": [
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v3-MaritalStatus",
+        "code": "M",
+        "display": "Married"
+      }
+    ],
+    "text": "MARRIED"
+  },
+  "multipleBirthBoolean": false,
+  "contact": [
+    {
+      "relationship": [
+        {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0131",
+              "code": "N",
+              "display": "Next-of-Kin"
+            }
+          ]
+        },
+        {
+          "text": "HUSBAND"
+        }
+      ],
+      "name": {
+        "text": "FHIRTEST,JOHN A",
+        "family": "FHIRTEST",
+        "given": [
+          "JOHN",
+          "A"
+        ]
+      },
+      "telecom": [
+        {
+          "system": "phone",
+          "value": "916-555-0201",
+          "use": "home"
+        },
+        {
+          "system": "phone",
+          "value": "916-555-0202",
+          "use": "work"
+        }
+      ],
+      "address": {
+        "line": [
+          "123 MAIN ST",
+          "APT 4",
+          "BLDG C"
+        ],
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "postalCode": "95814-1234"
+      }
+    },
+    {
+      "relationship": [
+        {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0131",
+              "code": "N",
+              "display": "Next-of-Kin"
+            }
+          ]
+        },
+        {
+          "text": "MOTHER"
+        }
+      ],
+      "name": {
+        "text": "FHIRTEST,MARY",
+        "family": "FHIRTEST",
+        "given": [
+          "MARY"
+        ]
+      },
+      "telecom": [
+        {
+          "system": "phone",
+          "value": "559-555-0301",
+          "use": "home"
+        },
+        {
+          "system": "phone",
+          "value": "559-555-0302",
+          "use": "work"
+        }
+      ],
+      "address": {
+        "line": [
+          "1 ELM ST",
+          "UNIT 1",
+          "SIDE"
+        ],
+        "city": "FRESNO",
+        "state": "CA",
+        "postalCode": "93701-0001"
+      }
+    },
+    {
+      "relationship": [
+        {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0131",
+              "code": "C",
+              "display": "Emergency Contact"
+            }
+          ]
+        },
+        {
+          "text": "FRIEND"
+        }
+      ],
+      "name": {
+        "text": "DOE,RICHARD",
+        "family": "DOE",
+        "given": [
+          "RICHARD"
+        ]
+      },
+      "telecom": [
+        {
+          "system": "phone",
+          "value": "559-555-0401",
+          "use": "home"
+        },
+        {
+          "system": "phone",
+          "value": "559-555-0402",
+          "use": "work"
+        }
+      ],
+      "address": {
+        "line": [
+          "2 ELM ST",
+          "#2",
+          "BACK"
+        ],
+        "city": "FRESNO",
+        "state": "CA",
+        "postalCode": "93702-0002"
+      }
+    },
+    {
+      "relationship": [
+        {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0131",
+              "code": "C",
+              "display": "Emergency Contact"
+            }
+          ]
+        },
+        {
+          "text": "SISTER"
+        }
+      ],
+      "name": {
+        "text": "ROE,SALLY",
+        "family": "ROE",
+        "given": [
+          "SALLY"
+        ]
+      },
+      "telecom": [
+        {
+          "system": "phone",
+          "value": "559-555-0501",
+          "use": "home"
+        },
+        {
+          "system": "phone",
+          "value": "559-555-0502",
+          "use": "work"
+        }
+      ],
+      "address": {
+        "line": [
+          "3 ELM ST",
+          "#3",
+          "FRONT"
+        ],
+        "city": "FRESNO",
+        "state": "CA",
+        "postalCode": "93703-0003"
+      }
+    },
+    {
+      "relationship": [
+        {
+          "text": "DESIGNEE"
+        },
+        {
+          "text": "SON"
+        }
+      ],
+      "name": {
+        "text": "FHIRTEST,PAUL",
+        "family": "FHIRTEST",
+        "given": [
+          "PAUL"
+        ]
+      },
+      "telecom": [
+        {
+          "system": "phone",
+          "value": "559-555-0601",
+          "use": "home"
+        },
+        {
+          "system": "phone",
+          "value": "559-555-0602",
+          "use": "work"
+        }
+      ],
+      "address": {
+        "line": [
+          "4 ELM ST",
+          "#4",
+          "TOP"
+        ],
+        "city": "FRESNO",
+        "state": "CA",
+        "postalCode": "93704-0004"
+      }
+    },
+    {
+      "relationship": [
+        {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0131",
+              "code": "E",
+              "display": "Employer"
+            }
+          ]
+        }
+      ],
+      "telecom": [
+        {
+          "system": "phone",
+          "value": "916-555-0700",
+          "use": "work"
+        }
+      ],
+      "address": {
+        "line": [
+          "5 INDUSTRIAL WAY",
+          "BLDG 9",
+          "DOCK 3"
+        ],
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "postalCode": "95815-0005"
+      },
+      "organization": {
+        "display": "ACME CORP"
+      }
+    },
+    {
+      "relationship": [
+        {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v3-RoleCode",
+              "code": "GUARD",
+              "display": "guardian"
+            }
+          ],
+          "text": "VA GUARDIAN"
+        },
+        {
+          "text": "BROTHER"
+        }
+      ],
+      "name": {
+        "text": "GUARD,VERA",
+        "family": "GUARD",
+        "given": [
+          "VERA"
+        ]
+      },
+      "telecom": [
+        {
+          "system": "phone",
+          "value": "559-555-0800",
+          "use": "home"
+        }
+      ],
+      "address": {
+        "line": [
+          "6 ELM ST",
+          "#6"
+        ],
+        "city": "FRESNO",
+        "state": "CA",
+        "postalCode": "93706-0006"
+      },
+      "organization": {
+        "reference": "Organization/500"
+      }
+    },
+    {
+      "relationship": [
+        {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v3-RoleCode",
+              "code": "GUARD",
+              "display": "guardian"
+            }
+          ],
+          "text": "CIVIL GUARDIAN"
+        },
+        {
+          "text": "ATTORNEY"
+        }
+      ],
+      "name": {
+        "text": "GUARD,CARL",
+        "family": "GUARD",
+        "given": [
+          "CARL"
+        ]
+      },
+      "telecom": [
+        {
+          "system": "phone",
+          "value": "559-555-0900",
+          "use": "home"
+        }
+      ],
+      "address": {
+        "line": [
+          "7 ELM ST",
+          "#7"
+        ],
+        "city": "FRESNO",
+        "state": "CA",
+        "postalCode": "93707-0007"
+      },
+      "organization": {
+        "display": "FRESNO COUNTY COURT"
+      }
+    }
+  ],
+  "communication": [
+    {
+      "language": {
+        "text": "SPANISH",
+        "coding": [
+          {
+            "system": "urn:ietf:bcp:47",
+            "code": "es",
+            "display": "Spanish"
+          }
+        ]
+      },
+      "preferred": true
+    },
+    {
+      "language": {
+        "text": "ENGLISH",
+        "coding": [
+          {
+            "system": "urn:ietf:bcp:47",
+            "code": "en",
+            "display": "English"
+          }
+        ]
+      }
+    }
+  ],
+  "generalPractitioner": [
+    {
+      "reference": "Practitioner/1001"
+    }
+  ],
+  "managingOrganization": {
+    "reference": "Organization/500"
+  }
+}
