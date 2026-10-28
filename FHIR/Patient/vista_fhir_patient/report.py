@@ -98,7 +98,7 @@ def write_reports(out_dir: Path, dd_json: dict) -> None:
     (out_dir / "MAPPING.md").write_text("\n".join(lines), encoding="utf-8")
 
     with open(out_dir / "mapping.csv", "w", newline="", encoding="utf-8") as fh:
-        w = csv.writer(fh)
+        w = csv.writer(fh, lineterminator="\n")
         w.writerow(["file", "field", "name", "type", "storage", "status", "no_fhir_equivalent",
                     "fhir_element", "note", "dd_path", "dd_line", "dd_zero_node", "logic_citations"])
         for r in data:
